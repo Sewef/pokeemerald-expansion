@@ -423,7 +423,7 @@ static const u8 sText_FoePkmnPrefix3[] = _("ennemi");
 static const u8 sText_AllyPkmnPrefix2[] = _("ami");
 static const u8 sText_FoePkmnPrefix4[] = _("ennemi");
 static const u8 sText_AllyPkmnPrefix3[] = _("ami");
-static const u8 sText_AttackerUsedX[] = _("{B_ATK_NAME_WITH_PREFIX} utilise\n{B_BUFF3}");
+static const u8 sText_AttackerUsedX[] = _("{B_ATK_NAME_WITH_PREFIX} utilise\n{B_BUFF3}!");
 static const u8 sText_ExclamationMark[] = _("!");
 static const u8 sText_ExclamationMark2[] = _("!");
 static const u8 sText_ExclamationMark3[] = _("!");
@@ -2829,21 +2829,25 @@ static void GetBattlerNick(u32 battlerId, u8 *dst)
 }
 
 #define HANDLE_NICKNAME_STRING_CASE(battlerId)                          \
+    GetBattlerNick(battlerId, text);                                    \
     if (GetBattlerSide(battlerId) != B_SIDE_PLAYER)                     \
     {                                                                   \
-        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)                     \
-            toCpy = sText_FoePkmnPrefix;                                \
-        else                                                            \
-            toCpy = sText_WildPkmnPrefix;                               \
+        toCpy = text;                                                   \
         while (*toCpy != EOS)                                           \
         {                                                               \
             dst[dstID] = *toCpy;                                        \
             dstID++;                                                    \
             toCpy++;                                                    \
         }                                                               \
+        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)                     \
+            toCpy = sText_FoePkmnPrefix;                                \
+        else                                                            \
+            toCpy = sText_WildPkmnPrefix;                               \
     }                                                                   \
-    GetBattlerNick(battlerId, text);                                    \
-    toCpy = text;
+    else                                                                \
+    {                                                                   \
+        toCpy = text;                                                   \
+    }
 
 static const u8 *BattleStringGetOpponentNameByTrainerId(u16 trainerId, u8 *text, u8 multiplayerId, u8 battlerId)
 {
