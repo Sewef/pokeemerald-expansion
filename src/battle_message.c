@@ -3135,8 +3135,8 @@ u32 BattleStringExpandPlaceholders(const u8 *src, u8 *dst)
                             if ((gBattleScripting.multiplayerId != 0 && (gPotentialItemEffectBattler & BIT_SIDE))
                                 || (gBattleScripting.multiplayerId == 0 && !(gPotentialItemEffectBattler & BIT_SIDE)))
                             {
-                                StringCopy(text, gEnigmaBerries[gPotentialItemEffectBattler].name);
-                                StringAppend(text, sText_BerrySuffix);
+                                StringCopy(text, sText_BerrySuffix);
+                                StringAppend(text, gEnigmaBerries[gPotentialItemEffectBattler].name);
                                 toCpy = text;
                             }
                             else
@@ -3148,8 +3148,8 @@ u32 BattleStringExpandPlaceholders(const u8 *src, u8 *dst)
                         {
                             if (gLinkPlayers[gBattleScripting.multiplayerId].id == gPotentialItemEffectBattler)
                             {
-                                StringCopy(text, gEnigmaBerries[gPotentialItemEffectBattler].name);
-                                StringAppend(text, sText_BerrySuffix);
+                                StringCopy(text, sText_BerrySuffix);
+                                StringAppend(text, gEnigmaBerries[gPotentialItemEffectBattler].name);
                                 toCpy = text;
                             }
                             else
@@ -3554,8 +3554,8 @@ static void ExpandBattleTextBuffPlaceholders(const u8 *src, u8 *dst)
                 {
                     if (gLinkPlayers[gBattleScripting.multiplayerId].id == gPotentialItemEffectBattler)
                     {
-                        StringCopy(dst, gEnigmaBerries[gPotentialItemEffectBattler].name);
-                        StringAppend(dst, sText_BerrySuffix);
+                        StringCopy(dst, sText_BerrySuffix);
+                        StringAppend(dst, gEnigmaBerries[gPotentialItemEffectBattler].name);
                     }
                     else
                     {

@@ -9097,7 +9097,15 @@ static u32 ChangeStatBuffs(s8 statValue, u32 statId, u32 flags, const u8 *BS_ptr
                 statValue = -2;
             gBattleTextBuff2[0] = B_BUFF_PLACEHOLDER_BEGIN;
             index = 1;
-            if (statValue == -2)
+
+            if (statValue == -1)
+            {
+                gBattleTextBuff2[index] = B_BUFF_STRING;
+                gBattleTextBuff2[index] = STRINGID_STATFELL;
+                gBattleTextBuff2[index] = STRINGID_STATFELL >> 8;
+                index = 4;
+            }
+            else if (statValue == -2)
             {
                 gBattleTextBuff2[1] = B_BUFF_STRING;
                 gBattleTextBuff2[2] = STRINGID_STATHARSHLY;
@@ -9134,7 +9142,15 @@ static u32 ChangeStatBuffs(s8 statValue, u32 statId, u32 flags, const u8 *BS_ptr
             statValue = 2;
         gBattleTextBuff2[0] = B_BUFF_PLACEHOLDER_BEGIN;
         index = 1;
-        if (statValue == 2)
+
+        if (statValue == 1)
+        {
+            gBattleTextBuff2[1] = B_BUFF_STRING;
+            gBattleTextBuff2[2] = STRINGID_STATROSE;
+            gBattleTextBuff2[3] = STRINGID_STATROSE >> 8;
+            index = 4;
+        }
+        else if (statValue == 2)
         {
             gBattleTextBuff2[1] = B_BUFF_STRING;
             gBattleTextBuff2[2] = STRINGID_STATSHARPLY;
