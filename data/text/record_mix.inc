@@ -1,6 +1,6 @@
 Text_WouldYouLikeToMixRecords: @ 827260D
-	.string "Would you like to mix records with\n"
-	.string "other TRAINERS?$"
+	.string "Voulez-vous échanger vos données\n"
+	.string "avec d'autres DRESSEURS?$"
 
 Text_WeHopeToSeeYouAgain: @ 8272640
-	.string "We hope to see you again!$"
+	.string "A une prochaine fois peut-être!$"

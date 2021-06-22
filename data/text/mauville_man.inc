@@ -1,63 +1,63 @@
 @ Only contains a portion of the mauville_man text. The rest is in scripts/mauville_man.inc
 gText_SoPretty:: @ 8294295
-	.string " so pretty!$"
+	.string " vraiment bien!$"
 
 gText_SoDarling:: @ 82942A1
-	.string " so darling!$"
+	.string " vraiment adorable!$"
 
 gText_SoRelaxed:: @ 82942AE
-	.string " so relaxed!$"
+	.string " vraiment cool!$"
 
 gText_SoSunny:: @ 82942BB
-	.string " so sunny!$"
+	.string " extraordinaire!$"
 
 gText_SoDesirable:: @ 82942C6
-	.string " so desirable!$"
+	.string " vraiment fantastique!$"
 
 gText_SoExciting:: @ 82942D5
-	.string " so exciting!$"
+	.string " vraiment super!$"
 
 gText_SoAmusing:: @ 82942E3
-	.string " so amusing!$"
+	.string " vraiment drôle!$"
 
 gText_SoMagical:: @ 82942F0
-	.string " so magical!$"
+	.string " vraiment magique!$"
 
 gOtherText_Is:: @ 82942FD
-	.string " is$"
+	.string " est$"
 
 gOtherText_DontYouAgree:: @ 8294301
 	.string "\n"
-	.string "Don't you agree?$"
+	.string "Tu es d'accord?$"
 
 gMauvilleManText_ISoWantToGoOnAVacation:: @ 8294313
-	.string "I so want to go on a vacation.\n"
-	.string "Would you happen to know a nice place?$"
+	.string "J'ai vraiment envie d'aller en vacances.\n"
+	.string "Il y a un endroit sympa dans le coin?$"
 
 gMauvilleManText_IBoughtCrayonsWith120Colors:: @ 8294359
-	.string "I bought crayons with 120 colors!\n"
-	.string "Don't you think that's nice?$"
+	.string "J'ai acheté des crayons de 120 couleurs\n"
+	.string "différentes! Ils sont pas beaux?$"
 
 gMauvilleManText_WouldntItBeNiceIfWeCouldFloat:: @ 8294398
-	.string "Wouldn't it be nice if we could float\n"
-	.string "away on a cloud of bubbles?$"
+	.string "Ne serait-ce pas génial, si on pouvait\n"
+	.string "s'envoler sur un nuage de bulles?$"
 
 gMauvilleManText_WhenYouWriteOnASandyBeach:: @ 82943DA
-	.string "When you write on a sandy beach,\n"
-	.string "they wash away. It makes me sad.$"
+	.string "Quand on écrit sur du sable, tout est\n"
+	.string "effacé par les vagues. C'est triste.$"
 
 gMauvilleManText_WhatsTheBottomOfTheSeaLike:: @ 829441C
-	.string "What's the bottom of the sea like?\n"
-	.string "Just once I would so love to go!$"
+	.string "J'aimerais aller voir les fonds marins!\n"
+	.string "Ça doit être beau, tu crois pas?$"
 
 gMauvilleManText_WhenYouSeeTheSettingSunDoesIt:: @ 8294460
-	.string "When you see the setting sun, does it\n"
-	.string "make you want to go home?$"
+	.string "Les couchers de soleil, ça donne envie\n"
+	.string "de rentrer chez soi, non?$"
 
 gMauvilleManText_LyingBackInTheGreenGrass:: @ 82944A0
-	.string "Lying back in the green grass…\n"
-	.string "Oh, it's so, so nice!$"
+	.string "S'allonger sur de l'herbe bien verte…\n"
+	.string "Waouh, ça c'est super!$"
 
 gMauvilleManText_SecretBasesAreSoWonderful:: @ 82944D5
-	.string "SECRET BASES are so wonderful!\n"
-	.string "Can't you feel the excitement?$"
+	.string "Les BASES SECRETES, c'est génial!\n"
+	.string "Non?$"
