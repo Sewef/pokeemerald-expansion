@@ -1796,7 +1796,7 @@ const u8 gText_Body[] = _("Physique");
 const u8 gText_Judgement[] = _("{B_BUFF1}{CLEAR 13}Jugement{CLEAR 13}{B_BUFF2}");
 static const u8 sText_TwoTrainersSentPkmn[] = _("{B_OPPONENT_MON1_NAME} est envoyé par\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\p{B_OPPONENT_MON2_NAME} est envoyé par\n{B_TRAINER2_CLASS} {B_TRAINER2_NAME}!");
 static const u8 sText_Trainer2SentOutPkmn[] = _("{B_BUFF1} est envoyé par\n{B_TRAINER2_CLASS} {B_TRAINER2_NAME}!");
-static const u8 sText_TwoTrainersWantToBattle[] = _("Un combat est lancé\npar{B_TRAINER1_CLASS} {B_TRAINER1_NAME} et\n{B_TRAINER2_CLASS} {B_TRAINER2_NAME}!\l");
+static const u8 sText_TwoTrainersWantToBattle[] = _("Un combat est lancé\n par{B_TRAINER1_CLASS} {B_TRAINER1_NAME} et\l{B_TRAINER2_CLASS} {B_TRAINER2_NAME}!\p");
 static const u8 sText_InGamePartnerSentOutZGoN[] = _("{B_PLAYER_MON2_NAME} est envoyé par\n{B_PARTNER_CLASS} {B_PARTNER_NAME}!\l{B_PLAYER_MON1_NAME}! Go!");
 static const u8 sText_TwoInGameTrainersDefeated[] = _("{B_TRAINER1_CLASS} {B_TRAINER1_NAME} et\n{B_TRAINER2_CLASS} {B_TRAINER2_NAME}\lont perdu!\p");
 static const u8 sText_Trainer2LoseText[] = _("{B_TRAINER2_LOSE_TEXT}");
@@ -3493,20 +3493,19 @@ static void ExpandBattleTextBuffPlaceholders(const u8 *src, u8 *dst)
             break;
         case B_BUFF_MON_NICK_WITH_PREFIX: // poke nick with prefix
             if (GetBattlerSide(src[srcID + 1]) == B_SIDE_PLAYER)
-            {
                 GetMonData(&gPlayerParty[src[srcID + 2]], MON_DATA_NICKNAME, text);
-            }
             else
+                GetMonData(&gEnemyParty[src[srcID + 2]], MON_DATA_NICKNAME, text);
+            StringGetEnd10(text);
+            StringAppend(dst, text);
+            
+            if (GetBattlerSide(src[srcID + 1]) != B_SIDE_PLAYER)
             {
                 if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)
                     StringAppend(dst, sText_FoePkmnPrefix);
                 else
                     StringAppend(dst, sText_WildPkmnPrefix);
-
-                GetMonData(&gEnemyParty[src[srcID + 2]], MON_DATA_NICKNAME, text);
             }
-            StringGetEnd10(text);
-            StringAppend(dst, text);
             srcID += 3;
             break;
         case B_BUFF_STAT: // stats
