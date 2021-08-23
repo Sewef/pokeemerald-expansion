@@ -294,8 +294,8 @@ const u8 *const gPocketNamesStringsTable[] =
     [KEYITEMS_POCKET] = gText_KeyItemsPocket
 };
 
-const u8 gText_NumberVar1Clear7Var2[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
-const u8 gText_ClearTo11Var1Clear5Var2[] = _("{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}");
+const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
+const u8 gText_NumberItem_HM[] = _("{CLEAR_TO 0x11}{STR_VAR_1}{CLEAR 0x05}{STR_VAR_2}");
 const u8 gText_SizeSlash[] = _("DIM.:");
 const u8 gText_FirmSlash[] = _("FERM.:");
 const u8 gText_Var1DotVar2[] = _("{STR_VAR_1},{STR_VAR_2} cm");
@@ -1230,7 +1230,7 @@ ALIGNED(4) const u8 gText_Facility[] = _("{STR_VAR_1}");
 
 const u8 gText_Give[] = _("Montrer");
 const u8 gText_NoNeed[] = _("Pas besoin");
-const u8 gText_ColorLightShadowDarkGrey[] = _("{COLOR LIGHT_GRAY}{SHADOW DARK_GRAY}");
+const u8 gText_ColorLightShadowDarkGray[] = _("{COLOR LIGHT_GRAY}{SHADOW DARK_GRAY}");
 const u8 gText_ColorBlue[] = _("{COLOR BLUE}");
 const u8 gText_ColorTransparent[] = _("{HIGHLIGHT TRANSPARENT}{COLOR TRANSPARENT}");
 const u8 gText_CDot[] = _("C.");
@@ -1240,7 +1240,7 @@ const u8 gText_PreliminaryResults[] = _("Résultats du premier tour!");
 const u8 gText_Round2Results[] = _("Résultats du second tour!");
 const u8 gText_ContestantsMonWon[] = _("{STR_VAR_2} de {STR_VAR_1} a gagné!");
 const u8 gText_CommunicationStandby[] = _("Connexion en cours…");
-const u8 gText_ColorDarkGrey[] = _("{COLOR DARK_GRAY}");
+const u8 gText_ColorDarkGray[] = _("{COLOR DARK_GRAY}");
 const u8 gText_ColorDynamic6WhiteDynamic5[] = _("{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR6 WHITE DYNAMIC_COLOR5}"); // Unused
 const u8 gText_HighlightDarkGray[] = _("{HIGHLIGHT DARK_GRAY}");
 const u8 gText_EmptySpace2[] = _(" "); // Unused

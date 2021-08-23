@@ -995,7 +995,7 @@ gTVPokemonTodaySuccessfulText11::
 	.string "FRANGIN: N'oubliez pas, votre\n"
 	.string "POKéMON pourrait être le sujet\l"
 	.string "de la prochaine émission!$"
-gTVTodaysSmartShopperText00::
+SmartShopper_Text_Intro::
 	.string "Bonjour à tous!\p"
 	.string "C'est l'heure du POKéACHAT.\p"
 	.string "JOURNALISTE: Comment vont nos\n"
@@ -1004,7 +1004,7 @@ gTVTodaysSmartShopperText00::
 	.string "à {STR_VAR_2}.\p"
 	.string "Voyons donc ce que nos vendeuses\n"
 	.string "ont à nous proposer!$"
-gTVTodaysSmartShopperText01::
+SmartShopper_Text_ClerkNormal::
 	.string "Interrogeons cette vendeuse pour\n"
 	.string "savoir quelle est la tendance.\p"
 	.string "Bonjour, comment vont les affaires?\p"
@@ -1013,7 +1013,7 @@ gTVTodaysSmartShopperText01::
 	.string "vend beaucoup.\p"
 	.string "Par exemple, l'autre jour, un DRESSEUR\n"
 	.string "appelé {STR_VAR_1} en a acheté {STR_VAR_3}.$"
-gTVTodaysSmartShopperText02::
+SmartShopper_Text_RandomComment1::
 	.string "JOURNALISTE: Le DRESSEUR en a acheté\n"
 	.string "{STR_VAR_3}? Impressionnant!\p"
 	.string "A mon avis, {STR_VAR_1} se préparait à\n"
@@ -1021,19 +1021,19 @@ gTVTodaysSmartShopperText02::
 	.string "contrées lointaines.\p"
 	.string "Il faut toujours avoir ce type\n"
 	.string "d'objet quand on voyage!$"
-gTVTodaysSmartShopperText03::
+SmartShopper_Text_RandomComment2::
 	.string "JOURNALISTE: Puisqu'on parle de l'objet\n"
 	.string "{STR_VAR_2}, j'en ai justement acheté\l"
 	.string "{STR_VAR_3} récemment.\p"
 	.string "Après tout, c'est un super objet!$"
-gTVTodaysSmartShopperText04::
+SmartShopper_Text_RandomComment3::
 	.string "JOURNALISTE: Combien de fois l'objet\n"
 	.string "{STR_VAR_2}?! {STR_VAR_3}?!\p"
 	.string "Je n'aurais jamais cru que quelqu'un\n"
 	.string "en achèterait autant.\p"
 	.string "Bon sang, je ne peux pas me permettre\n"
 	.string "d'en acheter autant que ça, moi…$"
-gTVTodaysSmartShopperText05::
+SmartShopper_Text_RandomComment4::
 	.string "JOURNALISTE: Une fois, j'ai acheté\n"
 	.string "un lot complet de l'objet {STR_VAR_2}.\p"
 	.string "Mais finalement, il y en avait trop.\n"
@@ -1042,19 +1042,19 @@ gTVTodaysSmartShopperText05::
 	.string "strictement nécessaire…\p"
 	.string "Heu…\p"
 	.string "Evidemment, ça n'intéresse personne!$"
-gTVTodaysSmartShopperText06::
+SmartShopper_Text_SecondItem::
 	.string "VENDEUSE: {STR_VAR_1} a aussi acheté\n"
 	.string "l'objet {STR_VAR_2}. Il en a pris {STR_VAR_3}.\p"
 	.string "JOURNALISTE: Oh, bonne idée.\n"
 	.string "C'est un objet très utile aussi.$"
-gTVTodaysSmartShopperText07::
+SmartShopper_Text_ThirdItem::
 	.string "VENDEUSE: Et le DRESSEUR a aussi\n"
 	.string "acheté {STR_VAR_3} exemplaires de\l"
 	.string "l'objet {STR_VAR_2}.$"
-gTVTodaysSmartShopperText08::
+SmartShopper_Text_DuringSale::
 	.string "VENDEUSE: En plus, c'était pendant les\n"
 	.string "soldes. Malin, non?$"
-gTVTodaysSmartShopperText09::
+SmartShopper_Text_OutroNormal::
 	.string "JOURNALISTE: Hum… {STR_VAR_1} semble\n"
 	.string "aimer faire des économies!\p"
 	.string "Le total des achats de {STR_VAR_1}\n"
@@ -1063,10 +1063,10 @@ gTVTodaysSmartShopperText09::
 	.string "Une sacrée somme!\p"
 	.string "Oh! Mince! Notre temps est écoulé!\n"
 	.string "Rendez-vous à la prochaine émission!$"
-gTVTodaysSmartShopperText10::
+SmartShopper_Text_IsVIP::
 	.string "VENDEUSE: {STR_VAR_1} fait partie de ma\n"
 	.string "clientèle privilégiée, c'est sûr.$"
-gTVTodaysSmartShopperText11::
+SmartShopper_Text_ClerkMax::
 	.string "Interrogeons cette vendeuse pour\n"
 	.string "savoir quelle est la tendance.\p"
 	.string "Bonjour, comment vont les affaires?\p"
@@ -1087,7 +1087,7 @@ gTVTodaysSmartShopperText11::
 	.string "vraiment faire du shopping!\p"
 	.string "VENDEUSE: {STR_VAR_1} fait partie de ma\n"
 	.string "clientèle privilégiée, c'est sûr.$"
-gTVTodaysSmartShopperText12::
+SmartShopper_Text_OutroMax::
 	.string "JOURNALISTE: Hum…\n"
 	.string "C'est vraiment étonnant.\p"
 	.string "Pourquoi un DRESSEUR a-t-il\n"
