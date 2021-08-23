@@ -1,4 +1,4 @@
-MatchCall_WildBattleText1:: @ 82A971C
+MatchCall_WildBattleText1::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "J'ai vu un {STR_VAR_2}, il y a peu.\n"
@@ -6,7 +6,7 @@ MatchCall_WildBattleText1:: @ 82A971C
 	.string "J'étais à deux doigts de réussir,\n"
 	.string "pourtant! Allez, au revoir!$"
 
-MatchCall_WildBattleText2:: @ 82A9798
+MatchCall_WildBattleText2::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Il n'y a pas très longtemps, j'ai\n"
@@ -15,7 +15,7 @@ MatchCall_WildBattleText2:: @ 82A9798
 	.string "Tu parles que j'ai été déçue!\p"
 	.string "Au revoir!$"
 
-MatchCall_WildBattleText3:: @ 82A9813
+MatchCall_WildBattleText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Je viens d'essayer d'attraper\n"
@@ -25,7 +25,7 @@ MatchCall_WildBattleText3:: @ 82A9813
 	.string "Bon, ça m'a gâché la journée…\n"
 	.string "Allez, à plus!$"
 
-MatchCall_WildBattleText4:: @ 82A98A8
+MatchCall_WildBattleText4::
 	.string "Allô, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Bonjour!\p"
 	.string "Tu connais le POKéMON {STR_VAR_2}?\n"
@@ -35,7 +35,7 @@ MatchCall_WildBattleText4:: @ 82A98A8
 	.string "louperai pas!\p"
 	.string "Allez, à plus!$"
 
-MatchCall_WildBattleText5:: @ 82A9977
+MatchCall_WildBattleText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\l"
 	.string "Alors, des nouveaux POKéMON?\p"
@@ -43,7 +43,7 @@ MatchCall_WildBattleText5:: @ 82A9977
 	.string "récemment, mais il s'est enfui.\p"
 	.string "Bon, à plus!$"
 
-MatchCall_WildBattleText6:: @ 82A99FD
+MatchCall_WildBattleText6::
 	.string "Salut, {PLAYER}{KUN}.\n"
 	.string "Ici {STR_VAR_1}.\l"
 	.string "Tu as attrapé des POKéMON?\p"
@@ -51,7 +51,7 @@ MatchCall_WildBattleText6:: @ 82A99FD
 	.string "mais il m'a filé entre les doigts!\p"
 	.string "Allez, à bientôt!$"
 
-MatchCall_WildBattleText7:: @ 82A9A78
+MatchCall_WildBattleText7::
 	.string "{PLAYER}{KUN}, c'est toi?\n"
 	.string "Salut, {STR_VAR_1} à l'appareil.\p"
 	.string "Tu sais quoi? Je n'arrive pas\n"
@@ -59,7 +59,7 @@ MatchCall_WildBattleText7:: @ 82A9A78
 	.string "Sacré nom d'un chien!\n"
 	.string "Il n'y a rien à faire!$"
 
-MatchCall_WildBattleText8:: @ 82A9AE8
+MatchCall_WildBattleText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Tu attrapes beaucoup de\n"
@@ -69,7 +69,7 @@ MatchCall_WildBattleText8:: @ 82A9AE8
 	.string "Je ne baisse pas les bras!\n"
 	.string "A bientôt!$"
 
-MatchCall_WildBattleText9:: @ 82A9BA7
+MatchCall_WildBattleText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Alors, tu agrandis ta collection\n"
@@ -78,7 +78,7 @@ MatchCall_WildBattleText9:: @ 82A9BA7
 	.string "POKéMON! Ils m'échappent tous!\p"
 	.string "A plus!$"
 
-MatchCall_WildBattleText10:: @ 82A9C36
+MatchCall_WildBattleText10::
 	.string "Coucou, {PLAYER}{KUN}…\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Je voulais te dire… J'ai failli\n"
@@ -87,7 +87,7 @@ MatchCall_WildBattleText10:: @ 82A9C36
 	.string "Il faut que je persévère, je sais.\n"
 	.string "A bientôt, j'espère.$"
 
-MatchCall_WildBattleText11:: @ 82A9CC8
+MatchCall_WildBattleText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\l"
 	.string "Comment ça va?\p"
@@ -95,7 +95,7 @@ MatchCall_WildBattleText11:: @ 82A9CC8
 	.string "{STR_VAR_2} sauvage, mais il a filé!\p"
 	.string "Je perds un peu confiance…$"
 
-MatchCall_WildBattleText12:: @ 82A9D44
+MatchCall_WildBattleText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Tu attrapes toujours des POKéMON?\p"
@@ -103,7 +103,7 @@ MatchCall_WildBattleText12:: @ 82A9D44
 	.string "c'est loin d'être facile!\p"
 	.string "Les POKéMON sont malins!$"
 
-MatchCall_WildBattleText13:: @ 82A9DD7
+MatchCall_WildBattleText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\l"
 	.string "Tu as de nouveaux POKéMON?\p"
@@ -111,7 +111,7 @@ MatchCall_WildBattleText13:: @ 82A9DD7
 	.string "ce fut un échec, je dois dire.\p"
 	.string "Les POKéMON sont malins!$"
 
-MatchCall_WildBattleText14:: @ 82A9E70
+MatchCall_WildBattleText14::
 	.string "Bonjour, {PLAYER}{KUN}, comment vas-tu?\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Je viens d'essayer d'attraper un\n"
@@ -120,7 +120,7 @@ MatchCall_WildBattleText14:: @ 82A9E70
 	.string "Crois-moi, j'ai été déçue!\p"
 	.string "Au revoir!$"
 
-MatchCall_WildBattleText15:: @ 82A9EFD
+MatchCall_WildBattleText15::
 	.string "Bonjour, {PLAYER}!\n"
 	.string "Ici {STR_VAR_1}!\p"
 	.string "Je pense me mettre à attraper\n"
@@ -130,7 +130,7 @@ MatchCall_WildBattleText15:: @ 82A9EFD
 	.string "C'est étrange, non?\n"
 	.string "Bon, je te laisse. Au revoir!$"
 
-MatchCall_NegativeBattleText1:: @ 82A9FAB
+MatchCall_NegativeBattleText1::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "J'ai essayé de me battre contre un\n"
@@ -138,7 +138,7 @@ MatchCall_NegativeBattleText1:: @ 82A9FAB
 	.string "J'étais très déçu, tu sais.\n"
 	.string "Allez, salut!$"
 
-MatchCall_NegativeBattleText2:: @ 82AA028
+MatchCall_NegativeBattleText2::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "J'ai affronté quelqu'un d'autre\n"
@@ -146,14 +146,14 @@ MatchCall_NegativeBattleText2:: @ 82AA028
 	.string "J'ai été pas mal, mais j'ai perdu.\n"
 	.string "Je ferai mieux la prochaine fois.$"
 
-MatchCall_NegativeBattleText3:: @ 82AA099
+MatchCall_NegativeBattleText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Je viens de perdre un combat.\p"
 	.string "Je suppose que mon équipe\n"
 	.string "n'est pas encore au point!$"
 
-MatchCall_NegativeBattleText4:: @ 82AA100
+MatchCall_NegativeBattleText4::
 	.string "Salut, {PLAYER}.\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "J'ai refait un combat hier, mais\n"
@@ -161,7 +161,7 @@ MatchCall_NegativeBattleText4:: @ 82AA100
 	.string "Je dois entraîner mon équipe\n"
 	.string "davantage. Allez, à plus!$"
 
-MatchCall_NegativeBattleText5:: @ 82AA188
+MatchCall_NegativeBattleText5::
 	.string "Salut, {PLAYER}!\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "Tout se passe bien?\p"
@@ -170,7 +170,7 @@ MatchCall_NegativeBattleText5:: @ 82AA188
 	.string "Je ne suis pas encore au point!\n"
 	.string "Bon, à plus!$"
 
-MatchCall_NegativeBattleText6:: @ 82AA214
+MatchCall_NegativeBattleText6::
 	.string "Salut, {PLAYER}.\n"
 	.string "Ici {STR_VAR_1}.\p"
 	.string "Tout va comme tu veux?\p"
@@ -179,7 +179,7 @@ MatchCall_NegativeBattleText6:: @ 82AA214
 	.string "Je ne suis pas encore dans l'esprit.\n"
 	.string "Allez, à bientôt!$"
 
-MatchCall_NegativeBattleText7:: @ 82AA2A1
+MatchCall_NegativeBattleText7::
 	.string "Ici {STR_VAR_1}.\n"
 	.string "Comment ça se passe?\p"
 	.string "J'ai perdu un combat hier.\n"
@@ -187,7 +187,7 @@ MatchCall_NegativeBattleText7:: @ 82AA2A1
 	.string "Il faut que je me reprenne…\n"
 	.string "Salut!$"
 
-MatchCall_NegativeBattleText8:: @ 82AA31B
+MatchCall_NegativeBattleText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Comment vont tes POKéMON?\n"
@@ -195,7 +195,7 @@ MatchCall_NegativeBattleText8:: @ 82AA31B
 	.string "Je ne baisse pas les bras!\n"
 	.string "Allez, à bientôt!$"
 
-MatchCall_NegativeBattleText9:: @ 82AA3A8
+MatchCall_NegativeBattleText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Ecoute, j'ai quelque chose à\n"
@@ -204,7 +204,7 @@ MatchCall_NegativeBattleText9:: @ 82AA3A8
 	.string "et j'ai perdu au dernier moment.\p"
 	.string "Qu'est-ce que c'est frustrant!$"
 
-MatchCall_NegativeBattleText10:: @ 82AA442
+MatchCall_NegativeBattleText10::
 	.string "Coucou, {PLAYER}{KUN}…\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "J'ai fait un combat aujourd'hui.\n"
@@ -212,7 +212,7 @@ MatchCall_NegativeBattleText10:: @ 82AA442
 	.string "Mes POKéMON ne sont pas encore\n"
 	.string "au top niveau. A bientôt, j'espère.$"
 
-MatchCall_NegativeBattleText11:: @ 82AA4C5
+MatchCall_NegativeBattleText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\l"
 	.string "Comment vont tes POKéMON?\p"
@@ -220,7 +220,7 @@ MatchCall_NegativeBattleText11:: @ 82AA4C5
 	.string "C'est pas la joie…\p"
 	.string "Bon, au revoir!$"
 
-MatchCall_NegativeBattleText12:: @ 82AA520
+MatchCall_NegativeBattleText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Tu continues les combats?\p"
@@ -229,7 +229,7 @@ MatchCall_NegativeBattleText12:: @ 82AA520
 	.string "Je dois renforcer mon équipe!\n"
 	.string "A bientôt.$"
 
-MatchCall_NegativeBattleText13:: @ 82AA5AD
+MatchCall_NegativeBattleText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\p"
 	.string "J'espère que tu te portes bien.\p"
@@ -238,7 +238,7 @@ MatchCall_NegativeBattleText13:: @ 82AA5AD
 	.string "Prends-en de la graine, {PLAYER}{KUN}!\n"
 	.string "Il faut garder la forme! Au revoir!$"
 
-MatchCall_NegativeBattleText14:: @ 82AA64D
+MatchCall_NegativeBattleText14::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Tout se passe comme tu veux?\p"
@@ -246,7 +246,7 @@ MatchCall_NegativeBattleText14:: @ 82AA64D
 	.string "chez toi de temps en temps.\p"
 	.string "Au revoir!$"
 
-MatchCall_PositiveBattleText1:: @ 82AA6AF
+MatchCall_PositiveBattleText1::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "J'ai combattu contre un autre\n"
@@ -254,13 +254,13 @@ MatchCall_PositiveBattleText1:: @ 82AA6AF
 	.string "Mon {STR_VAR_2} s'est vraiment\n"
 	.string "démené! C'est super!$"
 
-MatchCall_PositiveBattleText2:: @ 82AA730
+MatchCall_PositiveBattleText2::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "J'ai gagné un combat hier,\n"
 	.string "c'était super!$"
 
-MatchCall_PositiveBattleText3:: @ 82AA77A
+MatchCall_PositiveBattleText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\l"
 	.string "Ça va, les combats?\p"
@@ -269,7 +269,7 @@ MatchCall_PositiveBattleText3:: @ 82AA77A
 	.string "Si on refait un combat, je ne\n"
 	.string "perdrai pas, {PLAYER}!$"
 
-MatchCall_PositiveBattleText4:: @ 82AA81C
+MatchCall_PositiveBattleText4::
 	.string "Salut, {PLAYER}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "J'ai fait un combat, aujourd'hui.\n"
@@ -277,7 +277,7 @@ MatchCall_PositiveBattleText4:: @ 82AA81C
 	.string "Mon {STR_VAR_2} a été super, en\n"
 	.string "tout cas.$"
 
-MatchCall_PositiveBattleText5:: @ 82AA88C
+MatchCall_PositiveBattleText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "Comment va la vie?\n"
@@ -287,7 +287,7 @@ MatchCall_PositiveBattleText5:: @ 82AA88C
 	.string "La prochaine fois, c'est toi que\n"
 	.string "je battrai! Bon, à plus!$"
 
-MatchCall_PositiveBattleText6:: @ 82AA934
+MatchCall_PositiveBattleText6::
 	.string "Salut, {PLAYER}{KUN}.\n"
 	.string "Ici {STR_VAR_1}.\p"
 	.string "Comment va?\p"
@@ -296,7 +296,7 @@ MatchCall_PositiveBattleText6:: @ 82AA934
 	.string "Si jamais on se recroise,\n"
 	.string "je ne perdrai pas!$"
 
-MatchCall_PositiveBattleText7:: @ 82AA9D3
+MatchCall_PositiveBattleText7::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}.\p"
 	.string "J'adore mon {STR_VAR_2}, il vient\n"
@@ -304,7 +304,7 @@ MatchCall_PositiveBattleText7:: @ 82AA9D3
 	.string "J'ai hâte de refaire un combat\n"
 	.string "contre toi.$"
 
-MatchCall_PositiveBattleText8:: @ 82AAA40
+MatchCall_PositiveBattleText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "J'espère que tu vas bien. Tu sais,\n"
@@ -313,7 +313,7 @@ MatchCall_PositiveBattleText8:: @ 82AAA40
 	.string "Il fallait que je te le dise!\p"
 	.string "Au revoir!$"
 
-MatchCall_PositiveBattleText9:: @ 82AAAE4
+MatchCall_PositiveBattleText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Comment vont tes POKéMON?\n"
@@ -323,7 +323,7 @@ MatchCall_PositiveBattleText9:: @ 82AAAE4
 	.string "Quel dommage que tu n'aies pas\n"
 	.string "vu ça! Au revoir!$"
 
-MatchCall_PositiveBattleText10:: @ 82AAB8C
+MatchCall_PositiveBattleText10::
 	.string "Coucou, {PLAYER}{KUN}…\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Comment va la vie?\p"
@@ -332,7 +332,7 @@ MatchCall_PositiveBattleText10:: @ 82AAB8C
 	.string "Ils viennent de me faire gagner un\n"
 	.string "combat. A bientôt, j'espère.$"
 
-MatchCall_PositiveBattleText11:: @ 82AAC25
+MatchCall_PositiveBattleText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "Tu as fait des combats, récemment?\n"
@@ -340,7 +340,7 @@ MatchCall_PositiveBattleText11:: @ 82AAC25
 	.string "Je suis sur la bonne voie!\n"
 	.string "Allez, au revoir!$"
 
-MatchCall_PositiveBattleText12:: @ 82AAC9D
+MatchCall_PositiveBattleText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Tout va bien, mon petit?\n"
@@ -349,7 +349,7 @@ MatchCall_PositiveBattleText12:: @ 82AAC9D
 	.string "combats, tous les jours!\l"
 	.string "Contre des jeunes gens, en plus!$"
 
-MatchCall_PositiveBattleText13:: @ 82AAD41
+MatchCall_PositiveBattleText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\p"
 	.string "J'espère que tout va bien.\n"
@@ -359,7 +359,7 @@ MatchCall_PositiveBattleText13:: @ 82AAD41
 	.string "ne me font pas peur, tu sais!\p"
 	.string "Au revoir!$"
 
-MatchCall_PositiveBattleText14:: @ 82AAE00
+MatchCall_PositiveBattleText14::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "J'ai fait un combat il y a peu et\n"
@@ -367,7 +367,7 @@ MatchCall_PositiveBattleText14:: @ 82AAE00
 	.string "J'aurais aimé que tu voies ça,\n"
 	.string "{PLAYER}{KUN}. Au revoir!$"
 
-MatchCall_SameRouteBattleRequestText1:: @ 82AAE7F
+MatchCall_SameRouteBattleRequestText1::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Quoi, tu es près de…\n"
@@ -375,7 +375,7 @@ MatchCall_SameRouteBattleRequestText1:: @ 82AAE7F
 	.string "Mais il faut qu'on fasse un combat!\n"
 	.string "Je t'attends, à tout de suite!$"
 
-MatchCall_SameRouteBattleRequestText2:: @ 82AAEF1
+MatchCall_SameRouteBattleRequestText2::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "{STR_VAR_2}? C'est là que tu\n"
@@ -383,7 +383,7 @@ MatchCall_SameRouteBattleRequestText2:: @ 82AAEF1
 	.string "On fait un combat?\n"
 	.string "Allez, je t'attends!$"
 
-MatchCall_SameRouteBattleRequestText3:: @ 82AAF69
+MatchCall_SameRouteBattleRequestText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "{STR_VAR_2}, tu dis?\n"
@@ -393,7 +393,7 @@ MatchCall_SameRouteBattleRequestText3:: @ 82AAF69
 	.string "Cette fois, je ne perdrai pas!\n"
 	.string "Je ne bouge pas, je t'attends!$"
 
-MatchCall_SameRouteBattleRequestText4:: @ 82AB010
+MatchCall_SameRouteBattleRequestText4::
 	.string "Allô, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Bonjour!\p"
 	.string "Où tu es?\n"
@@ -401,7 +401,7 @@ MatchCall_SameRouteBattleRequestText4:: @ 82AB010
 	.string "Il faut absolument qu'on fasse un\n"
 	.string "combat, alors! Je t'attends!$"
 
-MatchCall_SameRouteBattleRequestText5:: @ 82AB076
+MatchCall_SameRouteBattleRequestText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\l"
 	.string "Ça roule?\p"
@@ -412,7 +412,7 @@ MatchCall_SameRouteBattleRequestText5:: @ 82AB076
 	.string "J'espère bien que tu vas venir!\n"
 	.string "Je t'attends!$"
 
-MatchCall_SameRouteBattleRequestText6:: @ 82AB11A
+MatchCall_SameRouteBattleRequestText6::
 	.string "Salut, {PLAYER}{KUN}.\n"
 	.string "Ici {STR_VAR_1}.\l"
 	.string "Je viens aux nouvelles.\p"
@@ -423,7 +423,7 @@ MatchCall_SameRouteBattleRequestText6:: @ 82AB11A
 	.string "Je trépigne d'impatience.\n"
 	.string "A tout de suite, je t'attends!$"
 
-MatchCall_SameRouteBattleRequestText7:: @ 82AB1B4
+MatchCall_SameRouteBattleRequestText7::
 	.string "Heu… {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}…\p"
 	.string "{STR_VAR_2}? Tu es dans le\n"
@@ -433,7 +433,7 @@ MatchCall_SameRouteBattleRequestText7:: @ 82AB1B4
 	.string "Je vais te montrer mes POKéMON.\n"
 	.string "Dépêche-toi, je t'attends.$"
 
-MatchCall_SameRouteBattleRequestText8:: @ 82AB23D
+MatchCall_SameRouteBattleRequestText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Tu es près de…\n"
@@ -443,7 +443,7 @@ MatchCall_SameRouteBattleRequestText8:: @ 82AB23D
 	.string "Allez, je t'attends.\n"
 	.string "A très bientôt!$"
 
-MatchCall_SameRouteBattleRequestText9:: @ 82AB2E9
+MatchCall_SameRouteBattleRequestText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "La forme?\n"
@@ -452,7 +452,7 @@ MatchCall_SameRouteBattleRequestText9:: @ 82AB2E9
 	.string "On fait un combat?\p"
 	.string "Bon allez, je t'attends!$"
 
-MatchCall_SameRouteBattleRequestText10:: @ 82AB382
+MatchCall_SameRouteBattleRequestText10::
 	.string "Coucou, {PLAYER}{KUN}…\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Tu es où? Près de… \n"
@@ -462,7 +462,7 @@ MatchCall_SameRouteBattleRequestText10:: @ 82AB382
 	.string "Je suis prête!\n"
 	.string "Ne me fais pas attendre…$"
 
-MatchCall_SameRouteBattleRequestText11:: @ 82AB410
+MatchCall_SameRouteBattleRequestText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "Où est-ce que tu es?\n"
@@ -472,7 +472,7 @@ MatchCall_SameRouteBattleRequestText11:: @ 82AB410
 	.string "D'accord, je ne bouge pas.\n"
 	.string "A tout de suite!$"
 
-MatchCall_SameRouteBattleRequestText12:: @ 82AB4B0
+MatchCall_SameRouteBattleRequestText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Où es-tu, mon petit?\p"
@@ -483,7 +483,7 @@ MatchCall_SameRouteBattleRequestText12:: @ 82AB4B0
 	.string "Je t'attends, mon petit.\n"
 	.string "A bientôt!$"
 
-MatchCall_SameRouteBattleRequestText13:: @ 82AB538
+MatchCall_SameRouteBattleRequestText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\p"
 	.string "Où te trouves-tu?\n"
@@ -493,7 +493,7 @@ MatchCall_SameRouteBattleRequestText13:: @ 82AB538
 	.string "Bien, je t'attends.\n"
 	.string "A tout de suite.$"
 
-MatchCall_SameRouteBattleRequestText14:: @ 82AB5E4
+MatchCall_SameRouteBattleRequestText14::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Où ça? {STR_VAR_2}?\n"
@@ -503,7 +503,7 @@ MatchCall_SameRouteBattleRequestText14:: @ 82AB5E4
 	.string "D'accord, je t'attends.\n"
 	.string "Au revoir!$"
 
-MatchCall_DifferentRouteBattleRequestText1:: @ 82AB670
+MatchCall_DifferentRouteBattleRequestText1::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Tu sais quoi? J'ai envie de faire un\n"
@@ -511,7 +511,7 @@ MatchCall_DifferentRouteBattleRequestText1:: @ 82AB670
 	.string "Bon, je suis aux alentours de\n"
 	.string "{STR_VAR_2}. A bientôt!$"
 
-MatchCall_DifferentRouteBattleRequestText2:: @ 82AB6CD
+MatchCall_DifferentRouteBattleRequestText2::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Dis, tu veux bien refaire un\n"
@@ -519,7 +519,7 @@ MatchCall_DifferentRouteBattleRequestText2:: @ 82AB6CD
 	.string "Tu me trouveras près de\n"
 	.string "{STR_VAR_2}. A plus!$"
 
-MatchCall_DifferentRouteBattleRequestText3:: @ 82AB73C
+MatchCall_DifferentRouteBattleRequestText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Mes POKéMON ont bien progressé\n"
@@ -530,7 +530,7 @@ MatchCall_DifferentRouteBattleRequestText3:: @ 82AB73C
 	.string "D'accord, je suis près de\n"
 	.string "{STR_VAR_2}.$"
 
-MatchCall_DifferentRouteBattleRequestText4:: @ 82AB808
+MatchCall_DifferentRouteBattleRequestText4::
 	.string "Allô, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Bonjour!\l"
 	.string "Ça va, toi?\p"
@@ -541,7 +541,7 @@ MatchCall_DifferentRouteBattleRequestText4:: @ 82AB808
 	.string "D'accord, je t'attends aux\n"
 	.string "alentours de {STR_VAR_2}.$"
 
-MatchCall_DifferentRouteBattleRequestText5:: @ 82AB8B7
+MatchCall_DifferentRouteBattleRequestText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "Mes POKéMON ont bien progressé,\n"
@@ -551,7 +551,7 @@ MatchCall_DifferentRouteBattleRequestText5:: @ 82AB8B7
 	.string "Je t'attends du côté de\n"
 	.string "{STR_VAR_2}, alors. A plus!$"
 
-MatchCall_DifferentRouteBattleRequestText6:: @ 82AB95D
+MatchCall_DifferentRouteBattleRequestText6::
 	.string "Salut, {PLAYER}{KUN}.\n"
 	.string "Ici {STR_VAR_1}.\l"
 	.string "J'espère que ça roule pour toi.\p"
@@ -561,7 +561,7 @@ MatchCall_DifferentRouteBattleRequestText6:: @ 82AB95D
 	.string "voir près de {STR_VAR_2}.\p"
 	.string "Peut-être à tout à l'heure!$"
 
-MatchCall_DifferentRouteBattleRequestText7:: @ 82ABA03
+MatchCall_DifferentRouteBattleRequestText7::
 	.string "Heu… {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}…\l"
 	.string "Alors? Tes POKéMON vont bien?\p"
@@ -571,7 +571,7 @@ MatchCall_DifferentRouteBattleRequestText7:: @ 82ABA03
 	.string "Passe, si tu veux combattre.\p"
 	.string "Au revoir.$"
 
-MatchCall_DifferentRouteBattleRequestText8:: @ 82ABA9F
+MatchCall_DifferentRouteBattleRequestText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "J'espère que tout va bien pour toi.\n"
@@ -581,7 +581,7 @@ MatchCall_DifferentRouteBattleRequestText8:: @ 82ABA9F
 	.string "Je suis près de {STR_VAR_2}.\n"
 	.string "A bientôt, j'espère!$"
 
-MatchCall_DifferentRouteBattleRequestText9:: @ 82ABB62
+MatchCall_DifferentRouteBattleRequestText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\l"
 	.string "Comment vont tes POKéMON?\p"
@@ -591,7 +591,7 @@ MatchCall_DifferentRouteBattleRequestText9:: @ 82ABB62
 	.string "Passe faire un combat, si tu veux.\p"
 	.string "J'espère te voir bientôt!$"
 
-MatchCall_DifferentRouteBattleRequestText10:: @ 82ABC26
+MatchCall_DifferentRouteBattleRequestText10::
 	.string "Coucou, {PLAYER}{KUN}…\n"
 	.string "C'est moi, {STR_VAR_1}.\l"
 	.string "Comment vas-tu?\p"
@@ -602,7 +602,7 @@ MatchCall_DifferentRouteBattleRequestText10:: @ 82ABC26
 	.string "Je suis près de {STR_VAR_2}.\n"
 	.string "Passe me voir à l'occasion.$"
 
-MatchCall_DifferentRouteBattleRequestText11:: @ 82ABCE9
+MatchCall_DifferentRouteBattleRequestText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "Mes POKéMON débordent de vie.\n"
@@ -611,7 +611,7 @@ MatchCall_DifferentRouteBattleRequestText11:: @ 82ABCE9
 	.string "Je suis vers {STR_VAR_2}.\n"
 	.string "J'espère que tu vas passer.$"
 
-MatchCall_DifferentRouteBattleRequestText12:: @ 82ABDA2
+MatchCall_DifferentRouteBattleRequestText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Je voulais te dire que mes POKéMON\n"
@@ -621,7 +621,7 @@ MatchCall_DifferentRouteBattleRequestText12:: @ 82ABDA2
 	.string "On est aux alentours de\n"
 	.string "{STR_VAR_2}. A bientôt!$"
 
-MatchCall_DifferentRouteBattleRequestText13:: @ 82ABE5E
+MatchCall_DifferentRouteBattleRequestText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\l"
 	.string "Comment vont tes POKéMON?\p"
@@ -632,7 +632,7 @@ MatchCall_DifferentRouteBattleRequestText13:: @ 82ABE5E
 	.string "Si tu passes près de\n"
 	.string "{STR_VAR_2}, viens nous voir.$"
 
-MatchCall_DifferentRouteBattleRequestText14:: @ 82ABF36
+MatchCall_DifferentRouteBattleRequestText14::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "J'espère que tu vas bien.\p"
@@ -645,7 +645,7 @@ MatchCall_DifferentRouteBattleRequestText14:: @ 82ABF36
 	.string "J'espère que tu vas venir nous\n"
 	.string "voir bientôt!$"
 
-MatchCall_PersonalizedText1:: @ 82AC009
+MatchCall_PersonalizedText1::
 	.string "C'est {STR_VAR_1}, l'amoureux de la\n"
 	.string "montagne!\p"
 	.string "Tu as passé du temps en montagne\n"
@@ -655,7 +655,7 @@ MatchCall_PersonalizedText1:: @ 82AC009
 	.string "La prochaine fois, on pourrait se\n"
 	.string "voir près de {STR_VAR_2}.$"
 
-MatchCall_PersonalizedText2:: @ 82AC0BD
+MatchCall_PersonalizedText2::
 	.string "C'est {STR_VAR_1}.\n"
 	.string "Bonjour.\p"
 	.string "J'ai parlé de toi à un nouveau\n"
@@ -667,14 +667,14 @@ MatchCall_PersonalizedText2:: @ 82AC0BD
 	.string "Tu vas devenir célèbre!\p"
 	.string "J'espère qu'on se reverra!$"
 
-MatchCall_PersonalizedText3:: @ 82AC18C
+MatchCall_PersonalizedText3::
 	.string "C'est {STR_VAR_1}. Bonjour!\p"
 	.string "Je me trouve dans un endroit\n"
 	.string "magnifique aux senteurs exquises!\p"
 	.string "Quelqu'un a dû planter des BAIES.\p"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText4:: @ 82AC228
+MatchCall_PersonalizedText4::
 	.string "Bonjour! Trente ans de fouilles,\n"
 	.string "{STR_VAR_1} à ton service!\p"
 	.string "On dirait que tu as la bougeotte,\n"
@@ -684,7 +684,7 @@ MatchCall_PersonalizedText4:: @ 82AC228
 	.string "Je te laisse, j'ai des ruines à\n"
 	.string "fouiller.$"
 
-MatchCall_PersonalizedText5:: @ 82AC30C
+MatchCall_PersonalizedText5::
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Devine ce que je fais!\n"
 	.string "J'admire les vagues sur la plage!\p"
@@ -692,7 +692,7 @@ MatchCall_PersonalizedText5:: @ 82AC30C
 	.string "sont magnifiques. Ça scintille!\l"
 	.string "Je commence à avoir faim. Au revoir!$"
 
-MatchCall_PersonalizedText6:: @ 82AC3B6
+MatchCall_PersonalizedText6::
 	.string "Miam, miam…\n"
 	.string "Oh, salut! C'est {STR_VAR_1}.\l"
 	.string "J'adore manger sur la plage.\p"
@@ -700,7 +700,7 @@ MatchCall_PersonalizedText6:: @ 82AC3B6
 	.string "On est gonflés à bloc!\l"
 	.string "Je vais faire trempette. Au revoir!$"
 
-MatchCall_PersonalizedText7:: @ 82AC446
+MatchCall_PersonalizedText7::
 	.string "Salut, c'est {STR_VAR_1}…\p"
 	.string "Cette histoire de TOPDRESSEUR\n"
 	.string "m'est un peu montée à la tête…\p"
@@ -716,7 +716,7 @@ MatchCall_PersonalizedText7:: @ 82AC446
 	.string "Merci, ça m'a fait du bien de te\n"
 	.string "parler!$"
 
-MatchCall_PersonalizedText8:: @ 82AC5C7
+MatchCall_PersonalizedText8::
 	.string "Salut, toi! C'est {STR_VAR_1}!\n"
 	.string "Ça va?\p"
 	.string "J'essaie de bien m'occuper de mes\n"
@@ -726,7 +726,7 @@ MatchCall_PersonalizedText8:: @ 82AC5C7
 	.string "C'est super d'avoir des amis\n"
 	.string "DRESSEURS! A bientôt!$"
 
-MatchCall_PersonalizedText9:: @ 82AC682
+MatchCall_PersonalizedText9::
 	.string "C'est {STR_VAR_1}…\n"
 	.string "Attention, derrière toi…\l"
 	.string "Il y avait quelque chose, non?\p"
@@ -737,7 +737,7 @@ MatchCall_PersonalizedText9:: @ 82AC682
 	.string "Surtout, ne te retourne pas…\p"
 	.string "Au revoir…$"
 
-MatchCall_PersonalizedText10:: @ 82AC755
+MatchCall_PersonalizedText10::
 	.string "C'est {STR_VAR_1}.\n"
 	.string "Comment tu vas?\p"
 	.string "C'est pratique de pouvoir garder\n"
@@ -748,7 +748,7 @@ MatchCall_PersonalizedText10:: @ 82AC755
 	.string "Bon, je te laisse.\n"
 	.string "Contente d'avoir parlé avec toi!$"
 
-MatchCall_PersonalizedText11:: @ 82AC82C
+MatchCall_PersonalizedText11::
 	.string "C'est {STR_VAR_1}!\n"
 	.string "J'ai quelque chose à te dire.\p"
 	.string "J'aime beaucoup le PARC SAFARI,\n"
@@ -760,7 +760,7 @@ MatchCall_PersonalizedText11:: @ 82AC82C
 	.string "Bon, je retourne au PARC SAFARI!\n"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText12:: @ 82AC914
+MatchCall_PersonalizedText12::
 	.string "Bonjour, ici {STR_VAR_1}.\n"
 	.string "Oui, je suis riche. C'est bien vrai.\p"
 	.string "Je suis encore plus riche que la\n"
@@ -774,7 +774,7 @@ MatchCall_PersonalizedText12:: @ 82AC914
 	.string "Je te prie de m'excuser.\n"
 	.string "Je dois me rendre à une réception.$"
 
-MatchCall_PersonalizedText13:: @ 82ACA59
+MatchCall_PersonalizedText13::
 	.string "C'est moi, {STR_VAR_1}…\p"
 	.string "Devine ce que je vois…\n"
 	.string "Deux {STR_VAR_2} en plein combat!\p"
@@ -783,7 +783,7 @@ MatchCall_PersonalizedText13:: @ 82ACA59
 	.string "Bon… Il faut que j'y aille.\n"
 	.string "Je te laisse.$"
 
-MatchCall_PersonalizedText14:: @ 82ACB02
+MatchCall_PersonalizedText14::
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Tu sais, j'en ai un peu marre de\n"
 	.string "l'EPAVE.\p"
@@ -797,7 +797,7 @@ MatchCall_PersonalizedText14:: @ 82ACB02
 	.string "envie d'un petit combat.\p"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText15:: @ 82ACC3F
+MatchCall_PersonalizedText15::
 	.string "C'est {STR_VAR_1}!\n"
 	.string "Le garçon amphibie!\p"
 	.string "Tu sais ce que je crois?\p"
@@ -810,7 +810,7 @@ MatchCall_PersonalizedText15:: @ 82ACC3F
 	.string "C'est génial de s'entraîner ici!\n"
 	.string "Il faut que je te laisse!$"
 
-MatchCall_PersonalizedText16:: @ 82ACD2F
+MatchCall_PersonalizedText16::
 	.string "C'est {STR_VAR_1}! J'ai donné des\n"
 	.string "cours de karaté à mes POKéMON.\p"
 	.string "Ils sont devenus meilleurs que moi!\n"
@@ -820,7 +820,7 @@ MatchCall_PersonalizedText16:: @ 82ACD2F
 	.string "Il faut qu'on en refasse un,\n"
 	.string "au fait! Yah!!!$"
 
-MatchCall_PersonalizedText17:: @ 82ACE1E
+MatchCall_PersonalizedText17::
 	.string "C'est moi, {STR_VAR_1}.\n"
 	.string "Comment se déroule ton voyage?\p"
 	.string "Waouh, vraiment?\n"
@@ -832,7 +832,7 @@ MatchCall_PersonalizedText17:: @ 82ACE1E
 	.string "Il faut que j'aille mettre tout ça\n"
 	.string "par écrit, sinon je vais oublier!$"
 
-MatchCall_PersonalizedText18:: @ 82ACF32
+MatchCall_PersonalizedText18::
 	.string "C'est {STR_VAR_1}…\n"
 	.string "Voici ma nouvelle chanson.\p"
 	.string "Tralala, {STR_VAR_2}, {STR_VAR_2}!\n"
@@ -842,7 +842,7 @@ MatchCall_PersonalizedText18:: @ 82ACF32
 	.string "{STR_VAR_1} et {STR_VAR_2}…\p"
 	.string "C'est le refrain!$"
 
-MatchCall_PersonalizedText19:: @ 82ACFBE
+MatchCall_PersonalizedText19::
 	.string "C'est moi {STR_VAR_1},\n"
 	.string "le pro du camping!\p"
 	.string "La dernière fois, je n'ai pas réussi\n"
@@ -853,7 +853,7 @@ MatchCall_PersonalizedText19:: @ 82ACFBE
 	.string "Viens nous voir à l'occasion!\n"
 	.string "Sur ce, je vais camper. Salut!$"
 
-MatchCall_PersonalizedText20:: @ 82AD0AC
+MatchCall_PersonalizedText20::
 	.string "C'est moi, {STR_VAR_1}!\p"
 	.string "Pour être honnête, j'aimerais bien\n"
 	.string "aller randonner ailleurs.\p"
@@ -863,7 +863,7 @@ MatchCall_PersonalizedText20:: @ 82AD0AC
 	.string "plein de jolies filles, dis-le-moi!\p"
 	.string "Hé, hé, hé! Au revoir!$"
 
-MatchCall_PersonalizedText21:: @ 82AD194
+MatchCall_PersonalizedText21::
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
 	.string "C'est {STR_VAR_1}…\p"
@@ -871,7 +871,7 @@ MatchCall_PersonalizedText21:: @ 82AD194
 	.string "… … … … … …\l"
 	.string "C'est tout pour aujourd'hui…$"
 
-MatchCall_PersonalizedText22:: @ 82AD1DF
+MatchCall_PersonalizedText22::
 	.string "C'est {STR_VAR_1}. J'avais envie\n"
 	.string "de te parler.\p"
 	.string "De jour en jour, mon désir de te\n"
@@ -881,7 +881,7 @@ MatchCall_PersonalizedText22:: @ 82AD1DF
 	.string "J'espère avoir bientôt la chance\n"
 	.string "d'être ton adversaire. Au revoir!$"
 
-MatchCall_PersonalizedText23:: @ 82AD2A8
+MatchCall_PersonalizedText23::
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Tu sais, quand un bon DRESSEUR\n"
 	.string "passe près de moi, je le sens.\p"
@@ -890,7 +890,7 @@ MatchCall_PersonalizedText23:: @ 82AD2A8
 	.string "J'espère te voir bientôt.\n"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText24:: @ 82AD34F
+MatchCall_PersonalizedText24::
 	.string "Bonjour, c'est {STR_VAR_1}.\n"
 	.string "Tu as l'air d'aller bien, {PLAYER}{KUN}.\p"
 	.string "J'ai beaucoup voyagé, je suis allé\n"
@@ -904,7 +904,7 @@ MatchCall_PersonalizedText24:: @ 82AD34F
 	.string "J'espère qu'on aura le temps de\n"
 	.string "refaire un combat.$"
 
-MatchCall_PersonalizedText25:: @ 82AD44E
+MatchCall_PersonalizedText25::
 	.string "Sniff… C'est… {STR_VAR_1}…\n"
 	.string "Sniff…\p"
 	.string "ROXANNE m'a grondé en classe\n"
@@ -916,7 +916,7 @@ MatchCall_PersonalizedText25:: @ 82AD44E
 	.string "l'ECOLE DE DRESSEURS demain!\p"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText26:: @ 82AD53A
+MatchCall_PersonalizedText26::
 	.string "C'est {STR_VAR_1}!\p"
 	.string "ROXANNE m'a permis de me battre\n"
 	.string "contre elle hier.\p"
@@ -928,7 +928,7 @@ MatchCall_PersonalizedText26:: @ 82AD53A
 	.string "Je vais travailler encore plus dur!\n"
 	.string "D'ailleurs, il faut que j'y aille!$"
 
-MatchCall_PersonalizedText27:: @ 82AD642
+MatchCall_PersonalizedText27::
 	.string "Bonjour, c'est ANNA! Je suis avec\n"
 	.string "ma charmante partenaire, EVA.\p"
 	.string "J'adore m'occuper d'EVA et de\n"
@@ -946,7 +946,7 @@ MatchCall_PersonalizedText27:: @ 82AD642
 	.string "Je dois y aller,\n"
 	.string "on va manger!$"
 
-MatchCall_PersonalizedText28:: @ 82AD801
+MatchCall_PersonalizedText28::
 	.string "J'adore les POKéMON!\n"
 	.string "C'est {STR_VAR_1} du FAN CLUB!\p"
 	.string "Un truc incroyable s'est passé!\n"
@@ -961,7 +961,7 @@ MatchCall_PersonalizedText28:: @ 82AD801
 	.string "Désolé, le devoir m'appelle! Je\n"
 	.string "t'en dirai plus la prochaine fois!$"
 
-MatchCall_PersonalizedText29:: @ 82AD92E
+MatchCall_PersonalizedText29::
 	.string "Oh, oh!\p"
 	.string "C'est {STR_VAR_1}! J'ai plein de\n"
 	.string "choses à te raconter!\p"
@@ -978,7 +978,7 @@ MatchCall_PersonalizedText29:: @ 82AD92E
 	.string "Bon, je dois te laisser.\n"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText30:: @ 82ADA8F
+MatchCall_PersonalizedText30::
 	.string "Je suis… {STR_VAR_1}.\n"
 	.string "Les gens m'appellent l'EXPERT.\p"
 	.string "Il y a une chose que je sais. Sans\n"
@@ -990,7 +990,7 @@ MatchCall_PersonalizedText30:: @ 82ADA8F
 	.string "Sur ces bonnes paroles, je te\n"
 	.string "dis au revoir!$"
 
-MatchCall_PersonalizedText31:: @ 82ADB9B
+MatchCall_PersonalizedText31::
 	.string "C'est {STR_VAR_1}.\n"
 	.string "Je suis contente de te parler!\p"
 	.string "Je fais trempette dans les sources\n"
@@ -1001,7 +1001,7 @@ MatchCall_PersonalizedText31:: @ 82ADB9B
 	.string "Et je suis sûre que tu as encore\n"
 	.string "progressé depuis la dernière fois!$"
 
-MatchCall_PersonalizedText32:: @ 82ADC92
+MatchCall_PersonalizedText32::
 	.string "Hé, salut! C'est {STR_VAR_1}!\n"
 	.string "Quoi de neuf?\p"
 	.string "C'est peut-être une impression,\n"
@@ -1017,7 +1017,7 @@ MatchCall_PersonalizedText32:: @ 82ADC92
 	.string "Quoi, tu m'as cru? Hé, hé, hé!\l"
 	.string "Tu crois tout ce qu'on te dit, toi!$"
 
-MatchCall_PersonalizedText33:: @ 82ADE08
+MatchCall_PersonalizedText33::
 	.string "Salut, toi!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Comme d'habitude, je m'adonne\n"
@@ -1032,7 +1032,7 @@ MatchCall_PersonalizedText33:: @ 82ADE08
 	.string "Je veux dire, j'ai une prise!\n"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText34:: @ 82ADF07
+MatchCall_PersonalizedText34::
 	.string "Bonjour, c'est {STR_VAR_1}.\n"
 	.string "Tout baigne?\p"
 	.string "Tu sais, quand j'étais petit,\n"
@@ -1050,7 +1050,7 @@ MatchCall_PersonalizedText34:: @ 82ADF07
 	.string "Penses-y!\n"
 	.string "Allez, à plus.$"
 
-MatchCall_PersonalizedText35:: @ 82AE0D9
+MatchCall_PersonalizedText35::
 	.string "C'est {STR_VAR_1}!\n"
 	.string "Je suis à vélo.\p"
 	.string "J'adore nager et courir, mais le\n"
@@ -1064,7 +1064,7 @@ MatchCall_PersonalizedText35:: @ 82AE0D9
 	.string "Toi aussi, tu devrais essayer!\n"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText36:: @ 82AE1FD
+MatchCall_PersonalizedText36::
 	.string "Salut, c'est {STR_VAR_1}! Je suis en\n"
 	.string "plein triathlon!\p"
 	.string "Mais c'est pas ça qui m'empêche\n"
@@ -1078,7 +1078,7 @@ MatchCall_PersonalizedText36:: @ 82AE1FD
 	.string "C'est… pas facile…\l"
 	.string "Je m'essouffle… Au revoir…$"
 
-MatchCall_PersonalizedText37:: @ 82AE327
+MatchCall_PersonalizedText37::
 	.string "Salut, {STR_VAR_1}.\n"
 	.string "Si tu veux améliorer ton endurance,\l"
 	.string "entraîne-toi en altitude!\p"
@@ -1087,7 +1087,7 @@ MatchCall_PersonalizedText37:: @ 82AE327
 	.string "Justement, je commence à\n"
 	.string "manquer d'oxygène! Je te laisse!$"
 
-MatchCall_PersonalizedText38:: @ 82AE3DA
+MatchCall_PersonalizedText38::
 	.string "C'est {STR_VAR_1}. Bonjour!\p"
 	.string "Je n'arrête pas de nager, mais je ne\n"
 	.string "trouve pas ETERNARA.\p"
@@ -1096,7 +1096,7 @@ MatchCall_PersonalizedText38:: @ 82AE3DA
 	.string "Non, non, c'est impossible…\n"
 	.string "Allez, à bientôt!$"
 
-MatchCall_PersonalizedText39:: @ 82AE489
+MatchCall_PersonalizedText39::
 	.string "Salut, {STR_VAR_1}…\n"
 	.string "Blop!\p"
 	.string "Bloup, bloup, bloup…\p"
@@ -1109,7 +1109,7 @@ MatchCall_PersonalizedText39:: @ 82AE489
 	.string "Bon, je vais faire bronzette!\n"
 	.string "Désolé, je dois te laisser.$"
 
-MatchCall_PersonalizedText40:: @ 82AE5CD
+MatchCall_PersonalizedText40::
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "Mon épreuve de triathlon préférée,\n"
 	.string "c'est la nage.\p"
@@ -1119,14 +1119,14 @@ MatchCall_PersonalizedText40:: @ 82AE5CD
 	.string "J'aime le triathlon! J'aime dépasser\n"
 	.string "mes peurs! Au revoir!$"
 
-MatchCall_PersonalizedText41:: @ 82AE698
+MatchCall_PersonalizedText41::
 	.string "Salut, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "Comment vont tes POKéMON?\p"
 	.string "Mes POKéMON DRAGON pètent le feu!\n"
 	.string "A la prochaine!$"
 
-MatchCall_PersonalizedText42:: @ 82AE704
+MatchCall_PersonalizedText42::
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Mon {STR_VAR_2} a beaucoup changé\n"
 	.string "depuis la dernière fois.\p"
@@ -1134,7 +1134,7 @@ MatchCall_PersonalizedText42:: @ 82AE704
 	.string "Vivement qu'on se revoie!\p"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText43:: @ 82AE78F
+MatchCall_PersonalizedText43::
 	.string "C'est {STR_VAR_1} à l'appareil.\p"
 	.string "J'ai continué mes recherches sur\n"
 	.string "l'art de la dissimulation.\p"
@@ -1144,7 +1144,7 @@ MatchCall_PersonalizedText43:: @ 82AE78F
 	.string "Comme la fumée, je me dissipe!\n"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText44:: @ 82AE859
+MatchCall_PersonalizedText44::
 	.string "C'est {STR_VAR_1}.\n"
 	.string "Je n'ai pas arrêté de m'entraîner\l"
 	.string "depuis la dernière fois.\p"
@@ -1153,7 +1153,7 @@ MatchCall_PersonalizedText44:: @ 82AE859
 	.string "Je m'entraîne sur la plage. Je\n"
 	.string "trouve ça plus efficace. Au revoir!$"
 
-MatchCall_PersonalizedText45:: @ 82AE8E6
+MatchCall_PersonalizedText45::
 	.string "Comment ça va?\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Ces cendres volcaniques n'en\n"
@@ -1162,7 +1162,7 @@ MatchCall_PersonalizedText45:: @ 82AE8E6
 	.string "motifs de mon parasol…\p"
 	.string "J'espère te voir bientôt!$"
 
-MatchCall_PersonalizedText46:: @ 82AE998
+MatchCall_PersonalizedText46::
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "Tu sais que c'est plus facile de\n"
 	.string "faire la planche dans la mer que\l"
@@ -1174,7 +1174,7 @@ MatchCall_PersonalizedText46:: @ 82AE998
 	.string "Mais au fait, où je suis là???\n"
 	.string "Heu… Il faut que je te laisse!$"
 
-MatchCall_PersonalizedText47:: @ 82AEA8F
+MatchCall_PersonalizedText47::
 	.string "Bonjour {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Je suis en montagne.\p"
@@ -1186,14 +1186,14 @@ MatchCall_PersonalizedText47:: @ 82AEA8F
 	.string "Je vais essayer!\n"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText48:: @ 82AEB77
+MatchCall_PersonalizedText48::
 	.string "Bonjour, c'est {STR_VAR_1}!\p"
 	.string "J'élève des POKéMON avec AWA!\n"
 	.string "On prend ça très au sérieux!\p"
 	.string "Si on y met encore plus d'énergie,\n"
 	.string "on deviendra les meilleures!$"
 
-MatchCall_PersonalizedText49:: @ 82AEBFA
+MatchCall_PersonalizedText49::
 	.string "Ici {STR_VAR_1}!\p"
 	.string "Je suis un MARIN, même si je ne suis\n"
 	.string "pas en mer en ce moment…\p"
@@ -1203,7 +1203,7 @@ MatchCall_PersonalizedText49:: @ 82AEBFA
 	.string "je deviens un peu nostalgique.\p"
 	.string "Allez, à la prochaine!$"
 
-MatchCall_PersonalizedText50:: @ 82AECC1
+MatchCall_PersonalizedText50::
 	.string "C'est {STR_VAR_1}.\n"
 	.string "Tu as de nouveaux POKéMON?\p"
 	.string "Si tu en attrapes un nouveau,\n"
@@ -1211,7 +1211,7 @@ MatchCall_PersonalizedText50:: @ 82AECC1
 	.string "Je promets de ne pas être jaloux.\n"
 	.string "A bientôt, j'espère!$"
 
-MatchCall_PersonalizedText51:: @ 82AED52
+MatchCall_PersonalizedText51::
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Elèves-tu tes POKéMON\n"
 	.string "correctement?\p"
@@ -1222,7 +1222,7 @@ MatchCall_PersonalizedText51:: @ 82AED52
 	.string "optimale, viens sur la\l"
 	.string "{STR_VAR_2}!$"
 
-MatchCall_PersonalizedText52:: @ 82AEE35
+MatchCall_PersonalizedText52::
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "J'ai donné un {POKEBLOCK} à mon\n"
 	.string "{STR_VAR_2}. Il a beaucoup aimé.\p"
@@ -1231,7 +1231,7 @@ MatchCall_PersonalizedText52:: @ 82AEE35
 	.string "Je trouve ça fascinant.\n"
 	.string "Au revoir.$"
 
-MatchCall_PersonalizedText53:: @ 82AEEF4
+MatchCall_PersonalizedText53::
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Grâce aux POKéMON, tu peux\n"
 	.string "survivre en pleine nature.\p"
@@ -1242,7 +1242,7 @@ MatchCall_PersonalizedText53:: @ 82AEEF4
 	.string "Mais tu ne fais pas partie des gens\n"
 	.string "à convaincre. Tu penses POKéMON!$"
 
-MatchCall_PersonalizedText54:: @ 82AEFDA
+MatchCall_PersonalizedText54::
 	.string "Salut, c'est {STR_VAR_1}.\n"
 	.string "Je suis toujours prête! Et toi?\p"
 	.string "{PLAYER}{KUN}, as-tu assez d'objets?\n"
@@ -1254,7 +1254,7 @@ MatchCall_PersonalizedText54:: @ 82AEFDA
 	.string "La vigilance épargne bien des\l"
 	.string "problèmes!$"
 
-MatchCall_PersonalizedText55:: @ 82AF0E7
+MatchCall_PersonalizedText55::
 	.string "C'est {STR_VAR_1}!\n"
 	.string "Oui, {STR_VAR_1}!\p"
 	.string "Il y a beaucoup de passage sur\n"
@@ -1265,7 +1265,7 @@ MatchCall_PersonalizedText55:: @ 82AF0E7
 	.string "Tu as passé une bonne journée?\n"
 	.string "Bon, tu me raconteras ça plus tard!$"
 
-MatchCall_PersonalizedText56:: @ 82AF1B8
+MatchCall_PersonalizedText56::
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Mes POKéMON INSECTE sont\n"
 	.string "franchement cool, non?\p"
@@ -1278,7 +1278,7 @@ MatchCall_PersonalizedText56:: @ 82AF1B8
 	.string "Sniff…\n"
 	.string "Au revoir!$"
 
-MatchCall_PersonalizedText57:: @ 82AF2C4
+MatchCall_PersonalizedText57::
 	.string "Ouf…\p"
 	.string "Bonjour! C'est {STR_VAR_1}!\p"
 	.string "Parler…\n"
@@ -1289,7 +1289,7 @@ MatchCall_PersonalizedText57:: @ 82AF2C4
 	.string "On parlera… une autre fois…\l"
 	.string "Ouf…$"
 
-MatchCall_PersonalizedText58:: @ 82AF371
+MatchCall_PersonalizedText58::
 	.string "Oh, salut!\p"
 	.string "Je cherche des trésors avec\n"
 	.string "RITA!\p"
@@ -1303,7 +1303,7 @@ MatchCall_PersonalizedText58:: @ 82AF371
 	.string "puce! Il n'y a que toi dans ma vie!\p"
 	.string "Je dois raccrocher, {PLAYER}…$"
 
-MatchCall_PersonalizedText59:: @ 82AF480
+MatchCall_PersonalizedText59::
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Je suis retourné à l'ARENE de\n"
 	.string "MYOKARA pour m'entraîner.\p"
@@ -1323,7 +1323,7 @@ MatchCall_PersonalizedText59:: @ 82AF480
 	.string "Allez, oublie ce que je viens de\n"
 	.string "dire!$"
 
-MatchCall_PersonalizedText60:: @ 82AF671
+MatchCall_PersonalizedText60::
 	.string "C'est un plaisir de discuter avec\n"
 	.string "un jeune DRESSEUR comme toi.\p"
 	.string "Ta passion pour les POKéMON va\n"
@@ -1338,7 +1338,7 @@ MatchCall_PersonalizedText60:: @ 82AF671
 	.string "Ha, ha, ha!\n"
 	.string "Ne te décourage jamais!$"
 
-MatchCall_PersonalizedText61:: @ 82AF7D8
+MatchCall_PersonalizedText61::
 	.string "Bonjour, c'est {STR_VAR_1}!\n"
 	.string "Nous venons de gagner un combat!\p"
 	.string "Nous ne gagnons pas souvent, mais\n"
@@ -1352,7 +1352,7 @@ MatchCall_PersonalizedText61:: @ 82AF7D8
 	.string "essayer de lui parler?\p"
 	.string "Allez, au revoir!$"
 
-MatchCall_PersonalizedText62:: @ 82AF8F7
+MatchCall_PersonalizedText62::
 	.string "Bonjour, c'est {STR_VAR_1}.\n"
 	.string "Je suis parti en mer hier.\p"
 	.string "Je pensais y trouver quelque\n"
@@ -1366,7 +1366,7 @@ MatchCall_PersonalizedText62:: @ 82AF8F7
 	.string "C'est tout ce que je voulais te\n"
 	.string "dire! Au revoir!$"
 
-MatchCall_PersonalizedText63:: @ 82AFA39
+MatchCall_PersonalizedText63::
 	.string "Ohé, du bateau!\n"
 	.string "C'est moi, {STR_VAR_1}!\l"
 	.string "Je suis sur le CHENAL 108 en ce\l"
@@ -1379,7 +1379,7 @@ MatchCall_PersonalizedText63:: @ 82AFA39
 	.string "C'était les nouvelles du\n"
 	.string "CHENAL 108 par {STR_VAR_1}!$"
 
-MatchCall_PersonalizedText64:: @ 82AFB26
+MatchCall_PersonalizedText64::
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Je suis très occupée, mais je\n"
 	.string "voulais te dire que j'avais battu\l"
@@ -1389,14 +1389,14 @@ MatchCall_PersonalizedText64:: @ 82AFB26
 	.string "Je crois que toi et moi sommes de\n"
 	.string "bons adversaires!$"
 
-MatchCall_BattleFrontierStreakText1:: @ 82AFC07
+MatchCall_BattleFrontierStreakText1::
 	.string "Bonjour! C'est {STR_VAR_1}.\n"
 	.string "Je suis au courant!\p"
 	.string "Tu as obtenu {STR_VAR_3} victoires à la\n"
 	.string "suite! Où? {STR_VAR_2}!\p"
 	.string "Eh bien, chapeau! Au revoir!$"
 
-MatchCall_BattleFrontierStreakText2:: @ 82AFC78
+MatchCall_BattleFrontierStreakText2::
 	.string "Bonjour, c'est {STR_VAR_1}.\n"
 	.string "Je suis au courant!\p"
 	.string "{STR_VAR_3} victoires consécutives! Mais\n"
@@ -1404,7 +1404,7 @@ MatchCall_BattleFrontierStreakText2:: @ 82AFC78
 	.string "Il faut que je prenne exemple sur\n"
 	.string "toi. Au revoir!$"
 
-MatchCall_BattleFrontierStreakText3:: @ 82AFCFF
+MatchCall_BattleFrontierStreakText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "J'ai eu vent de tes exploits! Mais\n"
@@ -1414,7 +1414,7 @@ MatchCall_BattleFrontierStreakText3:: @ 82AFCFF
 	.string "Je ferais bien de prendre exemple\n"
 	.string "sur toi! Au revoir!$"
 
-MatchCall_BattleFrontierStreakText4:: @ 82AFDA7
+MatchCall_BattleFrontierStreakText4::
 	.string "Allô, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Bonjour!\p"
 	.string "Il paraît que tu as obtenu {STR_VAR_3}\n"
@@ -1423,7 +1423,7 @@ MatchCall_BattleFrontierStreakText4:: @ 82AFDA7
 	.string "Bon, il faut que je me remette\n"
 	.string "sérieusement à l'entraînement!$"
 
-MatchCall_BattleFrontierStreakText5:: @ 82AFE3D
+MatchCall_BattleFrontierStreakText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "Je sais que tu as gagné {STR_VAR_3}\n"
@@ -1432,7 +1432,7 @@ MatchCall_BattleFrontierStreakText5:: @ 82AFE3D
 	.string "Il faut que je me concentre plus\n"
 	.string "sur mes POKéMON. A bientôt!$"
 
-MatchCall_BattleFrontierStreakText6:: @ 82AFECA
+MatchCall_BattleFrontierStreakText6::
 	.string "Salut, {PLAYER}{KUN}.\n"
 	.string "Ici {STR_VAR_1}. Comment vas-tu?\p"
 	.string "Je sais que tu as obtenu {STR_VAR_3}\n"
@@ -1441,7 +1441,7 @@ MatchCall_BattleFrontierStreakText6:: @ 82AFECA
 	.string "Je devrais en prendre de la graine\n"
 	.string "et élever mon équipe mieux que ça.$"
 
-MatchCall_BattleFrontierStreakText7:: @ 82AFF64
+MatchCall_BattleFrontierStreakText7::
 	.string "Heu… {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}…\p"
 	.string "Tu as combattu dans la ZONE DE\n"
@@ -1451,7 +1451,7 @@ MatchCall_BattleFrontierStreakText7:: @ 82AFF64
 	.string "Je viens d'apercevoir un POKéMON\n"
 	.string "rare! Je te laisse!$"
 
-MatchCall_BattleFrontierStreakText8:: @ 82AFFF0
+MatchCall_BattleFrontierStreakText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça a l'air d'aller pour toi.\p"
@@ -1461,7 +1461,7 @@ MatchCall_BattleFrontierStreakText8:: @ 82AFFF0
 	.string "C'est très impressionnant!\n"
 	.string "Continue sur cette voie.$"
 
-MatchCall_BattleFrontierStreakText9:: @ 82B00B5
+MatchCall_BattleFrontierStreakText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "On m'a parlé de tes {STR_VAR_3} victoires\n"
@@ -1470,7 +1470,7 @@ MatchCall_BattleFrontierStreakText9:: @ 82B00B5
 	.string "C'est formidable!\n"
 	.string "Bon, je ferais bien de t'imiter!$"
 
-MatchCall_BattleFrontierStreakText10:: @ 82B0129
+MatchCall_BattleFrontierStreakText10::
 	.string "Coucou, {PLAYER}{KUN}…\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "C'est vrai que tu as gagné {STR_VAR_3}\n"
@@ -1479,7 +1479,7 @@ MatchCall_BattleFrontierStreakText10:: @ 82B0129
 	.string "Je vais essayer de suivre ton\n"
 	.string "exemple. Je dois m'améliorer.$"
 
-MatchCall_BattleFrontierStreakText11:: @ 82B01A5
+MatchCall_BattleFrontierStreakText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "On va devoir t'appeler sa Majesté\n"
@@ -1489,7 +1489,7 @@ MatchCall_BattleFrontierStreakText11:: @ 82B01A5
 	.string "C'est vraiment bien!\n"
 	.string "Je devrais essayer, moi aussi!$"
 
-MatchCall_BattleFrontierStreakText12:: @ 82B0232
+MatchCall_BattleFrontierStreakText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça va?\p"
@@ -1499,7 +1499,7 @@ MatchCall_BattleFrontierStreakText12:: @ 82B0232
 	.string "C'est assez impressionnant.\n"
 	.string "Au revoir!$"
 
-MatchCall_BattleFrontierStreakText13:: @ 82B02D9
+MatchCall_BattleFrontierStreakText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\l"
 	.string "J'espère que tout va bien.\p"
@@ -1509,7 +1509,7 @@ MatchCall_BattleFrontierStreakText13:: @ 82B02D9
 	.string "Quelle énergie! Je t'admire.\n"
 	.string "A bientôt.$"
 
-MatchCall_BattleFrontierStreakText14:: @ 82B0366
+MatchCall_BattleFrontierStreakText14::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "On m'a parlé de toi! Tu as gagné {STR_VAR_3}\n"
@@ -1518,7 +1518,7 @@ MatchCall_BattleFrontierStreakText14:: @ 82B0366
 	.string "Tu es un modèle pour moi!\n"
 	.string "Au revoir!$"
 
-MatchCall_BattleFrontierRecordStreakText1:: @ 82B03E6
+MatchCall_BattleFrontierRecordStreakText1::
 	.string "Bonjour, c'est {STR_VAR_1}.\n"
 	.string "Je suis au courant!\p"
 	.string "Tu as fait des tiennes dans la ZONE\n"
@@ -1528,7 +1528,7 @@ MatchCall_BattleFrontierRecordStreakText1:: @ 82B03E6
 	.string "n'est-ce pas? Bravo!\l"
 	.string "Allez, au revoir!$"
 
-MatchCall_BattleFrontierRecordStreakText2:: @ 82B0457
+MatchCall_BattleFrontierRecordStreakText2::
 	.string "Bonjour, c'est {STR_VAR_1}!\n"
 	.string "J'ai entendu parler de toi!\p"
 	.string "Dans quel bâtiment de la ZONE DE\n"
@@ -1537,7 +1537,7 @@ MatchCall_BattleFrontierRecordStreakText2:: @ 82B0457
 	.string "C'est très fort, ça!\n"
 	.string "Je devrais prendre exemple!$"
 
-MatchCall_BattleFrontierRecordStreakText3:: @ 82B04DE
+MatchCall_BattleFrontierRecordStreakText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Tu as fait des ravages dans la ZONE\n"
@@ -1548,7 +1548,7 @@ MatchCall_BattleFrontierRecordStreakText3:: @ 82B04DE
 	.string "Bon, il faut que je me reprenne!\n"
 	.string "Au revoir!$"
 
-MatchCall_BattleFrontierRecordStreakText4:: @ 82B0586
+MatchCall_BattleFrontierRecordStreakText4::
 	.string "Allô, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Bonjour, ça va?\p"
 	.string "Tu as obtenu {STR_VAR_3} victoires\n"
@@ -1557,7 +1557,7 @@ MatchCall_BattleFrontierRecordStreakText4:: @ 82B0586
 	.string "Je vais de ce pas m'entraîner,\n"
 	.string "tiens… Au revoir!$"
 
-MatchCall_BattleFrontierRecordStreakText5:: @ 82B061C
+MatchCall_BattleFrontierRecordStreakText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "C'est vrai que tu as gagné {STR_VAR_3}\n"
@@ -1566,7 +1566,7 @@ MatchCall_BattleFrontierRecordStreakText5:: @ 82B061C
 	.string "Moi? On fait aller.\n"
 	.string "A bientôt!$"
 
-MatchCall_BattleFrontierRecordStreakText6:: @ 82B06A3
+MatchCall_BattleFrontierRecordStreakText6::
 	.string "Salut, {PLAYER}{KUN}.\n"
 	.string "Ici {STR_VAR_1}. Comment ça va?\p"
 	.string "Il paraît que tu as obtenu {STR_VAR_3}\n"
@@ -1575,7 +1575,7 @@ MatchCall_BattleFrontierRecordStreakText6:: @ 82B06A3
 	.string "Je ne peux pas en dire autant de\n"
 	.string "moi. Au revoir!$"
 
-MatchCall_BattleFrontierRecordStreakText7:: @ 82B073B
+MatchCall_BattleFrontierRecordStreakText7::
 	.string "Heu… {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}…\p"
 	.string "C'est vrai que tu as relevé le défi\n"
@@ -1586,7 +1586,7 @@ MatchCall_BattleFrontierRecordStreakText7:: @ 82B073B
 	.string "Je viens de voir un POKéMON rare!\n"
 	.string "Je te laisse!$"
 
-MatchCall_BattleFrontierRecordStreakText8:: @ 82B07C7
+MatchCall_BattleFrontierRecordStreakText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça a l'air d'aller pour toi.\p"
@@ -1596,7 +1596,7 @@ MatchCall_BattleFrontierRecordStreakText8:: @ 82B07C7
 	.string "C'est très impressionnant!\n"
 	.string "Continue sur cette voie.$"
 
-MatchCall_BattleFrontierRecordStreakText9:: @ 82B0894
+MatchCall_BattleFrontierRecordStreakText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "J'ai appris que tu avais obtenu\n"
@@ -1605,7 +1605,7 @@ MatchCall_BattleFrontierRecordStreakText9:: @ 82B0894
 	.string "C'est formidable!\n"
 	.string "Bon, je ferais bien de t'imiter!$"
 
-MatchCall_BattleFrontierRecordStreakText10:: @ 82B0908
+MatchCall_BattleFrontierRecordStreakText10::
 	.string "Coucou, {PLAYER}{KUN}…\n"
 	.string "C'est moi, {STR_VAR_1}.\p"
 	.string "Dans quel bâtiment de la ZONE DE\n"
@@ -1614,7 +1614,7 @@ MatchCall_BattleFrontierRecordStreakText10:: @ 82B0908
 	.string "Je vais essayer de suivre ton\n"
 	.string "exemple. Je dois m'améliorer.$"
 
-MatchCall_BattleFrontierRecordStreakText11:: @ 82B0984
+MatchCall_BattleFrontierRecordStreakText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "On va devoir t'appeler sa Majesté\n"
@@ -1624,7 +1624,7 @@ MatchCall_BattleFrontierRecordStreakText11:: @ 82B0984
 	.string "C'est vraiment bien!\n"
 	.string "Je devrais essayer, moi aussi!$"
 
-MatchCall_BattleFrontierRecordStreakText12:: @ 82B0A11
+MatchCall_BattleFrontierRecordStreakText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça va?\p"
@@ -1634,7 +1634,7 @@ MatchCall_BattleFrontierRecordStreakText12:: @ 82B0A11
 	.string "C'est assez impressionnant.\n"
 	.string "Au revoir!$"
 
-MatchCall_BattleFrontierRecordStreakText13:: @ 82B0AB8
+MatchCall_BattleFrontierRecordStreakText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\l"
 	.string "J'espère que tout va bien.\p"
@@ -1645,7 +1645,7 @@ MatchCall_BattleFrontierRecordStreakText13:: @ 82B0AB8
 	.string "A bientôt.$"
 
 
-MatchCall_BattleFrontierRecordStreakText14:: @ 82B0B45
+MatchCall_BattleFrontierRecordStreakText14::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "J'ai entendu parler de toi!\p"
@@ -1655,7 +1655,7 @@ MatchCall_BattleFrontierRecordStreakText14:: @ 82B0B45
 	.string "Tu es un modèle pour moi!\n"
 	.string "Au revoir!$"
 
-MatchCall_BattleDomeText1:: @ 82B0BC5
+MatchCall_BattleDomeText1::
 	.string "{PLAYER}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}!\l"
 	.string "Je suis au courant!\p"
@@ -1664,7 +1664,7 @@ MatchCall_BattleDomeText1:: @ 82B0BC5
 	.string "C'est incroyable. Je devrais avoir\n"
 	.string "honte de moi! Au revoir!$"
 
-MatchCall_BattleDomeText2:: @ 82B0C4A
+MatchCall_BattleDomeText2::
 	.string "Bonjour, c'est {STR_VAR_1}!\n"
 	.string "Je suis au courant!\p"
 	.string "Tu as remporté {STR_VAR_3} fois le titre\n"
@@ -1673,7 +1673,7 @@ MatchCall_BattleDomeText2:: @ 82B0C4A
 	.string "remporter ce titre au moins\l"
 	.string "une fois!$"
 
-MatchCall_BattleDomeText3:: @ 82B0CC7
+MatchCall_BattleDomeText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\l"
 	.string "Comment ça va?\p"
@@ -1683,7 +1683,7 @@ MatchCall_BattleDomeText3:: @ 82B0CC7
 	.string "Ne t'arrête pas là!\n"
 	.string "Au revoir!$"
 
-MatchCall_BattleDomeText4:: @ 82B0D4A
+MatchCall_BattleDomeText4::
 	.string "Allô, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Bonjour!\p"
 	.string "J'ai entendu dire que tu as\n"
@@ -1692,7 +1692,7 @@ MatchCall_BattleDomeText4:: @ 82B0D4A
 	.string "Je vois que tes efforts portent\n"
 	.string "leurs fruits! Je dois persévérer!$"
 
-MatchCall_BattleDomeText5:: @ 82B0DC8
+MatchCall_BattleDomeText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "On m'a dit que tu avais remporté\n"
@@ -1701,7 +1701,7 @@ MatchCall_BattleDomeText5:: @ 82B0DC8
 	.string "Moi aussi, je devrais m'y mettre!\n"
 	.string "A bientôt!$"
 
-MatchCall_BattleDomeText6:: @ 82B0E35
+MatchCall_BattleDomeText6::
 	.string "Salut, {PLAYER}{KUN}?\n"
 	.string "{STR_VAR_1} à l'appareil. Ça va?\p"
 	.string "Je sais que tu as remporté le titre\n"
@@ -1710,7 +1710,7 @@ MatchCall_BattleDomeText6:: @ 82B0E35
 	.string "Je ferais bien de me concentrer sur\n"
 	.string "mes POKéMON.$"
 
-MatchCall_BattleDomeText7:: @ 82B0ED1
+MatchCall_BattleDomeText7::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}.\p"
 	.string "Tu as obtenu le titre du bâtiment\n"
@@ -1722,7 +1722,7 @@ MatchCall_BattleDomeText7:: @ 82B0ED1
 	.string "Vraiment?\n"
 	.string "Bien, au revoir.$"
 
-MatchCall_BattleDomeText8:: @ 82B0F72
+MatchCall_BattleDomeText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça a l'air d'aller pour toi.\p"
@@ -1732,7 +1732,7 @@ MatchCall_BattleDomeText8:: @ 82B0F72
 	.string "Je vais élever mes POKéMON de la\n"
 	.string "même façon que toi. Au revoir!$"
 
-MatchCall_BattleDomeText9:: @ 82B102A
+MatchCall_BattleDomeText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Je sais tout! Félicitations, tu as\n"
@@ -1741,7 +1741,7 @@ MatchCall_BattleDomeText9:: @ 82B102A
 	.string "C'est formidable!\n"
 	.string "Bon, je ferais bien de t'imiter!$"
 
-MatchCall_BattleDomeText10:: @ 82B10A7
+MatchCall_BattleDomeText10::
 	.string "Bonjour {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Tu as obtenu le titre du bâtiment\n"
@@ -1750,7 +1750,7 @@ MatchCall_BattleDomeText10:: @ 82B10A7
 	.string "Je vais essayer de suivre ton\n"
 	.string "exemple. Je dois m'améliorer.$"
 
-MatchCall_BattleDomeText11:: @ 82B1121
+MatchCall_BattleDomeText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "On va devoir t'appeler sa Majesté\n"
@@ -1762,7 +1762,7 @@ MatchCall_BattleDomeText11:: @ 82B1121
 	.string "Mais ça m'étonnerait…\n"
 	.string "Bon, au revoir!$"
 
-MatchCall_BattleDomeText12:: @ 82B11D3
+MatchCall_BattleDomeText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça va?\p"
@@ -1772,7 +1772,7 @@ MatchCall_BattleDomeText12:: @ 82B11D3
 	.string "C'est assez impressionnant.\n"
 	.string "Au revoir!$"
 
-MatchCall_BattleDomeText13:: @ 82B124D
+MatchCall_BattleDomeText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\l"
 	.string "J'espère que tout va bien.\p"
@@ -1782,7 +1782,7 @@ MatchCall_BattleDomeText13:: @ 82B124D
 	.string "Quelle énergie! Je t'admire.\n"
 	.string "A bientôt.$"
 
-MatchCall_BattleDomeText14:: @ 82B12D0
+MatchCall_BattleDomeText14::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\l"
 	.string "J'ai entendu parler de toi!\p"
@@ -1791,7 +1791,7 @@ MatchCall_BattleDomeText14:: @ 82B12D0
 	.string "Tu es un modèle pour moi!\n"
 	.string "Au revoir!$"
 
-MatchCall_BattlePikeText1:: @ 82B1347
+MatchCall_BattlePikeText1::
 	.string "Bonjour, {PLAYER}!\n"
 	.string "C'est {STR_VAR_1}!\l"
 	.string "Je suis au courant!\p"
@@ -1800,7 +1800,7 @@ MatchCall_BattlePikeText1:: @ 82B1347
 	.string "C'est superbe!\n"
 	.string "Au revoir!$"
 
-MatchCall_BattlePikeText2:: @ 82B13B1
+MatchCall_BattlePikeText2::
 	.string "Bonjour, c'est {STR_VAR_1}!\n"
 	.string "J'ai entendu parler de toi!\p"
 	.string "Il paraît que tu as traversé {STR_VAR_3}\n"
@@ -1808,7 +1808,7 @@ MatchCall_BattlePikeText2:: @ 82B13B1
 	.string "Moi, il faut que je redouble\n"
 	.string "d'efforts! Au revoir!$"
 
-MatchCall_BattlePikeText3:: @ 82B142B
+MatchCall_BattlePikeText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\l"
 	.string "Comment ça va?\p"
@@ -1817,7 +1817,7 @@ MatchCall_BattlePikeText3:: @ 82B142B
 	.string "Essaie de faire encore mieux\n"
 	.string "la prochaine fois! Au revoir!$"
 
-MatchCall_BattlePikeText4:: @ 82B14B4
+MatchCall_BattlePikeText4::
 	.string "Allô, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Bonjour!\p"
 	.string "Alors comme ça, tu as traversé\n"
@@ -1825,7 +1825,7 @@ MatchCall_BattlePikeText4:: @ 82B14B4
 	.string "Je ferais bien de m'occuper un peu\n"
 	.string "mieux de mes POKéMON!$"
 
-MatchCall_BattlePikeText5:: @ 82B1525
+MatchCall_BattlePikeText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "Il paraît que tu as traversé\n"
@@ -1833,7 +1833,7 @@ MatchCall_BattlePikeText5:: @ 82B1525
 	.string "Moi aussi, je devrais m'y mettre!\n"
 	.string "A bientôt!$"
 
-MatchCall_BattlePikeText6:: @ 82B158E
+MatchCall_BattlePikeText6::
 	.string "Hé, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Comment vas-tu?\p"
 	.string "J'ai entendu dire que tu avais\n"
@@ -1842,7 +1842,7 @@ MatchCall_BattlePikeText6:: @ 82B158E
 	.string "Je ferais bien de me concentrer\n"
 	.string "sur mes POKéMON.$"
 
-MatchCall_BattlePikeText7:: @ 82B1622
+MatchCall_BattlePikeText7::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}.\p"
 	.string "Tu as osé entrer dans le\n"
@@ -1852,7 +1852,7 @@ MatchCall_BattlePikeText7:: @ 82B1622
 	.string "Je viens de voir un POKéMON rare!\n"
 	.string "Je te laisse!$"
 
-MatchCall_BattlePikeText8:: @ 82B169D
+MatchCall_BattlePikeText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça a l'air d'aller pour toi.\p"
@@ -1862,7 +1862,7 @@ MatchCall_BattlePikeText8:: @ 82B169D
 	.string "Je vais élever mes POKéMON de la\l"
 	.string "même façon que toi. Au revoir!$"
 
-MatchCall_BattlePikeText9:: @ 82B1775
+MatchCall_BattlePikeText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Je suis au courant! Tu as traversé\n"
@@ -1870,7 +1870,7 @@ MatchCall_BattlePikeText9:: @ 82B1775
 	.string "C'est formidable!\n"
 	.string "Bon, je ferais bien de t'imiter!$"
 
-MatchCall_BattlePikeText10:: @ 82B17F8
+MatchCall_BattlePikeText10::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "Tu as réussi à traverser\n"
@@ -1878,7 +1878,7 @@ MatchCall_BattlePikeText10:: @ 82B17F8
 	.string "Je vais essayer de suivre ton\n"
 	.string "exemple. Je dois m'améliorer.$"
 
-MatchCall_BattlePikeText11:: @ 82B1877
+MatchCall_BattlePikeText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "On va devoir t'appeler sa Majesté\n"
@@ -1890,7 +1890,7 @@ MatchCall_BattlePikeText11:: @ 82B1877
 	.string "Mais ça m'étonnerait…\n"
 	.string "Bon, au revoir!$"
 
-MatchCall_BattlePikeText12:: @ 82B1946
+MatchCall_BattlePikeText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça va?\p"
@@ -1899,7 +1899,7 @@ MatchCall_BattlePikeText12:: @ 82B1946
 	.string "C'est assez impressionnant.\n"
 	.string "Au revoir!$"
 
-MatchCall_BattlePikeText13:: @ 82B19C7
+MatchCall_BattlePikeText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\l"
 	.string "J'espère que tout va bien.\p"
@@ -1909,7 +1909,7 @@ MatchCall_BattlePikeText13:: @ 82B19C7
 	.string "Quelle énergie! Je t'admire.\n"
 	.string "A bientôt.$"
 
-MatchCall_BattlePikeText14:: @ 82B1A4C
+MatchCall_BattlePikeText14::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "J'ai entendu parler de toi!\p"
@@ -1919,7 +1919,7 @@ MatchCall_BattlePikeText14:: @ 82B1A4C
 	.string "Au revoir!$"
 
 
-MatchCall_BattlePyramidText1:: @ 82B1ACA
+MatchCall_BattlePyramidText1::
 	.string "{PLAYER}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}!\l"
 	.string "Je suis au courant!\p"
@@ -1928,7 +1928,7 @@ MatchCall_BattlePyramidText1:: @ 82B1ACA
 	.string "C'est super, ça!\n"
 	.string "Je devrais essayer d'y aller.$"
 
-MatchCall_BattlePyramidText2:: @ 82B1B50
+MatchCall_BattlePyramidText2::
 	.string "Bonjour, c'est {STR_VAR_1}!\n"
 	.string "J'ai entendu parler de toi!\p"
 	.string "Il paraît que tu as accédé à\n"
@@ -1937,7 +1937,7 @@ MatchCall_BattlePyramidText2:: @ 82B1B50
 	.string "Fantastique! Je devrais m'occuper\n"
 	.string "mieux de mes POKéMON!$"
 
-MatchCall_BattlePyramidText3:: @ 82B1BE4
+MatchCall_BattlePyramidText3::
 	.string "Salut, {PLAYER}!\n"
 	.string "C'est moi, {STR_VAR_1}.\l"
 	.string "Comment vas-tu?\p"
@@ -1947,7 +1947,7 @@ MatchCall_BattlePyramidText3:: @ 82B1BE4
 	.string "Essaie de faire encore mieux\n"
 	.string "la prochaine fois! Au revoir!$"
 
-MatchCall_BattlePyramidText4:: @ 82B1C6A
+MatchCall_BattlePyramidText4::
 	.string "Allô, {PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Bonjour!\p"
 	.string "Il paraît que tu as exploré {STR_VAR_3}\n"
@@ -1955,7 +1955,7 @@ MatchCall_BattlePyramidText4:: @ 82B1C6A
 	.string "Je devrais en prendre de\n"
 	.string "la graine!$"
 
-MatchCall_BattlePyramidText5:: @ 82B1CCF
+MatchCall_BattlePyramidText5::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "{STR_VAR_1} à l'appareil.\p"
 	.string "On m'a dit que tu avais exploré {STR_VAR_3}\n"
@@ -1963,7 +1963,7 @@ MatchCall_BattlePyramidText5:: @ 82B1CCF
 	.string "Moi aussi, je devrais m'y mettre!\n"
 	.string "A bientôt!$"
 
-MatchCall_BattlePyramidText6:: @ 82B1D38
+MatchCall_BattlePyramidText6::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}. Comment ça va?\p"
 	.string "Au fait, il paraît que tu as accédé\n"
@@ -1972,7 +1972,7 @@ MatchCall_BattlePyramidText6:: @ 82B1D38
 	.string "Je ferais bien de me concentrer sur\n"
 	.string "mes POKéMON.$"
 
-MatchCall_BattlePyramidText7:: @ 82B1DCD
+MatchCall_BattlePyramidText7::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Ici {STR_VAR_1}.\p"
 	.string "Tu as exploré la\n"
@@ -1983,7 +1983,7 @@ MatchCall_BattlePyramidText7:: @ 82B1DCD
 	.string "Non?\n"
 	.string "Allez, au revoir!$"
 
-MatchCall_BattlePyramidText8:: @ 82B1E4B
+MatchCall_BattlePyramidText8::
 	.string "Ça va, {PLAYER}{KUN}?\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça a l'air d'aller pour toi.\p"
@@ -1994,7 +1994,7 @@ MatchCall_BattlePyramidText8:: @ 82B1E4B
 	.string "Je vais élever mes POKéMON de la\l"
 	.string "même façon que toi. Au revoir!$"
 
-MatchCall_BattlePyramidText9:: @ 82B1F24
+MatchCall_BattlePyramidText9::
 	.string "Salut, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1}!\p"
 	.string "Tu as conquis {STR_VAR_3} niveaux\n"
@@ -2002,7 +2002,7 @@ MatchCall_BattlePyramidText9:: @ 82B1F24
 	.string "C'est formidable!\n"
 	.string "Bon, je ferais bien de t'imiter!$"
 
-MatchCall_BattlePyramidText10:: @ 82B1FA8
+MatchCall_BattlePyramidText10::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\p"
 	.string "C'est vrai ce qu'on dit?\n"
@@ -2011,7 +2011,7 @@ MatchCall_BattlePyramidText10:: @ 82B1FA8
 	.string "Je vais essayer de suivre ton\n"
 	.string "exemple. Je dois m'améliorer.$"
 
-MatchCall_BattlePyramidText11:: @ 82B2022
+MatchCall_BattlePyramidText11::
 	.string "{PLAYER}{KUN}?\n"
 	.string "Bonjour, c'est {STR_VAR_1}.\p"
 	.string "On va devoir t'appeler sa Majesté\n"
@@ -2024,7 +2024,7 @@ MatchCall_BattlePyramidText11:: @ 82B2022
 	.string "Mais ça m'étonnerait…\n"
 	.string "Bon, au revoir!$"
 
-MatchCall_BattlePyramidText12:: @ 82B20F3
+MatchCall_BattlePyramidText12::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "Ça va?\p"
@@ -2034,7 +2034,7 @@ MatchCall_BattlePyramidText12:: @ 82B20F3
 	.string "C'est assez impressionnant.\n"
 	.string "Au revoir!$"
 
-MatchCall_BattlePyramidText13:: @ 82B2175
+MatchCall_BattlePyramidText13::
 	.string "Bonjour, {PLAYER}{KUN}!\n"
 	.string "C'est {STR_VAR_1} qui appelle!\l"
 	.string "J'espère que tout va bien.\p"
@@ -2043,7 +2043,7 @@ MatchCall_BattlePyramidText13:: @ 82B2175
 	.string "Quelle énergie! Je t'admire.\n"
 	.string "A bientôt.$"
 
-MatchCall_BattlePyramidText14:: @ 82B21FC
+MatchCall_BattlePyramidText14::
 	.string "Bonjour, {PLAYER}{KUN}.\n"
 	.string "C'est {STR_VAR_1}.\l"
 	.string "J'ai entendu parler de toi!\p"
@@ -2053,7 +2053,7 @@ MatchCall_BattlePyramidText14:: @ 82B21FC
 	.string "Tu es un modèle pour moi!\n"
 	.string "Au revoir!$"
 
-MatchCall_Text_Mom1:: @ 82B227B
+MatchCall_Text_Mom1::
 	.string "MAMAN: D'abord ton père,\n"
 	.string "maintenant toi…\p"
 	.string "Mais qu'est-ce qui vous attire\n"
@@ -2061,7 +2061,7 @@ MatchCall_Text_Mom1:: @ 82B227B
 	.string "Moi? J'aime les POKéMON qui peuvent\n"
 	.string "m'aider à la maison, c'est tout.$"
 
-MatchCall_Text_Mom2:: @ 82B2310
+MatchCall_Text_Mom2::
 	.string "MAMAN: Bonjour, {PLAYER}!\n"
 	.string "Ton père passe tout son temps\l"
 	.string "dans l'ARENE de CLEMENTI-VILLE.\p"
@@ -2071,13 +2071,13 @@ MatchCall_Text_Mom2:: @ 82B2310
 	.string "Je me fais du souci pour lui. Perdre\n"
 	.string "contre toi a été un gros choc!$"
 
-MatchCall_Text_Mom3:: @ 82B23F3
+MatchCall_Text_Mom3::
 	.string "MAMAN: {PLAYER}…\n"
 	.string "Tout va bien à la maison, mon chou.\p"
 	.string "Use bien les semelles de tes\n"
 	.string "CHAUSSURES DE SPORT!$"
 
-MatchCall_Text_Roxanne1:: @ 82B2456
+MatchCall_Text_Roxanne1::
 	.string "ROXANNE: Bonjour, {PLAYER}!\p"
 	.string "Je suis en train de me remettre\n"
 	.string "à niveau.\p"
@@ -2086,7 +2086,7 @@ MatchCall_Text_Roxanne1:: @ 82B2456
 	.string "Mais dès que l'ARENE sera prête,\n"
 	.string "passe faire un combat!$"
 
-MatchCall_Text_Roxanne2:: @ 82B250E
+MatchCall_Text_Roxanne2::
 	.string "ROXANNE: C'est toi, {PLAYER}?\n"
 	.string "Félicitations!\l"
 	.string "J'ai entendu parler de toi!\p"
@@ -2095,18 +2095,18 @@ MatchCall_Text_Roxanne2:: @ 82B250E
 	.string "Mais dès que l'ARENE sera prête,\n"
 	.string "passe faire un combat!$"
 
-MatchCall_Text_Roxanne3:: @ 82B25C1
+MatchCall_Text_Roxanne3::
 	.string "ROXANNE: {PLAYER}!\n"
 	.string "L'ARENE est prête!\p"
 	.string "J'espère que tu vas bientôt venir\n"
 	.string "à MEROUVILLE!$"
 
-MatchCall_Text_Roxanne4:: @ 82B2607
+MatchCall_Text_Roxanne4::
 	.string "ROXANNE: M'être battue contre toi\n"
 	.string "dans l'ARENE de MEROUVILLE me\l"
 	.string "remplit de fierté, {PLAYER}.$"
 
-MatchCall_Text_Brawly1:: @ 82B2659
+MatchCall_Text_Brawly1::
 	.string "BASTIEN: Salut, {PLAYER}{KUN}!\p"
 	.string "Notre combat m'a beaucoup appris.\p"
 	.string "Je vais suivre un entraînement\n"
@@ -2116,7 +2116,7 @@ MatchCall_Text_Brawly1:: @ 82B2659
 	.string "Quand tout sera prêt, j'espère que\n"
 	.string "tu passeras refaire un combat.$"
 
-MatchCall_Text_Brawly2:: @ 82B275D
+MatchCall_Text_Brawly2::
 	.string "BASTIEN: Salut, {PLAYER}{KUN}!\n"
 	.string "Bravo!\p"
 	.string "La nouvelle s'est répandue comme\n"
@@ -2128,16 +2128,16 @@ MatchCall_Text_Brawly2:: @ 82B275D
 	.string "Quand tout sera prêt, j'espère que\n"
 	.string "tu passeras refaire un combat.$"
 
-MatchCall_Text_Brawly3:: @ 82B286F
+MatchCall_Text_Brawly3::
 	.string "BASTIEN: Salut, {PLAYER}{KUN}!\n"
 	.string "Je suis prêt à rouvrir l'ARENE!\p"
 	.string "Reviens à MYOKARA quand tu veux!$"
 
-MatchCall_Text_Brawly4:: @ 82B28D1
+MatchCall_Text_Brawly4::
 	.string "BASTIEN: {PLAYER}{KUN}, je ne me lasserai\n"
 	.string "jamais de me battre contre toi!$"
 
-MatchCall_Text_Wattson1:: @ 82B2912
+MatchCall_Text_Wattson1::
 	.string "VOLTERE: Oh, c'est toi!\p"
 	.string "Après notre combat, j'ai repris\n"
 	.string "l'entraînement depuis le début.\p"
@@ -2146,7 +2146,7 @@ MatchCall_Text_Wattson1:: @ 82B2912
 	.string "Tu vas devoir attendre avant de\n"
 	.string "m'affronter à nouveau. Wahahaha!$"
 
-MatchCall_Text_Wattson2:: @ 82B29CA
+MatchCall_Text_Wattson2::
 	.string "VOLTERE: Wahahaha!\p"
 	.string "Tu as réussi, n'est-ce pas? La\n"
 	.string "nouvelle est arrivée jusqu'à moi!\p"
@@ -2157,18 +2157,18 @@ MatchCall_Text_Wattson2:: @ 82B29CA
 	.string "Tu vas devoir attendre avant de\n"
 	.string "m'affronter à nouveau. Wahahaha!$"
 
-MatchCall_Text_Wattson3:: @ 82B2AB6
+MatchCall_Text_Wattson3::
 	.string "VOLTERE: Oh, c'est toi!\n"
 	.string "L'ARENE est prête!\p"
 	.string "Viens à LAVANDIA quand tu veux!\n"
 	.string "Waaaaaouh!$"
 
-MatchCall_Text_Wattson4:: @ 82B2B01
+MatchCall_Text_Wattson4::
 	.string "VOLTERE: Wahahahaha!\p"
 	.string "Ton énergie me fait toujours\n"
 	.string "du bien!$"
 
-MatchCall_Text_Flannery1:: @ 82B2B4D
+MatchCall_Text_Flannery1::
 	.string "ADRIANE: {PLAYER}…\p"
 	.string "Après notre combat, j'ai réalisé\n"
 	.string "que je manquais d'expérience.\p"
@@ -2179,7 +2179,7 @@ MatchCall_Text_Flannery1:: @ 82B2B4D
 	.string "Quand le moment sera venu,\n"
 	.string "nous nous battrons, {PLAYER}.$"
 
-MatchCall_Text_Flannery2:: @ 82B2C0E
+MatchCall_Text_Flannery2::
 	.string "ADRIANE: Salut, {PLAYER}?\n"
 	.string "Félicitations!\p"
 	.string "La nouvelle de ta réussite m'a\n"
@@ -2190,46 +2190,46 @@ MatchCall_Text_Flannery2:: @ 82B2C0E
 	.string "marque apparaîtra près de mon\l"
 	.string "nom dans la liste du MATCH PHONE.$"
 
-MatchCall_Text_Flannery3:: @ 82B2CF1
+MatchCall_Text_Flannery3::
 	.string "ADRIANE: Oh, {PLAYER}?\n"
 	.string "L'ARENE est prête!\p"
 	.string "Viens à VERMILAVA! On a des\n"
 	.string "sources chaudes et j'aimerais\l"
 	.string "me battre de nouveau contre toi!$"
 
-MatchCall_Text_Flannery4:: @ 82B2D54
+MatchCall_Text_Flannery4::
 	.string "ADRIANE: {PLAYER}…\n"
 	.string "Je vois que tu ne cesses de\l"
 	.string "progresser.$"
 
-MatchCall_Text_Winona1:: @ 82B2DA4
+MatchCall_Text_Winona1::
 	.string "ALIZEE: Bonjour, {PLAYER}!\p"
 	.string "Notre combat m'a permis de\n"
 	.string "comprendre mes points faibles!\p"
 	.string "Quand je rouvrirai l'ARENE,\n"
 	.string "j'aurai beaucoup progressé!$"
 
-MatchCall_Text_Winona2:: @ 82B2E2B
+MatchCall_Text_Winona2::
 	.string "ALIZEE: Bravo, {PLAYER}!\p"
 	.string "Tout le monde à CIMETRONELLE\n"
 	.string "sait qui est le nouveau MAITRE!\p"
 	.string "Mais… l'issue de notre prochain\n"
 	.string "combat sera différente, crois-moi.$"
 
-MatchCall_Text_Winona3:: @ 82B2EC2
+MatchCall_Text_Winona3::
 	.string "ALIZEE: C'est toi, {PLAYER}?\n"
 	.string "J'ai rouvert l'ARENE!\p"
 	.string "On t'attend tous à\n"
 	.string "CIMETRONELLE!$"
 
-MatchCall_Text_Winona4:: @ 82B2F16
+MatchCall_Text_Winona4::
 	.string "ALIZEE: {PLAYER}…\n"
 	.string "J'ai perdu, mais cette défaite ne\l"
 	.string "va pas m'ébranler.\p"
 	.string "Tu peux comprendre, car toi aussi\n"
 	.string "tu vis pour tes rêves.$"
 
-MatchCall_Text_TateLiza1:: @ 82B2F97
+MatchCall_Text_TateLiza1::
 	.string "LEVY: Oh! C'est…\n"
 	.string "TATIA: {PLAYER}!\p"
 	.string "LEVY: On a repris l'entraînement…\n"
@@ -2239,7 +2239,7 @@ MatchCall_Text_TateLiza1:: @ 82B2F97
 	.string "LEVY: près de nos noms dans…\n"
 	.string "TATIA: la liste du MATCH PHONE.$"
 
-MatchCall_Text_TateLiza2:: @ 82B306E
+MatchCall_Text_TateLiza2::
 	.string "LEVY: Félicitations, {PLAYER}!\n"
 	.string "TATIA: Félicitations, {PLAYER}!\p"
 	.string "LEVY: Nous, on s'entraîne…\n"
@@ -2249,7 +2249,7 @@ MatchCall_Text_TateLiza2:: @ 82B306E
 	.string "LEVY: près de nos noms dans…\n"
 	.string "TATIA: la liste du MATCH PHONE.$"
 
-MatchCall_Text_TateLiza3:: @ 82B3158
+MatchCall_Text_TateLiza3::
 	.string "LEVY: {PLAYER}!\n"
 	.string "TATIA: {PLAYER}!\p"
 	.string "LEVY: L'ARENE est prête!\n"
@@ -2257,13 +2257,13 @@ MatchCall_Text_TateLiza3:: @ 82B3158
 	.string "LEVY: Passe nous voir…\n"
 	.string "TATIA: à ALGATIA!$"
 
-MatchCall_Text_TateLiza4:: @ 82B31CD
+MatchCall_Text_TateLiza4::
 	.string "LEVY: {PLAYER}, notre combat…\n"
 	.string "TATIA: a été une expérience unique.\p"
 	.string "LEVY: Ce serait bien si on faisait…\n"
 	.string "TATIA: un autre combat bientôt!$"
 
-MatchCall_Text_Juan1:: @ 82B3249
+MatchCall_Text_Juan1::
 	.string "JUAN: Hum…\n"
 	.string "{PLAYER}{KUN}… C'est ça?\p"
 	.string "Notre combat m'a rappelé la\n"
@@ -2271,7 +2271,7 @@ MatchCall_Text_Juan1:: @ 82B3249
 	.string "Peut-être arriverez-vous à\n"
 	.string "surpasser MARC? Qui sait!?!$"
 
-MatchCall_Text_Juan2:: @ 82B32EC
+MatchCall_Text_Juan2::
 	.string "JUAN: Dites donc… {PLAYER}{KUN}…\n"
 	.string "Vous avez atteint votre objectif!\p"
 	.string "Vous voyez, j'ai l'œil pour\n"
@@ -2280,14 +2280,14 @@ MatchCall_Text_Juan2:: @ 82B32EC
 	.string "sommet de la gloire. J'espère vous\l"
 	.string "revoir bientôt!$"
 
-MatchCall_Text_Juan3:: @ 82B33AA
+MatchCall_Text_Juan3::
 	.string "JUAN: Ho, ho… {PLAYER}{KUN}…\p"
 	.string "L'ARENE d'ATALANOPOLIS a enfin\n"
 	.string "rouvert.\p"
 	.string "Si vous voulez me voir, vous pouvez\n"
 	.string "passer quand vous voulez.$"
 
-MatchCall_Text_Juan4:: @ 82B341E
+MatchCall_Text_Juan4::
 	.string "JUAN: {PLAYER}{KUN}…\p"
 	.string "Quand je me bats contre vous, c'est\n"
 	.string "comme si une musique\l"
@@ -2295,7 +2295,7 @@ MatchCall_Text_Juan4:: @ 82B341E
 	.string "En fermant les yeux, je vous vois\n"
 	.string "danser gracieusement…$"
 
-MatchCall_Text_Sidney:: @ 82B34CC
+MatchCall_Text_Sidney::
 	.string "DAMIEN: Salut, {PLAYER}!\p"
 	.string "Repasse quand tu veux à la LIGUE\n"
 	.string "POKéMON si tu veux te battre\l"
@@ -2303,7 +2303,7 @@ MatchCall_Text_Sidney:: @ 82B34CC
 	.string "J'y serai!\n"
 	.string "Je t'attends!$"
 
-MatchCall_Text_Phoebe:: @ 82B3561
+MatchCall_Text_Phoebe::
 	.string "SPECTRA: Salut, {PLAYER}!\p"
 	.string "Tu devrais passer nous voir, un de\n"
 	.string "ces jours!\p"
@@ -2311,14 +2311,14 @@ MatchCall_Text_Phoebe:: @ 82B3561
 	.string "attachement à tes POKéMON a\l"
 	.string "grandi.$"
 
-MatchCall_Text_Glacia:: @ 82B35E4
+MatchCall_Text_Glacia::
 	.string "GLACIA: Salut, {PLAYER}.\p"
 	.string "Jure-moi que tu n'as pas pris la\n"
 	.string "grosse tête!\p"
 	.string "Si tu as besoin d'une petite douche\n"
 	.string "froide, passe à la LIGUE POKéMON…$"
 
-MatchCall_Text_Drake:: @ 82B368B
+MatchCall_Text_Drake::
 	.string "ARAGON: Cette voix…\n"
 	.string "C'est toi, {PLAYER}?\p"
 	.string "Je sais que maintenant il y a la\n"
@@ -2329,7 +2329,7 @@ MatchCall_Text_Drake:: @ 82B368B
 	.string "de mieux que la LIGUE POKéMON!\p"
 	.string "Tu ne crois pas, {PLAYER}?$"
 
-MatchCall_Text_Wallace:: @ 82B3790
+MatchCall_Text_Wallace::
 	.string "MARC: Salut, {PLAYER}{KUN}.\n"
 	.string "As-tu rencontré PIERRE?\p"
 	.string "Il est… Comment dire…\n"
@@ -2344,7 +2344,7 @@ MatchCall_Text_Wallace:: @ 82B3790
 	.string "C'est quoi une pierre rare, en fait?\n"
 	.string "Je ne vois que les METEORITES…$"
 
-MatchCall_Text_MayRayquazaCall: @ 82B38C1
+MatchCall_Text_MayRayquazaCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Bip!\p"
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\p"
@@ -2359,7 +2359,7 @@ MatchCall_Text_MayRayquazaCall: @ 82B38C1
 	.string "… … … … … …\n"
 	.string "… … … … … Clic!$"
 
-MatchCall_Text_BrendanRayquazaCall: @ 82B39C6
+MatchCall_Text_BrendanRayquazaCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Bip!\p"
 	.string "BRICE: Salut, {PLAYER}!\n"
@@ -2372,7 +2372,7 @@ MatchCall_Text_BrendanRayquazaCall: @ 82B39C6
 	.string "… … … … … …\n"
 	.string "… … … … … Clic!$"
 
-MatchCall_Text_May1:: @ 2B3AB3
+MatchCall_Text_May1::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\p"
 	.string "M. MARCO a pris sa retraite de\n"
 	.string "MARIN, mais de temps en temps,\l"
@@ -2380,7 +2380,7 @@ MatchCall_Text_May1:: @ 2B3AB3
 	.string "La mer, c'était plus qu'un travail\n"
 	.string "pour lui. C'est une vraie passion.$"
 
-MatchCall_Text_May2:: @ 2B3B3F
+MatchCall_Text_May2::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\p"
 	.string "Tu sais qu'il y a une ARENE à\n"
 	.string "CLEMENTI-VILLE et MYOKARA?\l"
@@ -2392,7 +2392,7 @@ MatchCall_Text_May2:: @ 2B3B3F
 	.string "je postulerai pour le poste de\l"
 	.string "CHAMPION D'ARENE.$"
 
-MatchCall_Text_May3:: @ 2B3C13
+MatchCall_Text_May3::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\p"
 	.string "Tu te souviens de l'homme de la\n"
 	.string "MAISON COUPCOUP à MEROUVILLE?\p"
@@ -2404,20 +2404,20 @@ MatchCall_Text_May3:: @ 2B3C13
 	.string "… … … … … …\p"
 	.string "TYPE ECLATE-ROC!$"
 
-MatchCall_Text_May4:: @ 2B3CF3
+MatchCall_Text_May4::
 	.string "FLORA: {PLAYER}{KUN}?\p"
 	.string "TUNNEL MERAZON…\n"
 	.string "Ils l'ont appelé comme ça parce \l"
 	.string "qu'il relie MEROUVILLE à VERGAZON.$"
 
-MatchCall_Text_May5:: @ 2B3D4B
+MatchCall_Text_May5::
 	.string "FLORA: Comment ça va, {PLAYER}{KUN}?\p"
 	.string "Je suis sur la ROUTE 111.\p"
 	.string "Je vais faire une halte chez une\n"
 	.string "dame âgée pour me reposer.\p"
 	.string "Elle habite au nord du désert.$"
 
-MatchCall_Text_May6:: @ 2B3DD1
+MatchCall_Text_May6::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\p"
 	.string "Tu connais la TOUR MIRAGE\n"
 	.string "qui se trouve dans le désert?\p"
@@ -2426,14 +2426,14 @@ MatchCall_Text_May6:: @ 2B3DD1
 	.string "tel un mirage.\p"
 	.string "J'aimerais bien la voir.$"
 
-MatchCall_Text_May7:: @ 2B3E69
+MatchCall_Text_May7::
 	.string "FLORA: Salut, {PLAYER}{KUN}!\n"
 	.string "Je suis sur la ROUTE 119.\p"
 	.string "Il y a une rivière immense.\n"
 	.string "Et il n'arrête pas de pleuvoir.\p"
 	.string "Je suis trempée jusqu'aux os!$"
 
-MatchCall_Text_May8:: @ 2B3ECD
+MatchCall_Text_May8::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}.\p"
 	.string "Le MONT MEMORIA est un mémorial\n"
 	.string "dédié aux POKéMON qui nous ont\l"
@@ -2441,7 +2441,7 @@ MatchCall_Text_May8:: @ 2B3ECD
 	.string "Forcément, le lieu est rempli de\n"
 	.string "POKéMON de type SPECTRE!$"
 
-MatchCall_Text_May9:: @ 2B3F2B
+MatchCall_Text_May9::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\p"
 	.string "Je pensais aller aux sources\n"
 	.string "chaudes de VERMILAVA.\p"
@@ -2449,14 +2449,14 @@ MatchCall_Text_May9:: @ 2B3F2B
 	.string "rencontré des gens bizarres. Ils\l"
 	.string "n'avaient pas l'air de bonne humeur.$"
 
-MatchCall_Text_May10:: @ 2B3FFB
+MatchCall_Text_May10::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\n"
 	.string "Tu es au courant?\p"
 	.string "Il paraît que le CAPT. POUPE a\n"
 	.string "découvert la CAVERNE FONDMER lors\l"
 	.string "de son expédition sous-marine.$"
 
-MatchCall_Text_May11:: @ 2B402B
+MatchCall_Text_May11::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\n"
 	.string "Tu sais quoi?\p"
 	.string "Si tu n'as pas de bateau, il y a une\n"
@@ -2466,7 +2466,7 @@ MatchCall_Text_May11:: @ 2B402B
 	.string "Il y a même une autre capacité qui\n"
 	.string "permet d'aller au fond de la mer.$"
 
-MatchCall_Text_May12:: @ 2B414B
+MatchCall_Text_May12::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\n"
 	.string "Tout va bien?\p"
 	.string "Tu as dû voir que parfois on ne\n"
@@ -2477,7 +2477,7 @@ MatchCall_Text_May12:: @ 2B414B
 	.string "Une fois de l'autre côté, il suffit\n"
 	.string "de remonter à la surface. Facile!$"
 
-MatchCall_Text_May13:: @ 2B4228
+MatchCall_Text_May13::
 	.string "FLORA: Bonjour, {PLAYER}{KUN}!\p"
 	.string "Comment ça va?\n"
 	.string "Tu remplis bien ton POKéDEX?\p"
@@ -2487,7 +2487,7 @@ MatchCall_Text_May13:: @ 2B4228
 	.string "J'aimerais bien en voir au\n"
 	.string "moins un…$"
 
-MatchCall_Text_May14:: @ 2B42E0
+MatchCall_Text_May14::
 	.string "FLORA: {PLAYER}{KUN}!\n"
 	.string "Les gens parlent de toi!\p"
 	.string "Tu as battu le CHAMPION D'ARENE\n"
@@ -2495,7 +2495,7 @@ MatchCall_Text_May14:: @ 2B42E0
 	.string "Il ne te reste plus beaucoup de\n"
 	.string "chemin à parcourir.$"
 
-MatchCall_Text_May15:: @ 2B4350
+MatchCall_Text_May15::
 	.string "FLORA: Il n'y a pas un seul\n"
 	.string "DRESSEUR à HOENN qui n'ait jamais\l"
 	.string "entendu parler de toi, {PLAYER}{KUN}!\p"
@@ -2503,7 +2503,7 @@ MatchCall_Text_May15:: @ 2B4350
 	.string "te connais, {PLAYER}{KUN}, ils sont\l"
 	.string "impressionnés!$"
 
-MatchCall_Text_Brendan1:: @ 2B43EF
+MatchCall_Text_Brendan1::
 	.string "BRICE: Salut, {PLAYER}!\p"
 	.string "M. MARCO a pris sa retraite de\n"
 	.string "MARIN, mais il part toujours en\l"
@@ -2511,7 +2511,7 @@ MatchCall_Text_Brendan1:: @ 2B43EF
 	.string "Ce n'est pas parce qu'il est à la\n"
 	.string "retraite qu'il va oublier la mer!$"
 
-MatchCall_Text_Brendan2:: @ 2B4486
+MatchCall_Text_Brendan2::
 	.string "BRICE: Salut, {PLAYER}!\p"
 	.string "Pourquoi CLEMENTI-VILLE\n"
 	.string "et MYOKARA ont une ARENE?\p"
@@ -2520,7 +2520,7 @@ MatchCall_Text_Brendan2:: @ 2B4486
 	.string "S'il y en avait une, je voudrais en\n"
 	.string "être le CHAMPION.$"
 
-MatchCall_Text_Brendan3:: @ 2B4560
+MatchCall_Text_Brendan3::
 	.string "BRICE: Bonjour, {PLAYER}!\p"
 	.string "Tu te souviens de la MAISON\n"
 	.string "COUPCOUP à MEROUVILLE?\p"
@@ -2531,14 +2531,14 @@ MatchCall_Text_Brendan3:: @ 2B4560
 	.string "… … … … … …\p"
 	.string "TYPE ECLATE-ROC!$"
 
-MatchCall_Text_Brendan4:: @ 2B463F
+MatchCall_Text_Brendan4::
 	.string "BRICE: {PLAYER}?\p"
 	.string "Tu sais que le TUNNEL MERAZON\n"
 	.string "s'appelle comme ça parce qu'il\l"
 	.string "relie MEROUVILLE à VERGAZON?\p"
 	.string "Tu le savais?$"
 
-MatchCall_Text_Brendan5:: @ 2B46B7
+MatchCall_Text_Brendan5::
 	.string "BRICE: {PLAYER}, quoi de neuf?\p"
 	.string "Je suis sur la ROUTE 111, là.\p"
 	.string "Je vais me reposer un peu chez une\n"
@@ -2546,7 +2546,7 @@ MatchCall_Text_Brendan5:: @ 2B46B7
 	.string "Si tu es dans le coin, tu pourrais\n"
 	.string "aussi lui rendre visite.$"
 
-MatchCall_Text_Brendan6:: @ 2B4761
+MatchCall_Text_Brendan6::
 	.string "BRICE: Hé, {PLAYER}!\p"
 	.string "Tu as entendu parler de la TOUR\n"
 	.string "MIRAGE dans le désert?\p"
@@ -2554,21 +2554,21 @@ MatchCall_Text_Brendan6:: @ 2B4761
 	.string "tout le temps, comme un mirage!\p"
 	.string "Ça, c'est un truc à voir!$"
 
-MatchCall_Text_Brendan7:: @ 2B47F4
+MatchCall_Text_Brendan7::
 	.string "BRICE: Qui c'est? {PLAYER}!\n"
 	.string "Je suis sur la ROUTE 119.\p"
 	.string "Il y a une grosse rivière et il pleut\n"
 	.string "des cordes.\p"
 	.string "Je suis complètement trempé!$"
 
-MatchCall_Text_Brendan8:: @ 2B4882
+MatchCall_Text_Brendan8::
 	.string "BRICE: {PLAYER}!\p"
 	.string "Le MONT MEMORIA est dédié aux\n"
 	.string "POKéMON qui nous ont quittés.\p"
 	.string "Du coup, tous les POKéMON de type\n"
 	.string "SPECTRE y vont!$"
 
-MatchCall_Text_Brendan9:: @ 2B4909
+MatchCall_Text_Brendan9::
 	.string "BRICE: Salut, {PLAYER}.\p"
 	.string "Je suis allé aux sources chaudes\n"
 	.string "de VERMILAVA aujourd'hui.\p"
@@ -2577,14 +2577,14 @@ MatchCall_Text_Brendan9:: @ 2B4909
 	.string "Des sales types…\n"
 	.string "Ça devait être la TEAM MAGMA.$"
 
-MatchCall_Text_Brendan10:: @ 2B49C4
+MatchCall_Text_Brendan10::
 	.string "BRICE: Bonjour, {PLAYER}!\n"
 	.string "Tu es au courant?\p"
 	.string "Le CAPT. POUPE a découvert la\n"
 	.string "CAVERNE FONDMER pendant une\l"
 	.string "expédition sous-marine.$"
 
-MatchCall_Text_Brendan11:: @ 2B4A44
+MatchCall_Text_Brendan11::
 	.string "BRICE: Hé! Salut, {PLAYER}!\n"
 	.string "Je vais t'apprendre un truc!\p"
 	.string "Il y a une capacité de POKéMON\n"
@@ -2594,7 +2594,7 @@ MatchCall_Text_Brendan11:: @ 2B4A44
 	.string "d'aller au fond de la mer.\p"
 	.string "Je trouve ça dingue!$"
 
-MatchCall_Text_Brendan12:: @ 2B4B28
+MatchCall_Text_Brendan12::
 	.string "BRICE: Salut, {PLAYER}!\n"
 	.string "Ça va comme tu veux?\p"
 	.string "Tu sais que parfois il est\n"
@@ -2604,7 +2604,7 @@ MatchCall_Text_Brendan12:: @ 2B4B28
 	.string "Une fois de l'autre côté, il suffit\n"
 	.string "de revenir à la surface! Enfantin!$"
 
-MatchCall_Text_Brendan13:: @ 2B4C15
+MatchCall_Text_Brendan13::
 	.string "BRICE: Salut, {PLAYER}!\p"
 	.string "Tu vas bien? Ça avance ton\n"
 	.string "POKéDEX?\p"
@@ -2612,33 +2612,33 @@ MatchCall_Text_Brendan13:: @ 2B4C15
 	.string "anciens dans le coin. Trois!\p"
 	.string "J'aimerais en attraper au moins un…$"
 
-MatchCall_Text_Brendan14:: @ 2B4CD8
+MatchCall_Text_Brendan14::
 	.string "BRICE: {PLAYER}!\n"
 	.string "Hé, je suis au courant!\p"
 	.string "Tu as battu le CHAMPION D'ARENE\n"
 	.string "d'ATALANOPOLIS! Trop cool!\p"
 	.string "Tu es près du but!$"
 
-MatchCall_Text_Brendan15:: @ 2B4D46
+MatchCall_Text_Brendan15::
 	.string "BRICE: Tous les DRESSEURS te\n"
 	.string "connaissent à HOENN, {PLAYER}!\p"
 	.string "Les gens ne me croient même pas\n"
 	.string "quand je leur dis que je suis l'ami\l"
 	.string "de {PLAYER}! Ils sont tous jaloux.$"
 
-MatchCall_Text_Wally1:: @ 2B4DE2
+MatchCall_Text_Wally1::
 	.string "TIMMY: Oh, {PLAYER}!\p"
 	.string "Je suis en bien meilleure\n"
 	.string "forme, maintenant.\p"
 	.string "J'espère être bientôt un aussi bon\n"
 	.string "DRESSEUR que toi, {PLAYER}!$"
 
-MatchCall_Text_Wally2:: @ 2B4E57
+MatchCall_Text_Wally2::
 	.string "TIMMY: Salut, {PLAYER}!\p"
 	.string "Depuis que le TUNNEL MERAZON\n"
 	.string "est creusé, SYLVIE est aux anges!$"
 
-MatchCall_Text_Wally3:: @ 2B4EA5
+MatchCall_Text_Wally3::
 	.string "TIMMY: Oh, {PLAYER}!\p"
 	.string "Je suis parti de chez mon oncle\n"
 	.string "à VERGAZON sans prévenir personne.\p"
@@ -2646,7 +2646,7 @@ MatchCall_Text_Wally3:: @ 2B4EA5
 	.string "Mais {PLAYER}… Toi, tu me comprends,\n"
 	.string "non?$"
 
-MatchCall_Text_Wally4:: @ 2B4F41
+MatchCall_Text_Wally4::
 	.string "TIMMY: {PLAYER}?\n"
 	.string "C'est moi, TIMMY!\p"
 	.string "L'univers des DRESSEURS,\n"
@@ -2656,7 +2656,7 @@ MatchCall_Text_Wally4:: @ 2B4F41
 	.string "C'est comme si les POKéMON\n"
 	.string "rapprochaient les gens!$"
 
-MatchCall_Text_Wally5:: @ 2B4FF3
+MatchCall_Text_Wally5::
 	.string "TIMMY: {PLAYER}? Tu sais quoi?\n"
 	.string "Le TARSAL qu'on a capturé\l"
 	.string "ensemble a évolué!\p"
@@ -2667,13 +2667,13 @@ MatchCall_Text_Wally5:: @ 2B4FF3
 	.string "C'est le POKéMON qui fait le\n"
 	.string "plus gros du travail!$"
 
-MatchCall_Text_Wally6:: @ 2B50B1
+MatchCall_Text_Wally6::
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "TIMMY est dans un endroit non\n"
 	.string "couvert par le réseau POKéNAV…$"
 
-MatchCall_Text_Wally7:: @ 2B5100
+MatchCall_Text_Wally7::
 	.string "TIMMY: Oh, {PLAYER}!\p"
 	.string "Avant de te connaître, je passais\n"
 	.string "tout mon temps à la maison…\p"
@@ -2682,7 +2682,7 @@ MatchCall_Text_Wally7:: @ 2B5100
 	.string "{PLAYER}…\n"
 	.string "Je te dois tant…$"
 
-MatchCall_Text_Scott1:: @ 2B5184
+MatchCall_Text_Scott1::
 	.string "SCOTT: Bien le bonjour, {PLAYER}{KUN}!\p"
 	.string "Tu sais qu'on trouve des POKéMON\n"
 	.string "absolument partout?\p"
@@ -2693,7 +2693,7 @@ MatchCall_Text_Scott1:: @ 2B5184
 	.string "C'est pour ça que je cours toujours\n"
 	.string "à droite à gauche!$"
 
-MatchCall_Text_Scott2:: @ 2B5275
+MatchCall_Text_Scott2::
 	.string "SCOTT: Je suis sur la ROUTE 119.\n"
 	.string "Ça grouille de DRESSEURS ici!\p"
 	.string "Le sol est recouvert de hautes\n"
@@ -2701,7 +2701,7 @@ MatchCall_Text_Scott2:: @ 2B5275
 	.string "Je suis en short, l'herbe me\n"
 	.string "chatouille les gambettes!$"
 
-MatchCall_Text_Scott3:: @ 2B5323
+MatchCall_Text_Scott3::
 	.string "SCOTT: Bonjour, bonjour, {PLAYER}{KUN}!\p"
 	.string "As-tu déjà eu l'occasion de gravir\n"
 	.string "le MONT MEMORIA?\p"
@@ -2710,7 +2710,7 @@ MatchCall_Text_Scott3:: @ 2B5323
 	.string "Les DRESSEURS devraient tous\n"
 	.string "y monter au moins une fois.$"
 
-MatchCall_Text_Scott4:: @ 2B53DB
+MatchCall_Text_Scott4::
 	.string "SCOTT: Bonjour, {PLAYER}{KUN}!\p"
 	.string "J'ai entendu parler de ces deux\n"
 	.string "bandes qui font du grabuge.\p"
@@ -2720,7 +2720,7 @@ MatchCall_Text_Scott4:: @ 2B53DB
 	.string "DRESSEURS parmi eux.\p"
 	.string "Mais ce sont des brutes…$"
 
-MatchCall_Text_Scott5:: @ 2B54A5
+MatchCall_Text_Scott5::
 	.string "SCOTT: Tiens! Bonjour, {PLAYER}{KUN}.\p"
 	.string "Y a-t-il de bons DRESSEURS\n"
 	.string "au fond de la mer?\p"
@@ -2728,7 +2728,7 @@ MatchCall_Text_Scott5:: @ 2B54A5
 	.string "Je ne sais pas nager.\l"
 	.string "Et je n'élève pas de POKéMON…$"
 
-MatchCall_Text_Scott6:: @ 2B5541
+MatchCall_Text_Scott6::
 	.string "SCOTT: Bonjour, bonjour, {PLAYER}{KUN}!\p"
 	.string "Tu sais que si tu as tous les\n"
 	.string "BADGES D'ARENES, tu as le droit\l"
@@ -2744,26 +2744,26 @@ MatchCall_Text_Scott6:: @ 2B5541
 	.string "PANTHEON DES DRESSEURS\l"
 	.string "seront derrière toi!$"
 
-MatchCall_Text_Scott7:: @ 2B56CA
+MatchCall_Text_Scott7::
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "SCOTT est dans un endroit non\n"
 	.string "couvert par le réseau POKéNAV…$"
 
-MatchCall_Text_Norman1:: @ 82B5719
+MatchCall_Text_Norman1::
 	.string "PAPA: A MEROUVILLE, il y a un\n"
 	.string "endroit qui s'appelle la MAISON\l"
 	.string "COUPCOUP. Quel drôle de nom!\p"
 	.string "Vas-y, si tu es dans le coin.$"
 
-MatchCall_Text_Norman2:: @ 82B5795
+MatchCall_Text_Norman2::
 	.string "PAPA: Hum… Tu fais des\n"
 	.string "progrès, {PLAYER}.\p"
 	.string "Plus le temps passe et plus tu\n"
 	.string "t'éloignes de ta mère et moi…\p"
 	.string "C'est un drôle de sentiment.$"
 
-MatchCall_Text_Norman3:: @ 82B584D
+MatchCall_Text_Norman3::
 	.string "PAPA: Je vois…\n"
 	.string "Tu as quatre BADGES…\p"
 	.string "Je vais devoir tenir ma promesse.\n"
@@ -2771,7 +2771,7 @@ MatchCall_Text_Norman3:: @ 82B584D
 	.string "Viens quand tu veux.\n"
 	.string "Je t'attendrai.$"
 
-MatchCall_Text_Norman4:: @ 82B58E3
+MatchCall_Text_Norman4::
 	.string "PAPA: {PLAYER}! Tu devrais rendre\n"
 	.string "visite à ta mère de temps en temps.\p"
 	.string "Moi, je reste ici. Je m'entraîne\n"
@@ -2779,27 +2779,27 @@ MatchCall_Text_Norman4:: @ 82B58E3
 	.string "La voie qui mène à la perfection\n"
 	.string "est un chemin sans fin!$"
 
-MatchCall_Text_Norman5:: @ 82B5979
+MatchCall_Text_Norman5::
 	.string "PAPA: Bonjour, {PLAYER}!\p"
 	.string "Quoi? Un SCEAU MAGMA?\n"
 	.string "Je n'en ai jamais entendu parler.\p"
 	.string "Mais vu le nom, ça doit avoir un\n"
 	.string "rapport avec un volcan!$"
 
-MatchCall_Text_Norman6:: @ 82B5A07
+MatchCall_Text_Norman6::
 	.string "PAPA: Allez! C'est ça!\p"
 	.string "Oh? {PLAYER}!\p"
 	.string "Je suis en pleine séance\n"
 	.string "d'entraînement avec mes POKéMON!$"
 
-MatchCall_Text_Norman7:: @ 82B5A69
+MatchCall_Text_Norman7::
 	.string "PAPA: {PLAYER}!\p"
 	.string "Si j'avais su que tu deviendrais le\n"
 	.string "MAITRE de la LIGUE POKéMON…\p"
 	.string "Bien! Je dois réagir!\n"
 	.string "Je ne vais pas me laisser faire!$"
 
-MatchCall_Text_Norman8:: @ 82B5ACF
+MatchCall_Text_Norman8::
 	.string "PAPA: Hum? {PLAYER}?\n"
 	.string "Tu appelles au bon moment!\p"
 	.string "Je t'invite à venir faire un combat\n"
@@ -2807,11 +2807,11 @@ MatchCall_Text_Norman8:: @ 82B5ACF
 	.string "Je suis dans l'ARENE de\n"
 	.string "CLEMENTI-VILLE.$"
 
-MatchCall_Text_Norman9:: @ 82B5B5E
+MatchCall_Text_Norman9::
 	.string "PAPA: Tu m'épates, {PLAYER}.\n"
 	.string "Mais jusqu'où iras-tu?$"
 
-MatchCall_Text_Steven1:: @ 82B5B95
+MatchCall_Text_Steven1::
 	.string "PIERRE: Bonjour, {PLAYER}{KUN}!\p"
 	.string "As-tu déjà visité LAVANDIA?\p"
 	.string "Tu devrais aller te procurer un\n"
@@ -2822,14 +2822,14 @@ MatchCall_Text_Steven1:: @ 82B5B95
 	.string "Tu pourrais bien y faire une\n"
 	.string "découverte.$"
 
-MatchCall_Text_Steven2:: @ 82B5C53
+MatchCall_Text_Steven2::
 	.string "PIERRE: Bonjour, {PLAYER}{KUN}!\p"
 	.string "J'ai rencontré beaucoup de\n"
 	.string "DRESSEURS dans ma vie.\p"
 	.string "Mais toi, tu n'es pas comme les\n"
 	.string "autres. Ça saute aux yeux.$"
 
-MatchCall_Text_Steven3:: @ 82B5CC9
+MatchCall_Text_Steven3::
 	.string "PIERRE: Bonjour, {PLAYER}{KUN}!\p"
 	.string "Quand tu es sur la route avec tes\n"
 	.string "POKéMON, à quoi penses-tu?\p"
@@ -2840,7 +2840,7 @@ MatchCall_Text_Steven3:: @ 82B5CC9
 	.string "Les enjeux de ton périple\n"
 	.string "sont liés à ton état d'esprit.$"
 
-MatchCall_Text_Steven4:: @ 82B5DB4
+MatchCall_Text_Steven4::
 	.string "PIERRE: Allô?\n"
 	.string "{PLAYER}{KUN}?\p"
 	.string "Je suis au CENTRE SPATIAL.\n"
@@ -2848,7 +2848,7 @@ MatchCall_Text_Steven4:: @ 82B5DB4
 	.string "Je suis désolé, je ne peux pas\n"
 	.string "parler. Au revoir!$"
 
-MatchCall_Text_Steven5:: @ 82B5E26
+MatchCall_Text_Steven5::
 	.string "PIERRE: Oh!\n"
 	.string "{PLAYER}{KUN}!\p"
 	.string "Ce n'est plus le moment de\n"
@@ -2856,11 +2856,11 @@ MatchCall_Text_Steven5:: @ 82B5E26
 	.string "Tu dois croire en toi et faire ce\n"
 	.string "que tu penses être juste.$"
 
-MatchCall_Text_Steven6:: @ 82B5EA2
+MatchCall_Text_Steven6::
 	.string "… … … … … …\p"
 	.string "PIERRE ne prend pas l'appel…$"
 
-MatchCall_Text_Steven7:: @ 82B5ED9
+MatchCall_Text_Steven7::
 	.string "PIERRE: {PLAYER}{KUN}… Bravo pour ton\n"
 	.string "entrée au PANTHEON DES DRESSEURS.\p"
 	.string "… … … … … …\n"
@@ -2868,7 +2868,7 @@ MatchCall_Text_Steven7:: @ 82B5ED9
 	.string "J'espère que nos chemins se\n"
 	.string "croiseront de nouveau!$"
 
-MatchCall_Text_BirchRegisterCall: @ 82B5F52
+MatchCall_Text_BirchRegisterCall:
 	.string "PROF. SEKO: Oh, {PLAYER}{KUN}!\n"
 	.string "J'ai entendu parler de toi, tu sais!\p"
 	.string "On dirait que ton POKéNAV a été\n"
@@ -2879,7 +2879,7 @@ MatchCall_Text_BirchRegisterCall: @ 82B5F52
 	.string "es en vadrouille.\p"
 	.string "… … … … … …$"
 
-MatchCall_Text_RegisteredBirch: @ 82B603A
+MatchCall_Text_RegisteredBirch:
 	.string "Vous avez enregistré PROF. SEKO\n"
 	.string "dans le POKéNAV.$"
 
@@ -2888,7 +2888,7 @@ MatchCall_Text_UnusedProfBirch:
 	.string "the POKéDEX and POKéNAV, studying\l"
 	.string "POKéMON becomes more fun, eh?$"
 
-MatchCall_Text_MrStone1:: @ 82B60C0
+MatchCall_Text_MrStone1::
 	.string "M. ROCHARD: Oh? {PLAYER}{KUN}!\p"
 	.string "Je suis content de voir que\n"
 	.string "le POKéNAV fonctionne!\p"
@@ -2903,7 +2903,7 @@ MatchCall_Text_MrStone1:: @ 82B60C0
 	.string "Ha, ha, ha!\n"
 	.string "A bientôt!$"
 
-MatchCall_Text_MrStone2:: @ 82B61E6
+MatchCall_Text_MrStone2::
 	.string "M. ROCHARD: Oh? {PLAYER}{KUN}!\p"
 	.string "Dis, tu as oublié la course que\n"
 	.string "je t'ai demandée de faire?\p"
@@ -2915,7 +2915,7 @@ MatchCall_Text_MrStone2:: @ 82B61E6
 	.string "Je te laisse, je suis un DIRECTEUR\n"
 	.string "très occupé! Au revoir!$"
 
-MatchCall_Text_MrStone3:: @ 82B6302
+MatchCall_Text_MrStone3::
 	.string "M. ROCHARD: Oh! {PLAYER}{KUN}!\p"
 	.string "Tu as vu PIERRE?\n"
 	.string "Une récompense t'attend, alors!\p"
@@ -2923,7 +2923,7 @@ MatchCall_Text_MrStone3:: @ 82B6302
 	.string "MEROUVILLE, viens à mon bureau.\p"
 	.string "A bientôt!$"
 
-MatchCall_Text_MrStone4:: @ 82B63A0
+MatchCall_Text_MrStone4::
 	.string "M. ROCHARD: Oh! {PLAYER}{KUN}!\p"
 	.string "Tu savais que DEVON creusait\n"
 	.string "le TUNNEL MERAZON?\p"
@@ -2934,20 +2934,20 @@ MatchCall_Text_MrStone4:: @ 82B63A0
 	.string "Si on s'arrête à ce genre de\n"
 	.string "détails, on ne fait plus rien!$"
 
-MatchCall_Text_MrStone5:: @ 82B64A2
+MatchCall_Text_MrStone5::
 	.string "M. ROCHARD: Bonjour, {PLAYER}{KUN}!\p"
 	.string "Quelqu'un de CLEMENTI-VILLE m'a\n"
 	.string "dit que NORMAN est ton père!\p"
 	.string "Tu as de qui tenir!$"
 
-MatchCall_Text_MrStone6:: @ 82B6526
+MatchCall_Text_MrStone6::
 	.string "M. ROCHARD: Comment?\p"
 	.string "Tu as battu ton propre père?\p"
 	.string "Mais c'est ahurissant!\p"
 	.string "Tu n'es pas n'importe qui, toi!\n"
 	.string "Ha, ha, ha!$"
 
-MatchCall_Text_MrStone7:: @ 82B65BB
+MatchCall_Text_MrStone7::
 	.string "Allô?\n"
 	.string "DEVON SARL, j'écou…\l"
 	.string "{PLAYER}! Bonjour!\p"
@@ -2956,21 +2956,21 @@ MatchCall_Text_MrStone7:: @ 82B65BB
 	.string "Le DIRECTEUR est très occupé.\n"
 	.string "Comme toi, {PLAYER}.$"
 
-MatchCall_Text_MrStone8:: @ 82B6664
+MatchCall_Text_MrStone8::
 	.string "Hein? Comment?\p"
 	.string "GROU… Quoi? DON?\p"
 	.string "La ligne est mauvaise…\n"
 	.string "Je ne t'entends plus…\p"
 	.string "BZZZZ…$"
 
-MatchCall_Text_MrStone9:: @ 82B66B1
+MatchCall_Text_MrStone9::
 	.string "Hein? Comment?\p"
 	.string "La CAV… Quoi? FONDMER?\p"
 	.string "La ligne est mauvaise…\n"
 	.string "Je ne t'entends plus…\p"
 	.string "BZZZZ…$"
 
-MatchCall_Text_MrStone10:: @ 82B6703
+MatchCall_Text_MrStone10::
 	.string "M. ROCHARD: {PLAYER}{KUN}! C'est moi!\p"
 	.string "Je sais que tu as réalisé toutes\n"
 	.string "sortes de choses, mais je n'ai\l"
@@ -2980,7 +2980,7 @@ MatchCall_Text_MrStone10:: @ 82B6703
 	.string "Et si tu as besoin de moi,\n"
 	.string "n'hésite pas à appeler.$"
 
-MatchCall_Text_MrStone11:: @ 82B67ED
+MatchCall_Text_MrStone11::
 	.string "M. ROCHARD: … … … … … …\n"
 	.string "C'est toi, {PLAYER}{KUN}?\p"
 	.string "Ta voix a pris tant d'assurance que\n"

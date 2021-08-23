@@ -1,108 +1,108 @@
 @ Battle Tower
-gText_AnabelWonSilver:: @ 82C843F
+gText_AnabelWonSilver::
 	.string "C'est très décevant…$"
 
-gText_AnabelDefeatSilver:: @ 82C8458
+gText_AnabelDefeatSilver::
 	.string "D'accord, je vois…$"
 
-gText_AnabelWonGold:: @ 82C846C
+gText_AnabelWonGold::
 	.string "Je suis désolée…$"
 
-gText_AnabelDefeatGold:: @ 82C8480
+gText_AnabelDefeatGold::
 	.string "Merci…$"
 
 @ Battle Dome
-gText_TuckerWonSilver:: @ 82C848B
+gText_TuckerWonSilver::
 	.string "Tu n'as pas honte?\n"
 	.string "Tout le monde nous regarde!$"
 
-gText_TuckerDefeatSilver:: @ 82C84C1
+gText_TuckerDefeatSilver::
 	.string "Grr…\n"
 	.string "Mais…$"
 
-gText_TuckerWonGold:: @ 82C84D0
+gText_TuckerWonGold::
 	.string "Ce n'est pas pour rien qu'on m'appelle\n"
 	.string "la STAR DU DOME!$"
 
-gText_TuckerDefeatGold:: @ 82C84F7
+gText_TuckerDefeatGold::
 	.string "Ha, ha, ha!\n"
 	.string "Tu m'amuses!$"
 
 @ Battle Factory
-gText_NolandWonSilver:: @ 82C8512
+gText_NolandWonSilver::
 	.string "On t'a donné une bonne leçon, non?$"
 
-gText_NolandDefeatSilver:: @ 82C853B
+gText_NolandDefeatSilver::
 	.string "Joli travail!\n"
 	.string "Tu te débrouilles plutôt bien!$"
 
-gText_NolandWonGold:: @ 82C8561
+gText_NolandWonGold::
 	.string "Hé, hé, hé!\n"
 	.string "C'est déjà fini?$"
 
-gText_NolandDefeatGold:: @ 82C8589
+gText_NolandDefeatGold::
 	.string "Je n'y crois pas…$"
 
 @ Battle Pike
-gText_LucyWonSilver:: @ 82C859D
+gText_LucyWonSilver::
 	.string "Oh, j'ai gagné…$"
 
-gText_LucyDefeatSilver:: @ 82C85A4
+gText_LucyDefeatSilver::
 	.string "Oh, j'ai perdu…$"
 
-gText_LucyWonGold:: @ 82C85A9
+gText_LucyWonGold::
 	.string "Oui!$"
 
-gText_LucyDefeatGold:: @ 82C85AE
+gText_LucyDefeatGold::
 	.string "Grrr…$"
 
 @ Battle Arena
-gText_GretaWonSilver:: @ 82C85B4
+gText_GretaWonSilver::
 	.string "Tu n'étais pas à fond!\n"
 	.string "Tu dois te surpasser!$"
 
-gText_GretaDefeatSilver:: @ 82C85E3
+gText_GretaDefeatSilver::
 	.string "Pas possible!\n"
 	.string "Chapeau!$"
 
-gText_GretaWonGold:: @ 82C85F5
+gText_GretaWonGold::
 	.string "Hé, hé!\n"
 	.string "Mais qu'est-ce que tu espérais?$"
 
-gText_GretaDefeatGold:: @ 82C8611
+gText_GretaDefeatGold::
 	.string "Quoi?\n"
 	.string "Mais c'est impossible…$"
 
 @ Battle Palace
-gText_SpenserWonSilver:: @ 82C8628
+gText_SpenserWonSilver::
 	.string "Tes POKéMON sont nuls!\n"
 	.string "Et toi, tu es une mauviette!$"
 
-gText_SpenserDefeatSilver:: @ 82C8662
+gText_SpenserDefeatSilver::
 	.string "Ah…\n"
 	.string "Je ne m'attendais pas à ça…$"
 
-gText_SpenserWonGold:: @ 82C8682
+gText_SpenserWonGold::
 	.string "Ha, ha, ha!\n"
 	.string "Nous ne craignons personne!$"
 
-gText_SpenserDefeatGold:: @ 82C86B3
+gText_SpenserDefeatGold::
 	.string "Non!\n"
 	.string "Ahhhh!!!$"
 
 @ Battle Pyramid
-gText_BrandonWonSilver:: @ 82C86C3
+gText_BrandonWonSilver::
 	.string "Hé, quel est ton problème?\n"
 	.string "Un peu de nerf!$"
 
-gText_BrandonDefeatSilver:: @ 82C86FE
+gText_BrandonDefeatSilver::
 	.string "Bravo! Tu as été superbe!\n"
 	.string "Cette victoire, tu la mérites!$"
 
-gText_BrandonWonGold:: @ 82C8739
+gText_BrandonWonGold::
 	.string "Ne baisse pas les bras!\n"
 	.string "Tu dois croire en toi!$"
 
-gText_BrandonDefeatGold:: @ 82C877B
+gText_BrandonDefeatGold::
 	.string "Tu as réussi!\n"
 	.string "Tes efforts ont enfin payé!$"

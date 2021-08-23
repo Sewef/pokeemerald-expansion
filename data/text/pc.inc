@@ -1,17 +1,17 @@
-Text_BootUpPC: @ 827265A
+Text_BootUpPC:
 	.string "{PLAYER} allume le PC.$"
 
-gText_WhichPCShouldBeAccessed:: @ 827266F
+gText_WhichPCShouldBeAccessed::
 	.string "Accéder à quel PC?$"
 
-gText_AccessedSomeonesPC:: @ 827268C
+gText_AccessedSomeonesPC::
 	.string "PC de ??? connecté.$"
 
-gText_StorageSystemOpened:: @ 82726A3
+gText_StorageSystemOpened::
 	.string "Gestion de Stocks de POKéMON en ligne.$"
 
-gText_AccessedPlayersPC:: @ 82726C2
+gText_AccessedPlayersPC::
 	.string "PC personnel connecté.$"
 
-gText_AccessedLanettesPC:: @ 82726D4
+gText_AccessedLanettesPC::
 	.string "PC d'ANNETTE connecté.$"

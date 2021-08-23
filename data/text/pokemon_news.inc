@@ -1,5 +1,5 @@
 
-gPokeNewsTextSlateport_Upcoming:: @ 0828D0F8
+gPokeNewsTextSlateport_Upcoming::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "L'homme le plus adulé de POIVRESSEL,\n"
@@ -15,7 +15,7 @@ gPokeNewsTextSlateport_Upcoming:: @ 0828D0F8
 	.string "faire un tour à POIVRESSEL ce jour-là.\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextSlateport_Ongoing:: @ 0828D2A1
+gPokeNewsTextSlateport_Ongoing::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "Et voici la nouvelle que vous attendiez\n"
@@ -29,7 +29,7 @@ gPokeNewsTextSlateport_Ongoing:: @ 0828D2A1
 	.string "ce que vous voulez?\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextSlateport_Ending:: @ 0828D3F5
+gPokeNewsTextSlateport_Ending::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "Et voici la nouvelle que vous attendiez\n"
@@ -44,7 +44,7 @@ gPokeNewsTextSlateport_Ending:: @ 0828D3F5
 	.string "par de petites emplettes à POIVRESSEL?\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextGameCorner_Upcoming:: @ 0828D571
+gPokeNewsTextGameCorner_Upcoming::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "Ça approche!\n"
@@ -55,7 +55,7 @@ gPokeNewsTextGameCorner_Upcoming:: @ 0828D571
 	.string "pouvoir gagner ce jour-là!\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextGameCorner_Ongoing:: @ 0828D66F
+gPokeNewsTextGameCorner_Ongoing::
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "C'est fait!\n"
 	.string "Ça y est enfin!\p"
@@ -67,7 +67,7 @@ gPokeNewsTextGameCorner_Ongoing:: @ 0828D66F
 	.string "C'est là qu'il faut aller!\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextGameCorner_Ending:: @ 0828D768
+gPokeNewsTextGameCorner_Ending::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "C'est fait!\n"
@@ -80,7 +80,7 @@ gPokeNewsTextGameCorner_Ending:: @ 0828D768
 	.string "Ça se passe à LAVANDIA.\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextLilycove_Upcoming:: @ 0828D875
+gPokeNewsTextLilycove_Upcoming::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "Nous venons de recevoir de bonnes\n"
@@ -93,7 +93,7 @@ gPokeNewsTextLilycove_Upcoming:: @ 0828D875
 	.string "toujours voulu pourrait être à vous!\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextLilycove_Ongoing:: @ 0828D994
+gPokeNewsTextLilycove_Ongoing::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "Voici la nouvelle que vous attendiez\n"
@@ -105,7 +105,7 @@ gPokeNewsTextLilycove_Ongoing:: @ 0828D994
 	.string "Vous n'aurez que l'embarras du choix!\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextLilycove_Ending:: @ 0828DAC0
+gPokeNewsTextLilycove_Ending::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "Voici la nouvelle que vous attendiez\n"
@@ -117,7 +117,7 @@ gPokeNewsTextLilycove_Ending:: @ 0828DAC0
 	.string "Vous n'aurez que l'embarras du choix!\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextBlendMaster_Upcoming:: @ 0828DBEC
+gPokeNewsTextBlendMaster_Upcoming::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "Nous avons de grandes nouvelles\n"
@@ -133,7 +133,7 @@ gPokeNewsTextBlendMaster_Upcoming:: @ 0828DBEC
 	.string "sont invités à apporter leurs BAIES!\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextBlendMaster_Ongoing:: @ 0828DD9E
+gPokeNewsTextBlendMaster_Ongoing::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "Nous avons de grandes nouvelles\n"
@@ -148,7 +148,7 @@ gPokeNewsTextBlendMaster_Ongoing:: @ 0828DD9E
 	.string "sont invités à apporter leurs BAIES!\p"
 	.string "C'était le scoop du BULLETIN POKéMON.$"
 
-gPokeNewsTextBlendMaster_Ending:: @ 0828DF05
+gPokeNewsTextBlendMaster_Ending::
 	.string "Bonjour à tous!\n"
 	.string "C'est l'heure du BULLETIN POKéMON.\p"
 	.string "C'est incroyable! Un spectacle à vous\n"

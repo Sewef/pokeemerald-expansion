@@ -1,6 +1,7 @@
 #include "global.h"
 #include "strings.h"
 #include "battle_pyramid_bag.h"
+#include "item_menu.h"
 
 ALIGNED(4)
 const u8 gText_ExpandedPlaceholder_Empty[] = _("");
@@ -255,18 +256,18 @@ const u8 gText_ThePC[] = _("au PC");
 
 const u8 *const gBagMenu_ReturnToStrings[] =
 {
-    gText_TheField,
-    gText_TheBattle,
-    gText_ThePokemonList,
-    gText_TheShop,
-    gText_TheField,
-    gText_TheField,
-    gText_ThePC,
-    gText_TheField,
-    gText_TheField,
-    gText_TheField,
-    gText_TheBattle,
-    gText_ThePC
+    [ITEMMENULOCATION_FIELD]               = gText_TheField,
+    [ITEMMENULOCATION_BATTLE]              = gText_TheBattle,
+    [ITEMMENULOCATION_PARTY]               = gText_ThePokemonList,
+    [ITEMMENULOCATION_SHOP]                = gText_TheShop,
+    [ITEMMENULOCATION_BERRY_TREE]          = gText_TheField,
+    [ITEMMENULOCATION_BERRY_BLENDER_CRUSH] = gText_TheField,
+    [ITEMMENULOCATION_ITEMPC]              = gText_ThePC,
+    [ITEMMENULOCATION_FAVOR_LADY]          = gText_TheField,
+    [ITEMMENULOCATION_QUIZ_LADY]           = gText_TheField,
+    [ITEMMENULOCATION_APPRENTICE]          = gText_TheField,
+    [ITEMMENULOCATION_WALLY]               = gText_TheBattle,
+    [ITEMMENULOCATION_PCBOX]               = gText_ThePC
 };
 
 const u8 *const gPyramidBagMenu_ReturnToStrings[] =
@@ -286,11 +287,11 @@ const u8 gText_KeyItemsPocket[] = _("OBJ. RARES");
 
 const u8 *const gPocketNamesStringsTable[] =
 {
-    gText_ItemsPocket,
-    gText_PokeBallsPocket,
-    gText_TMHMPocket,
-    gText_BerriesPocket,
-    gText_KeyItemsPocket
+    [ITEMS_POCKET] = gText_ItemsPocket,
+    [BALLS_POCKET] = gText_PokeBallsPocket,
+    [TMHM_POCKET]  = gText_TMHMPocket,
+    [BERRIES_POCKET] = gText_BerriesPocket,
+    [KEYITEMS_POCKET] = gText_KeyItemsPocket
 };
 
 const u8 gText_NumberVar1Clear7Var2[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
@@ -1241,7 +1242,7 @@ const u8 gText_ContestantsMonWon[] = _("{STR_VAR_2} de {STR_VAR_1} a gagné!");
 const u8 gText_CommunicationStandby[] = _("Connexion en cours…");
 const u8 gText_ColorDarkGrey[] = _("{COLOR DARK_GRAY}");
 const u8 gText_ColorDynamic6WhiteDynamic5[] = _("{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR6 WHITE DYNAMIC_COLOR5}"); // Unused
-const u8 gText_HighlightDarkGrey[] = _("{HIGHLIGHT DARK_GRAY}");
+const u8 gText_HighlightDarkGray[] = _("{HIGHLIGHT DARK_GRAY}");
 const u8 gText_EmptySpace2[] = _(" "); // Unused
 const u8 gText_DynColor2Male[] = _("{COLOR DYNAMIC_COLOR2}♂");
 const u8 gText_DynColor1Female[] = _("{COLOR DYNAMIC_COLOR1}♀");

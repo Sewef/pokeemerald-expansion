@@ -1,14 +1,14 @@
-Mevent_Text_FillOutQuestionnaire:: @ 827339F
+Mevent_Text_FillOutQuestionnaire::
 	.string "Il y a un questionnaire…\n"
 	.string "Voulez-vous y répondre?$"
 
-Mevent_Text_QuestionnaireThankYou:: @ 82733D8
+Mevent_Text_QuestionnaireThankYou::
 	.string "Merci d'avoir pris le temps de\n"
 	.string "répondre à notre questionnaire.\p"
 	.string "Vos réponses nous permettront\n"
 	.string "de mieux vous servir.$"
 
-Mevent_Text_YouKnowThoseWordsGift:: @ 8273446
+Mevent_Text_YouKnowThoseWordsGift::
 	.string "Oh, bonjour!\n"
 	.string "Vous connaissez ces mots?\p"
 	.string "Donc vous devez aussi\n"
@@ -16,27 +16,27 @@ Mevent_Text_YouKnowThoseWordsGift:: @ 8273446
 	.string "A partir de maintenant, vous allez\n"
 	.string "recevoir des CADEAUX MYST.!$"
 
-Mevent_Text_YouCanAccessMysteryGift:: @ 82734CC
+Mevent_Text_YouCanAccessMysteryGift::
 	.string "Après avoir sauvegardé, vous\n"
 	.string "aurez accès aux CADEAUX MYST.!$"
 
-Mevent_Text_YouKnowThoseWordsEvent:: @ 8273506
+Mevent_Text_YouKnowThoseWordsEvent::
 	.string "Oh, bonjour!\n"
 	.string "Vous connaissez ces mots?\p"
 	.string "Donc vous devez aussi\n"
 	.string "connaître les EVENEMENTS MYSTERE.$"
 
-Mevent_Text_YouCanAccessMysteryEvent:: @ 8273559
+Mevent_Text_YouCanAccessMysteryEvent::
 	.string "Après avoir sauvegardé, vous\n"
 	.string "aurez accès aux EVENEMENTS MYSTERE.$"
 
-Mevent_Text_TheresATicketForYou:: @ 8273594
+Mevent_Text_TheresATicketForYou::
 	.string "Merci d'utiliser le système\n"
 	.string "EVENEMENTS MYSTERE.\p"
 	.string "Vous devez être {PLAYER}.\n"
 	.string "Il y a un ticket pour vous.$"
 
-Mevent_Text_TryUsingItAtLilycovePort:: @ 82735F2
+Mevent_Text_TryUsingItAtLilycovePort::
 	.string "Il peut être utilisé au port de\n"
 	.string "NENUCRIQUE.\p"
 	.string "Essayez-le pour voir de quoi \n"

@@ -1,30 +1,30 @@
-gText_ObtainedTheItem:: @ 8272A78
+gText_ObtainedTheItem::
 	.string "Obtenu: {STR_VAR_2}!$"
 
-gText_TheBagIsFull:: @ 8272A89
+gText_TheBagIsFull::
 	.string "Le SAC est plein…$"
 
-gText_PutItemInPocket:: @ 8272A9A
+gText_PutItemInPocket::
 	.string "{PLAYER} met {STR_VAR_2} dans\n"
 	.string "POCHE {STR_VAR_3} .$"
 
-gText_PlayerFoundOneItem:: @ 8272ABF
+gText_PlayerFoundOneItem::
 	.string "{PLAYER} trouve {STR_VAR_2}!$"
 
-gText_TooBadBagIsFull:: @ 8272AD0
+gText_TooBadBagIsFull::
 	.string "Dommage!\n"
 	.string "Le SAC est plein…$"
 
-gText_PlayerPutItemInBag:: @ 8272AEA
+gText_PlayerPutItemInBag::
 	.string "{PLAYER} met {STR_VAR_2} dans\n"
 	.string "le SAC.$"
 
-gText_ObtainedTheDecor:: @ 8272B09
+gText_ObtainedTheDecor::
 	.string "Obtenu: {STR_VAR_2}!$"
 
-gText_NoRoomLeftForAnother:: @ 8272B1A
+gText_NoRoomLeftForAnother::
 	.string "Dommage! Il n'y a plus assez de place\n"
 	.string "pour {STR_VAR_2}…$"
 
-gText_TheDecorWasTransferredToThePC:: @ 8272B48
+gText_TheDecorWasTransferredToThePC::
 	.string "Transfert de {STR_VAR_2} sur le PC.$"

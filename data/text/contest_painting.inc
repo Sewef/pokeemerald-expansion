@@ -1,9 +1,9 @@
-gContestHallPaintingCaption:: @ 827EA0C
+gContestHallPaintingCaption::
 	.string "{STR_VAR_1}\n"
 	.string "{STR_VAR_3} de {STR_VAR_2}$"
 
 @ Unused
-gContestPaintingContest:: @ 827EA17
+gContestPaintingContest::
 	.string "CONTEST$"
 
 gContestRankNormal::

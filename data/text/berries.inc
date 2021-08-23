@@ -1,9 +1,9 @@
-PetalburgCity_Gym_Text_GiveEnigmaBerry: @ 82A6D3D
+PetalburgCity_Gym_Text_GiveEnigmaBerry:
 	.string "PAPA: Bonjour, {PLAYER}!\p"
 	.string "Je viens de recevoir une BAIE très rare.\n"
 	.string "J'aimerais te la donner.$"
 
-Route104_Text_PlantBerriesInSoilTakeThis: @ 82A6D86
+Route104_Text_PlantBerriesInSoilTakeThis:
 	.string "Si tu vois des BAIES qui ont poussé\n"
 	.string "sur une terre meuble et fertile,\l"
 	.string "tu peux les prendre.\p"
@@ -11,7 +11,7 @@ Route104_Text_PlantBerriesInSoilTakeThis: @ 82A6D86
 	.string "endroit. C'est la moindre des choses.\p"
 	.string "Tiens, je vais partager ça avec toi.$"
 
-Route104_Text_TrainersOftenMakeMonHoldBerries: @ 82A6E32
+Route104_Text_TrainersOftenMakeMonHoldBerries:
 	.string "A te voir, tu dois être DRESSEUR,\n"
 	.string "n'est-ce pas?\p"
 	.string "Les DRESSEURS font souvent tenir\n"
@@ -19,7 +19,7 @@ Route104_Text_TrainersOftenMakeMonHoldBerries: @ 82A6E32
 	.string "A toi de voir si tu préfères faire\n"
 	.string "pousser des BAIES ou les utiliser!$"
 
-Route111_Text_WateredPlantsEveryDayTakeBerry: @ 82A6EBD
+Route111_Text_WateredPlantsEveryDayTakeBerry:
 	.string "J'ai arrosé les plantes chaque jour.\n"
 	.string "Elles ont donné beaucoup de fleurs.\p"
 	.string "Et elles m'ont aussi procuré de\n"
@@ -27,34 +27,34 @@ Route111_Text_WateredPlantsEveryDayTakeBerry: @ 82A6EBD
 	.string "Vas-y!\n"
 	.string "Prends!$"
 
-Route111_Text_GoingToTryToMakeDifferentColorBerries: @ 82A6F3D
+Route111_Text_GoingToTryToMakeDifferentColorBerries:
 	.string "Je vais tout faire pour essayer\n"
 	.string "d'obtenir des {POKEBLOCK}S de différentes\l"
 	.string "couleurs!\p"
 	.string "J'espère que tu vas tout faire aussi!$"
 
-Route111_Text_WhatColorBerriesToLookForToday: @ 82A6F9A
+Route111_Text_WhatColorBerriesToLookForToday:
 	.string "Je vais chercher des BAIES de quelle\n"
 	.string "couleur aujourd'hui?$"
 
-Route114_Text_LoveUsingBerryCrushShareBerry: @ 82A6FCB
+Route114_Text_LoveUsingBerryCrushShareBerry:
 	.string "J'adore utiliser le BROYEUR DE BAIES,\n"
 	.string "alors je ramasse plein de BAIES!\p"
 	.string "Je suis d'accord pour t'en donner\n"
 	.string "une si tu veux!$"
 
-Route114_Text_TryBerryCrushWithFriends: @ 82A7034
+Route114_Text_TryBerryCrushWithFriends:
 	.string "Tu devrais essayer le BROYEUR DE\n"
 	.string "BAIES avec tes amis.$"
 
-Route114_Text_FunToThinkAboutBerries: @ 82A706E
+Route114_Text_FunToThinkAboutBerries:
 	.string "Quelles sortes de BAIES vais-je\n"
 	.string "planter? Et faut-il les utiliser ou\l"
 	.string "les conserver?\p"
 	.string "Se préoccuper de petites choses de ce\n"
 	.string "genre a aussi son charme.$"
 
-Route120_Text_BerriesExpressionOfLoveIsntIt: @ 82A70C7
+Route120_Text_BerriesExpressionOfLoveIsntIt:
 	.string "Les BAIES poussent en profitant de\n"
 	.string "la lumière du soleil.\p"
 	.string "Nous les aidons à pousser en les\n"
@@ -62,104 +62,104 @@ Route120_Text_BerriesExpressionOfLoveIsntIt: @ 82A70C7
 	.string "C'est une marque d'attention,\n"
 	.string "n'est-ce pas?$"
 
-Route120_Text_YesYouUnderstand: @ 82A7147
+Route120_Text_YesYouUnderstand:
 	.string "Oui, oui.\n"
 	.string "Tu vois ce que je veux dire.\p"
 	.string "Tu devrais prendre ça.$"
 
-Route120_Text_MakeYourOwnImpressions: @ 82A7183
+Route120_Text_MakeYourOwnImpressions:
 	.string "Oh… Mais je suppose qu'il est important\n"
 	.string "que tu te fasses ta propre opinion…\p"
 	.string "Tu n'as qu'à prendre ça.$"
 
-Route120_Text_BerryIsRareRaiseItWithCare: @ 82A71D5
+Route120_Text_BerryIsRareRaiseItWithCare:
 	.string "Cette BAIE me semble rare. J'espère\n"
 	.string "que tu vas en prendre bien soin.$"
 
-Route120_Text_IllGetMoreBerriesFromBerryMaster: @ 82A7217
+Route120_Text_IllGetMoreBerriesFromBerryMaster:
 	.string "Je vais aller chercher d'autres BAIES\n"
 	.string "chez le MAITRE DES BAIES.$"
 
-LilycoveCity_Text_BerrySuitsYou: @ 82A7244
+LilycoveCity_Text_BerrySuitsYou:
 	.string "Quand on y regarde de près…\p"
 	.string "les costumes me conviennent\n"
 	.string "parfaitement.\p"
 	.string "Et toi, une BAIE, ça te convient…\p"
 	.string "Et pourquoi donc?$"
 
-LilycoveCity_Text_BecauseYoureTrainer: @ 82A72E3
+LilycoveCity_Text_BecauseYoureTrainer:
 	.string "Si on veut trouver une explication…\p"
 	.string "c'est parce que tu es DRESSEUR!$"
 
-LilycoveCity_Text_PokeblocksSuitPokemon: @ 82A7321
+LilycoveCity_Text_PokeblocksSuitPokemon:
 	.string "Quand on y regarde de près…\p"
 	.string "tout comme la simplicité me va, les\n"
 	.string "{POKEBLOCK}S conviennent très bien aux\l"
 	.string "POKéMON.$"
 
-Route123_BerryMastersHouse_Text_YoureDeservingOfBerry: @ 82A7386
+Route123_BerryMastersHouse_Text_YoureDeservingOfBerry:
 	.string "Tu peux m'appeler le MAITRE DES BAIES.\p"
 	.string "Je rêve de recouvrir le monde de fleurs\n"
 	.string "magnifiques, alors je fais pousser des\l"
 	.string "BAIES et j'en donne à tout le monde.\p"
 	.string "Je te donne celle qui te revient!$"
 
-Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother: @ 82A7428
+Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother:
 	.string "Pourquoi être radin?\n"
 	.string "Prends-en une autre!$"
 
-Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop: @ 82A7445
+Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop:
 	.string "N'oublie pas d'aller chez le FLEURISTE\n"
 	.string "JOLIE FLEUR, près de MEROUVILLE.\p"
 	.string "Que les fleurs recouvrent la planète!$"
 
-Route123_BerryMastersHouse_Text_DoneForToday: @ 82A749E
+Route123_BerryMastersHouse_Text_DoneForToday:
 	.string "J'ai fini pour aujourd'hui.\n"
 	.string "Repasse un autre jour.\p"
 	.string "Que les fleurs recouvrent la planète!$"
 
-Route123_BerryMastersHouse_Text_HeardAGoodSayingLately: @ 82A74E6
+Route123_BerryMastersHouse_Text_HeardAGoodSayingLately:
 	.string "Pour faire pousser des BAIES, mon mari,\n"
 	.string "c'est le meilleur.\p"
 	.string "Je suis fière de lui, vraiment.\p"
 	.string "Au fait, mon p'tit, t'aurais pas entendu\n"
 	.string "une belle expression récemment?$"
 
-Route123_BerryMastersHouse_Text_InspirationalTakeThis: @ 82A7583
+Route123_BerryMastersHouse_Text_InspirationalTakeThis:
 	.string "Ah! Quelle expression remarquable!\n"
 	.string "Ça, c'est de l'inspiration!\p"
 	.string "Je veux que tu prennes ça.$"
 
-Route123_BerryMastersHouse_Text_GoodSayingTakeThis: @ 82A75D0
+Route123_BerryMastersHouse_Text_GoodSayingTakeThis:
 	.string "Oh! Quelle belle expression!\n"
 	.string "Tu es remarquable.\p"
 	.string "J'aimerais que tu prennes ça.$"
 
-Route123_BerryMastersHouse_Text_JoyNeverGoesOutOfMyLife: @ 82A761B
+Route123_BerryMastersHouse_Text_JoyNeverGoesOutOfMyLife:
 	.string "Nos quatre petits-enfants devraient\n"
 	.string "être encore meilleurs que mon mari.\p"
 	.string "J'ai toujours eu une vie heureuse!$"
 
-Route123_BerryMastersHouse_Text_Ah: @ 82A7682
+Route123_BerryMastersHouse_Text_Ah:
 	.string "Ah…$"
 
-Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop: @ 82A7686
+Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop:
 	.string "Bonjour!\p"
 	.string "Voici le FLEURISTE JOLIE FLEUR.\n"
 	.string "Vive les fleurs, plantons-en partout!$"
 
-Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries: @ 82A76D9
+Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries:
 	.string "{PLAYER}{KUN}, voulez-vous en savoir plus\n"
 	.string "sur les BAIES?$"
 
-Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries: @ 82A7706
+Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries:
 	.string "Comment vous appelez-vous?\p"
 	.string "{PLAYER}{KUN}.\n"
 	.string "Quel joli nom!\p"
 	.string "{PLAYER}{KUN}, voulez-vous en savoir plus\n"
 	.string "sur les BAIES?$"
 
-Route104_PrettyPetalFlowerShop_Text_BerriesExplanation: @ 82A775B
+Route104_PrettyPetalFlowerShop_Text_BerriesExplanation:
 	.string "Les BAIES proviennent d'arbres\n"
 	.string "poussant sur un sol meuble et fertile.\p"
 	.string "Quand on cueille une BAIE, il faut\n"
@@ -173,18 +173,18 @@ Route104_PrettyPetalFlowerShop_Text_BerriesExplanation: @ 82A775B
 	.string "Vous pouvez m'aider, {PLAYER}{KUN}, en\n"
 	.string "plantant des BAIES un peu partout.$"
 
-Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness: @ 82A78DF
+Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness:
 	.string "Les fleurs illuminent la vie des gens,\n"
 	.string "n'est-ce pas?$"
 
-Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis: @ 82A7916
+Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis:
 	.string "Bonjour!\p"
 	.string "Pour que les fleurs soient belles,\n"
 	.string "il faut bien s'en occuper.\p"
 	.string "Vous allez aimer soigner vos fleurs, j'en\n"
 	.string "suis sûre. Tenez, c'est pour vous.$"
 
-Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation: @ 82A79A6
+Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation:
 	.string "Pour faire pousser les plantes\n"
 	.string "à BAIES, il faut les arroser avec\l"
 	.string "le SEAU WAILMER.\p"
@@ -195,12 +195,12 @@ Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation: @ 82A79A6
 	.string "C'est étrange, non? Comme si elles\n"
 	.string "avaient le désir de vivre.$"
 
-Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers: @ 82A7A98
+Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers:
 	.string "J'essaie d'imiter mes grandes sœurs.\n"
 	.string "Alors je fais aussi pousser des fleurs!\p"
 	.string "Tiens! C'est pour toi!$"
 
-Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries: @ 82A7AF3
+Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries:
 	.string "Les BAIES, tu peux les planter ou les\n"
 	.string "donner à porter à des POKéMON.\p"
 	.string "Maintenant, il existe aussi une machine\n"
@@ -208,7 +208,7 @@ Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries: @ 82A7AF3
 	.string "des bonbons pour POKéMON.\p"
 	.string "Je veux des bonbons aussi.$"
 
-SootopolisCity_Text_NameIsKiriHaveOneOfThese: @ 82A7BB0
+SootopolisCity_Text_NameIsKiriHaveOneOfThese:
 	.string "Salut, comment tu t'appelles?\p"
 	.string "… … …  … … … … … …\n"
 	.string "C'est un beau nom!\p"
@@ -219,26 +219,26 @@ SootopolisCity_Text_NameIsKiriHaveOneOfThese: @ 82A7BB0
 	.string "C'est ce qu'ils voulaient.\n"
 	.string "Tiens, prends-en une.$"
 
-SootopolisCity_Text_GiveYouThisBerryToo: @ 82A7C7C
+SootopolisCity_Text_GiveYouThisBerryToo:
 	.string "Je vais aussi te donner cette BAIE,\n"
 	.string "la baie préférée de JOY!$"
 
-SootopolisCity_Text_WhatKindOfWishInYourName: @ 82A7CB7
+SootopolisCity_Text_WhatKindOfWishInYourName:
 	.string "Et toi, je me demande pourquoi\n"
 	.string "tu t'appelles comme ça.$"
 
-SootopolisCity_Text_LikeSeasonBornIn: @ 82A7CEC
+SootopolisCity_Text_LikeSeasonBornIn:
 	.string "Printemps, été, automne et hiver.\p"
 	.string "En naissant au printemps, on aime le\n"
 	.string "printemps? Et en naissant en été, on\l"
 	.string "aime l'été?$"
 
-SootopolisCity_Text_ThenILoveAutumn: @ 82A7D80
+SootopolisCity_Text_ThenILoveAutumn:
 	.string "JOY est née en automne,\n"
 	.string "alors j'adore l'automne!\p"
 	.string "Et toi, quelle est ta saison préférée?$"
 
-SootopolisCity_Text_OhDoesntMatter: @ 82A7DD2
+SootopolisCity_Text_OhDoesntMatter:
 	.string "Oh…\n"
 	.string "C'est pas grave…\p"
 	.string "J'aimerais savoir tellement de choses…$"

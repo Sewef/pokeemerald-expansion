@@ -1,18 +1,18 @@
-FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C47EB
+FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Bienvenue dans la TENTE DE COMBAT\n"
 	.string "d'AUTEQUIA!\p"
 	.string "Je serai votre guide pour le\n"
 	.string "TOURNOI K.O.!$"
 
-FallarborTown_BattleTentLobby_Text_TakeChallenge: @ 82C4843
+FallarborTown_BattleTentLobby_Text_TakeChallenge:
 	.string "Voulez-vous participer à un\n"
 	.string "TOURNOI K.O., oui ou non?$"
 
-FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge: @ 82C487F
+FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
 	.string "Nous espérons que vous relèverez\n"
 	.string "bientôt notre défi!$"
 
-FallarborTown_BattleTentLobby_Text_ExplainFallarborTent: @ 82C48AC
+FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
 	.string "Dans la TENTE DE COMBAT d'AUTEQUIA,\n"
 	.string "vous participez à un TOURNOI K.O.\p"
 	.string "Les participants s'inscrivent avec une\n"
@@ -33,21 +33,21 @@ FallarborTown_BattleTentLobby_Text_ExplainFallarborTent: @ 82C48AC
 	.string "Si vous mettez K.O. trois DRESSEURS de\n"
 	.string "suite, nous vous remettons un prix.$"
 
-FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge: @ 82C4B35
+FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "Avant de me suivre dans la TENTE DE\n"
 	.string "COMBAT, vous devez sauvegarder. OK?$"
 
 @ Unused
-FallarborTown_BattleTentLobby_Text_WhichLevelMode: @ 82C4B77
+FallarborTown_BattleTentLobby_Text_WhichLevelMode:
 	.string "We offer two levels of challenge,\n"
 	.string "Level 50 and Open Level.\l"
 	.string "Which is your choice?$"
 
-FallarborTown_BattleTentLobby_Text_SelectThreeMons: @ 82C4BC8
+FallarborTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Veuillez choisir les trois POKéMON que\n"
 	.string "vous souhaitez inscrire.$"
 
-FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50: @ 82C4BFA
+FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "Je regrette, cher DRESSEUR!\p"
 	.string "Vous n'avez pas trois POKéMON\n"
 	.string "aptes à participer.\p"
@@ -57,7 +57,7 @@ FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLv50: @ 82C4BFA
 	.string "Revenez me voir quand vous aurez\n"
 	.string "ce qu'il faut.$"
 
-FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen: @ 82C4CC0
+FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Je regrette, cher DRESSEUR!\p"
 	.string "Vous n'avez pas trois POKéMON\n"
 	.string "aptes à participer.\p"
@@ -69,11 +69,11 @@ FallarborTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen: @ 82C4CC0
 	.string "Revenez me voir quand vous aurez\n"
 	.string "ce qu'il faut.$"
 
-FallarborTown_BattleTentLobby_Text_GuideYouToBattleTent: @ 82C4DC3
+FallarborTown_BattleTentLobby_Text_GuideYouToBattleTent:
 	.string "Je vais vous guider dans la\n"
 	.string "TENTE DE COMBAT.$"
 
-FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting: @ 82C4DED
+FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "Je regrette, cher DRESSEUR!\p"
 	.string "Vous n'avez pas sauvegardé avant de\n"
 	.string "quitter votre dernier défi.\p"
@@ -82,52 +82,52 @@ FallarborTown_BattleTentLobby_Text_DidntSaveBeforeQuitting: @ 82C4DED
 	.string "Bien entendu, vous pouvez recommencer\n"
 	.string "un autre défi.$"
 
-FallarborTown_BattleTentLobby_Text_BeatThreeTrainers: @ 82C4EC3
+FallarborTown_BattleTentLobby_Text_BeatThreeTrainers:
 	.string "Splendide! Vous avez battu trois\n"
 	.string "DRESSEURS à la suite!$"
 
-FallarborTown_BattleTentLobby_Text_WaitWhileSaveGame: @ 82C4EFF
+FallarborTown_BattleTentLobby_Text_WaitWhileSaveGame:
 	.string "Votre résultat va être sauvegardé.\n"
 	.string "Veuillez patienter.$"
 
-FallarborTown_BattleTentLobby_Text_PresentYouWithPrize: @ 82C4F22
+FallarborTown_BattleTentLobby_Text_PresentYouWithPrize:
 	.string "Pour récompenser ces trois victoires\n"
 	.string "consécutives, voici un prix.$"
 
-FallarborTown_BattleTentLobby_Text_ReceivedPrize: @ 82C4F69
+FallarborTown_BattleTentLobby_Text_ReceivedPrize:
 	.string "{PLAYER} reçoit {STR_VAR_1}\n"
 	.string "en récompense.$"
 
-FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize: @ 82C4F83
+FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
 	.string "Oh, votre SAC est plein.\p"
 	.string "Veuillez faire de la place dans votre\n"
 	.string "SAC et revenez ensuite me voir.$"
 
-FallarborTown_BattleTentLobby_Text_ThankYouWaitWhileSaving: @ 82C4FD7
+FallarborTown_BattleTentLobby_Text_ThankYouWaitWhileSaving:
 	.string "Merci d'avoir participé!\p"
 	.string "Votre résultat va être sauvegardé.\n"
 	.string "Veuillez patienter.$"
 
-FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge2: @ 82C501F
+FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge2:
 	.string "Nous attendrons votre prochain défi\n"
 	.string "avec impatience.$"
 
-FallarborTown_BattleTentLobby_Text_LookingForwardToArrival: @ 82C504C
+FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
 	.string "Nous vous attendions!\p"
 	.string "Vous devez sauvegarder avant d'aller\n"
 	.string "plus loin. Veuillez patienter.$"
 
-VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C50C3
+VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Bienvenue dans la TENTE DE COMBAT\n"
 	.string "de VERGAZON!\p"
 	.string "Nous testons la confiance des\n"
 	.string "DRESSEURS envers leurs POKéMON.$"
 
-VerdanturfTown_BattleTentLobby_Text_TakeChallenge: @ 82C5129
+VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
 	.string "Voulez-vous relever le défi de la\n"
 	.string "TENTE DE COMBAT de VERGAZON?$"
 
-VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent: @ 82C5163
+VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 	.string "Dans la TENTE DE COMBAT de VERGAZON,\n"
 	.string "une règle importante est ajoutée.\p"
 	.string "Les DRESSEURS peuvent seulement\n"
@@ -146,17 +146,17 @@ VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent: @ 82C5163
 	.string "Assurez-vous de bien sauvegarder, ou\n"
 	.string "vous ne pourrez pas reprendre le défi.$"
 
-VerdanturfTown_BattleTentLobby_Text_ReturnFortified: @ 82C539A
+VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
 	.string "Revenez quand vous aurez fortifié\n"
 	.string "votre esprit et vos POKéMON.$"
 
 @ Unused
-VerdanturfTown_BattleTentLobby_Text_WhichLevelMode: @ 82C53DB
+VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
 	.string "There are two levels of difficulty,\n"
 	.string "Level 50 and Open Level.\l"
 	.string "Which is your choice of a challenge?$"
 
-VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50: @ 82C543D
+VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "Je regrette!\p"
 	.string "Vous n'avez pas trois POKéMON\n"
 	.string "aptes à participer.\p"
@@ -168,7 +168,7 @@ VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50: @ 82C543D
 	.string "Revenez me voir quand vous aurez\n"
 	.string "ce qu'il faut.$"
 
-VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen: @ 82C5538
+VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Je regrette!\p"
 	.string "Vous n'avez pas trois POKéMON\n"
 	.string "aptes à participer.\p"
@@ -180,48 +180,48 @@ VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLvOpen: @ 82C5538
 	.string "Revenez me voir quand vous aurez\n"
 	.string "ce qu'il faut.$"
 
-VerdanturfTown_BattleTentLobby_Text_SelectThreeMons: @ 82C5633
+VerdanturfTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Très bien. Maintenant, veuillez choisir\n"
 	.string "vos trois POKéMON.$"
 
-VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge: @ 82C5662
+VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "Avant d'entrer dans la TENTE DE COMBAT,\n"
 	.string "votre partie doit être sauvegardée. OK?$"
 
-VerdanturfTown_BattleTentLobby_Text_NowFollowMe: @ 82C56A2
+VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
 	.string "Très bien.\n"
 	.string "Suivez-moi, je vous prie.$"
 
-VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded: @ 82C56B8
+VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
 	.string "Ce fut un privilège de pouvoir assister\n"
 	.string "à un tel combat.\p"
 	.string "Votre résultat va être sauvegardé.\n"
 	.string "Veuillez patienter.$"
 
-VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak: @ 82C5731
+VerdanturfTown_BattleTentLobby_Text_AchievedThreeWinStreak:
 	.string "Trois victoires consécutives…\p"
 	.string "Les liens qui unissent votre esprit à\n"
 	.string "vos POKéMON sont solides et sincères.$"
 
-VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded: @ 82C5791
+VerdanturfTown_BattleTentLobby_Text_FeatWillBeRecorded:
 	.string "Votre résultat va être sauvegardé.\n"
 	.string "Je vous demande de patienter un peu.$"
 
-VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize: @ 82C57CD
+VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
 	.string "Pour récompenser ces trois victoires\n"
 	.string "consécutives, voici un prix.$"
 
-SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent: @ 82C5810
+SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Bienvenue dans la TENTE DE COMBAT\n"
 	.string "de POIVRESSEL!\p"
 	.string "Je serai votre guide pour le TOURNOI\n"
 	.string "COMBAT ECHANGE.$"
 
-SlateportCity_BattleTentLobby_Text_TakeChallenge: @ 82C586A
+SlateportCity_BattleTentLobby_Text_TakeChallenge:
 	.string "Voulez-vous relever le défi du\n"
 	.string "COMBAT ECHANGE?$"
 
-SlateportCity_BattleTentLobby_Text_ExplainSlateportTent: @ 82C589C
+SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
 	.string "Dans la TENTE DE COMBAT de POIVRESSEL\n"
 	.string "ont lieu des COMBATS ECHANGE avec des\l"
 	.string "POKéMON de location.\p"
@@ -238,28 +238,28 @@ SlateportCity_BattleTentLobby_Text_ExplainSlateportTent: @ 82C589C
 	.string "Si vous ne sauvegardez pas,\n"
 	.string "c'est la disqualification.$"
 
-SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit: @ 82C5AA5
+SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
 	.string "Nous espérons vous compter parmi\n"
 	.string "nos participants une prochaine fois.$"
 
 @ Unused
-SlateportCity_BattleTentLobby_Text_WhichLevelMode: @ 82C5AC9
+SlateportCity_BattleTentLobby_Text_WhichLevelMode:
 	.string "Which level do you wish to challenge?\n"
 	.string "Level 50 or Level 100?$"
 
-SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge: @ 82C5B06
+SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "Avant de commencer, votre partie doit\n"
 	.string "être sauvegardée. OK?$"
 
 @ Unused
-SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping: @ 82C5B4A
+SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
 	.string "Okay, I will hold your POKéMON for\n"
 	.string "safekeeping while you compete.$"
 
-SlateportCity_BattleTentLobby_Text_StepThisWay: @ 82C5B8C
+SlateportCity_BattleTentLobby_Text_StepThisWay:
 	.string "Entrez, je vous en prie.$"
 
-SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults: @ 82C5BA2
+SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
 	.string "Merci d'avoir joué!\p"
 	.string "Je vous rends vos POKéMON et reprends\n"
 	.string "les POKéMON de location.\p"
@@ -267,11 +267,11 @@ SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults: @ 82C5BA2
 	.string "Veuillez patienter.$"
 
 @ Unused
-SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals: @ 82C5C30
+SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
 	.string "I will return your POKéMON in exchange\n"
 	.string "for our rental POKéMON.$"
 
-SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons: @ 82C5C6F
+SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
 	.string "Félicitations! Vous avez gagné trois\n"
 	.string "COMBATS ECHANGE à la suite!\p"
 	.string "Je vous rends vos POKéMON et reprends\n"
@@ -279,22 +279,22 @@ SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons: @ 82C5C6F
 	.string "Je dois sauvegarder vos données.\n"
 	.string "Veuillez patienter.$"
 
-SlateportCity_BattleTentLobby_Text_AwardYouThisPrize: @ 82C5D14
+SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
 	.string "Pour récompenser ces trois victoires\n"
 	.string "consécutives, voici un prix.$"
 
-SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom: @ 82C5D52
+SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
 	.string "Oh?\n"
 	.string "On dirait que vous n'avez plus de place.\p"
 	.string "Faites de la place dans votre SAC et\n"
 	.string "revenez me voir.$"
 
-SlateportCity_BattleTentLobby_Text_BeenWaitingForYou: @ 82C5DA7
+SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
 	.string "Nous vous attendions!\p"
 	.string "Avant de reprendre votre défi, vous\n"
 	.string "devez sauvegarder la partie.$"
 
-SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting: @ 82C5DFA
+SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting:
 	.string "Je regrette!\p"
 	.string "Vous n'avez pas sauvegardé avant de\n"
 	.string "quitter votre dernier défi.\p"
@@ -302,43 +302,43 @@ SlateportCity_BattleTentLobby_Text_DidntSaveBeforeQuitting: @ 82C5DFA
 	.string "C'est dommage!$"
 
 @ Unused
-SlateportCity_BattleTentLobby_Text_ReturnPersonalMons: @ 82C5E85
+SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
 	.string "We'll return your personal POKéMON.$"
 
 @ Unused
-SlateportCity_BattleTentLobby_Text_ReceivedPrize: @ 82C5EA9
+SlateportCity_BattleTentLobby_Text_ReceivedPrize:
 	.string "{PLAYER} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
-SlateportCity_BattleTentLobby_Text_RulesAreListed: @ 82C5EC3
+SlateportCity_BattleTentLobby_Text_RulesAreListed:
 	.string "The Battle Swap rules are listed.$"
 
 @ Unused
-SlateportCity_BattleTentLobby_Text_ReadWhichHeading: @ 82C5EE5
+SlateportCity_BattleTentLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
-SlateportCity_BattleTentLobby_Text_ExplainBasicRules: @ 82C5F08
+SlateportCity_BattleTentLobby_Text_ExplainBasicRules:
 	.string "Au COMBAT ECHANGE, vous ne pouvez\n"
 	.string "utiliser que trois POKéMON.\p"
 	.string "Qu'ils aient été prêtés ou échangés,\n"
 	.string "votre équipe ne peut pas avoir deux\l"
 	.string "fois le même POKéMON.$"
 
-SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules: @ 82C5F9D
+SlateportCity_BattleTentLobby_Text_ExplainSwapPartnerRules:
 	.string "Vous pouvez échanger un POKéMON avec\n"
 	.string "le DRESSEUR que vous venez de battre.\p"
 	.string "Vous ne pouvez obtenir que les POKéMON\n"
 	.string "se trouvant dans son équipe.$"
 
-SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules: @ 82C6020
+SlateportCity_BattleTentLobby_Text_ExplainSwapNumberRules:
 	.string "A chaque fois que vous gagnez, vous\n"
 	.string "pouvez échanger l'un de vos POKéMON\l"
 	.string "avec l'un de ceux de votre adversaire.\p"
 	.string "Vous ne pouvez pas faire d'échange\n"
 	.string "avec le troisième DRESSEUR.$"
 
-SlateportCity_BattleTentLobby_Text_ExplainSwapNotes: @ 82C60C0
+SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
 	.string "Voici deux choses à savoir sur les\n"
 	.string "échanges de POKéMON.\p"
 	.string "Avant l'échange, vous ne pouvez pas\n"
@@ -350,22 +350,22 @@ SlateportCity_BattleTentLobby_Text_ExplainSwapNotes: @ 82C60C0
 	.string "Cet ordre reste le même lorsque vous\n"
 	.string "échangez des POKéMON.$"
 
-SlateportCity_BattleTentLobby_Text_ExplainMonRules: @ 82C61FE
+SlateportCity_BattleTentLobby_Text_ExplainMonRules:
 	.string "Tous les POKéMON de la TENTE DE COMBAT\n"
 	.string "de POIVRESSEL sont prêtés.\p"
 	.string "Les POKéMON sont tous de niveau 30.$"
 
 @ Unused
-VerdanturfTown_BattleTentLobby_Text_RulesAreListed2: @ 82C6261
+VerdanturfTown_BattleTentLobby_Text_RulesAreListed2:
 	.string "The VERDANTURF BATTLE TENT\n"
 	.string "rules are listed.$"
 
 @ Unused
-VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading: @ 82C628E
+VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
 	.string "Which heading do you want to read?$"
 
 @ Unused
-VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules: @ 82C62B1
+VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
 	.string "Here at the VERDANTURF BATTLE TENT,\n"
 	.string "POKéMON are required to think and\l"
 	.string "battle by themselves.\p"
@@ -374,7 +374,7 @@ VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules: @ 82C62B1
 	.string "depending on their nature.$"
 
 @ Unused
-VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules: @ 82C636D
+VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
 	.string "Depending on its nature, a POKéMON\n"
 	.string "may prefer to attack no matter what.\p"
 	.string "Another POKéMON may prefer to protect\n"
@@ -388,7 +388,7 @@ VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules: @ 82C636D
 	.string "it has trouble using.$"
 
 @ Unused
-VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules: @ 82C64BA
+VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
 	.string "There are offensive moves that inflict\n"
 	.string "direct damage on the foe.\p"
 	.string "There are defensive moves that are\n"
@@ -402,7 +402,7 @@ VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules: @ 82C64BA
 	.string "these three categories.$"
 
 @ Unused
-VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules: @ 82C6612
+VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
 	.string "When not under command by its TRAINER,\n"
 	.string "a POKéMON may be unable to effectively\l"
 	.string "use certain moves.\p"
@@ -413,14 +413,14 @@ VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules: @ 82C6612
 	.string "be unable to live up to its potential.$"
 
 @ Unused
-VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules: @ 82C671E
+VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:
 	.string "Depending on its nature, a POKéMON may\n"
 	.string "start using moves that don't match its\l"
 	.string "nature when it is in trouble.\p"
 	.string "If a POKéMON begins behaving oddly\n"
 	.string "in a pinch, watch it carefully.$"
 
-BattleTentLobby_Text_ExplainLevelRules: @ 82C67CD
+BattleTentLobby_Text_ExplainLevelRules:
 	.string "Dans cette TENTE DE COMBAT, le niveau\n"
 	.string "de vos adversaires est ajusté en\l"
 	.string "fonction du niveau de vos POKéMON.\p"
@@ -428,6 +428,6 @@ BattleTentLobby_Text_ExplainLevelRules: @ 82C67CD
 	.string "vous affronterez n'aura de POKéMON\l"
 	.string "de niveau inférieur à 30.$"
 
-VerdanturfTown_BattleTentLobby_Text_RulesAreListed: @ 82C6878
+VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
 	.string "Règles de la TENTE DE COMBAT de\n"
 	.string "VERGAZON.$"
