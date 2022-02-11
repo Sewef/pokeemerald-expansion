@@ -719,9 +719,9 @@ static const u8 sDomeFossilDesc[] = _(
     "aquatique.");
 
 static const u8 sOldAmberDesc[] = _(
-    "A stone containing\n"
-    "the genes of an\n"
-    "ancient Pokémon.");
+    "Une pierre\n"
+    "contenant l'ADN\n"
+    "d'un ancien {PKMN}.");
 
 static const u8 sRootFossilDesc[] = _(
     "Fossile d'un très\n"
@@ -834,26 +834,6 @@ static const u8 sBlackApricornDesc[] = _(
     "A black apricorn.\n"
     "It has an inde-\n"
     "scribable scent.");
-
-static const u8 sYellowNectarDesc[] = _(
-    "Flower nectar that\n"
-    "changes the form\n"
-    "of certain Pokémon.");
-
-static const u8 sPinkNectarDesc[] = _(
-    "Flower nectar that\n"
-    "changes the form\n"
-    "of certain Pokémon.");
-
-static const u8 sPurpleNectarDesc[] = _(
-    "Flower nectar that\n"
-    "changes the form\n"
-    "of certain Pokémon.");
-
-static const u8 sRareBoneDesc[] = _(
-    "A very rare bone.\n"
-    "It can be sold at\n"
-    "a high price.");
 
 // Mail
 static const u8 sOrangeMailDesc[] = _(
@@ -1941,9 +1921,9 @@ static const u8 sYellowScarfDesc[] = _(
 
 // EV Gain Modifiers
 static const u8 sMachoBraceDesc[] = _(
-    "A hold item that\n"
-    "promotes growth,\n"
-    "but reduces Speed.");
+    "Objet tenu augmen-\n"
+    "tant la croissance.\n"
+    "Baisse la VITESSE.");
 
 static const u8 sPowerWeightDesc[] = _(
     "A hold item that\n"
@@ -2161,11 +2141,6 @@ static const u8 sWhiteHerbDesc[] = _(
     "Objet tenu qui\n"
     "restaure les stats\n"
     "baissées.");
-
-static const u8 sMachoBraceDesc[] = _(
-    "Objet tenu augmen-\n"
-    "tant la croissance.\n"
-    "Baisse la VITESSE.");
 
 static const u8 sExpShareDesc[] = _(
     "Objet tenu pour\n"
@@ -3359,9 +3334,9 @@ static const u8 sSootSackDesc[] = _(
     "dres volcaniques.");
 
 static const u8 sPokeFluteDesc[] = _(
-    "A sweet-sounding\n"
-    "flute that awakens\n"
-    "Pokémon.");
+    "Une flûte pouvant\n"
+    "réveiller n'importe\n"
+    "quel POKéMON.");
 
 static const u8 sFameCheckerDesc[] = _(
     "Stocke les infos\n"
@@ -3472,11 +3447,6 @@ static const u8 sOaksParcelDesc[] = _(
     "PROF. CHEN d'une\n"
     "BOUTIQUE {PKMN}.");
 
-static const u8 sPokeFluteDesc[] = _(
-    "Une flûte pouvant\n"
-    "réveiller n'importe\n"
-    "quel POKéMON.");
-
 static const u8 sSecretKeyDesc[] = _(
     "La clé de l'entrée\n"
     "de l'ARENE de\n"
@@ -3491,11 +3461,6 @@ static const u8 sGoldTeethDesc[] = _(
     "Une dent en or\n"
     "du gardien du\n"
     "PARC SAFARI.");
-
-static const u8 sOldAmberDesc[] = _(
-    "Une pierre\n"
-    "contenant l'ADN\n"
-    "d'un ancien {PKMN}.");
 
 static const u8 sCardKeyDesc[] = _(
     "Carte magnétique\n"

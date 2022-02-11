@@ -1,8 +1,8 @@
-Questionnaire_Text_FillOutQuestionnaire::
+Questionnaire_Text_FillOut::
 	.string "Il y a un questionnaire…\n"
 	.string "Voulez-vous y répondre?$"
 
-Questionnaire_Text_QuestionnaireThankYou::
+Questionnaire_Text_ThankYou::
 	.string "Merci d'avoir pris le temps de\n"
 	.string "répondre à notre questionnaire.\p"
 	.string "Vos réponses nous permettront\n"
@@ -30,13 +30,13 @@ Questionnaire_Text_YouCanAccessMysteryEvent::
 	.string "Après avoir sauvegardé, vous\n"
 	.string "aurez accès aux EVENEMENTS MYSTERE.$"
 
-Questionnaire_Text_TheresATicketForYou::
+MysteryGift_Text_TheresATicketForYou::
 	.string "Merci d'utiliser le système\n"
 	.string "EVENEMENTS MYSTERE.\p"
 	.string "Vous devez être {PLAYER}.\n"
 	.string "Il y a un ticket pour vous.$"
 
-Questionnaire_Text_TryUsingItAtLilycovePort::
+MysteryGift_Text_TryUsingItAtLilycovePort::
 	.string "Il peut être utilisé au port de\n"
 	.string "NENUCRIQUE.\p"
 	.string "Essayez-le pour voir de quoi \n"

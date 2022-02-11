@@ -3584,7 +3584,7 @@ static void ExpandBattleTextBuffPlaceholders(const u8 *src, u8 *dst)
                 GetMonData(&gPlayerParty[src[srcID + 2]], MON_DATA_NICKNAME, text);
             else
                 GetMonData(&gEnemyParty[src[srcID + 2]], MON_DATA_NICKNAME, text);
-            StringGetEnd10(text);
+            StringGet_Nickname(text);
             StringAppend(dst, text);
             
             if (GetBattlerSide(src[srcID + 1]) != B_SIDE_PLAYER)

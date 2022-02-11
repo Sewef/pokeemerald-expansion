@@ -23,7 +23,7 @@ GiddyText_SoAmusing::
 GiddyText_SoMagical::
 	.string " vraiment magique!$"
 
-gOtherTexGiddyText_Ist_Is::
+GiddyText_Is::
 	.string " est$"
 
 GiddyText_DontYouAgree::
